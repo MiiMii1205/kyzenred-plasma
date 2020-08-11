@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="16"
+   version="1"
+   id="svg8"
+   sodipodi:docname="checkmarks.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <style
+     id="current-color-scheme" />
+  <svg:metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1720"
+     inkscape:window-height="1298"
+     id="namedview10"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="5.8749999"
+     inkscape:cx="14.113229"
+     inkscape:cy="-26.917912"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8">
+    <sodipodi:guide
+       position="18,16"
+       orientation="0,1"
+       id="guide861"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16,14"
+       orientation="1,0"
+       id="guide863"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32,0"
+       orientation="0,1"
+       id="guide865"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32,0"
+       orientation="1,0"
+       id="guide867"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <svg:g
+     id="radiobutton"
+     transform="translate(-97.5,-200)">
+    <svg:path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       d="m 105.49902,200 -7.019531,7.02148 v 1.95703 L 105.49902,216 l 7.02149,-7.02149 v -1.95703 z m 0,2 5.26563,5.26562 v 1.46875 L 105.49902,214 l -5.26563,-5.26563 v -1.46875 z m 0.002,3 -2.63281,2.63281 v 0.73438 l 2.63281,2.63281 2.63281,-2.63281 v -0.73438 z"
+       id="path880"
+       class="ColorScheme-Highlight" />
+  </svg:g>
+  <svg:g
+     id="checkbox"
+     transform="translate(-256.5,-200)"
+     class="ColorScheme-Highlight">
+    <svg:path
+       style="fill:currentColor"
+       transform="translate(256.5,200)"
+       d="M 22.781873,5.4557941e-6 16.000003,6.7818757 16,16 l 9.218225,-10e-7 6.78187,-6.7818702 L 32,0 Z M 30.23948,3.7216295 22.906214,12.40603 18.182395,8.4351344 22.787603,10.157108 Z"
+       id="path5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </svg:g>
+</svg:svg>

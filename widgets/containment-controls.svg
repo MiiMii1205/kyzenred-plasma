@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   version="1"
+   id="svg132"
+   sodipodi:docname="containment-controls.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <svg:metadata
+     id="metadata136">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+    <style
+       id="current-color-scheme" />
+  </svg:metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1720"
+     inkscape:window-height="1363"
+     id="namedview134"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="105.45142"
+     inkscape:cy="34.49148"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg132"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-center="true">
+    <sodipodi:guide
+       position="12.00001,51.468801"
+       orientation="-0.70710678,0.70710678"
+       id="guide161"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.878906,55.09375"
+       orientation="-0.70710678,0.70710678"
+       id="guide165"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.03138,44.000001"
+       orientation="0.70710678,0.70710678"
+       id="guide167"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17.6875,50.593751"
+       orientation="0.70710678,0.70710678"
+       id="guide169"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="14.03121,51.500001"
+       orientation="0.70710678,0.70710678"
+       id="guide171"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.03138,56.000001"
+       orientation="1,0"
+       id="guide173"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="17.6875,49.203126"
+       orientation="1,0"
+       id="guide185"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.37501,47.843801"
+       orientation="1,0"
+       id="guide187"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.03138,44.000001"
+       orientation="-0.70710678,0.70710678"
+       id="guide193"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.03121,51.500001"
+       orientation="0,1"
+       id="guide195"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.03121,44.000001"
+       orientation="1,0"
+       id="guide197"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="14.03121,44.000001"
+       orientation="1,0"
+       id="guide199"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.03121,44.000001"
+       orientation="0,1"
+       id="guide201"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.2125,12.0406"
+       orientation="1,0"
+       id="guide304"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7,11.0406"
+       orientation="1,0"
+       id="guide306"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <svg:defs
+     id="defs19">
+    <svg:linearGradient
+       id="linearGradient1290">
+      <svg:stop
+         style="stop-color:#000000;stop-opacity:0.25"
+         offset="0"
+         id="stop1286" />
+      <svg:stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop1288" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       id="linearGradient1284">
+      <svg:stop
+         style="stop-color:#000000;stop-opacity:0.25"
+         offset="0"
+         id="stop1280" />
+      <svg:stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop1282" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       id="linearGradient1254">
+      <svg:stop
+         id="stop1250"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0.1" />
+      <svg:stop
+         id="stop1252"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       id="linearGradient4303">
+      <svg:stop
+         style="stop-color:#00635b"
+         offset="0"
+         id="stop2" />
+      <svg:stop
+         style="stop-color:#00a698"
+         offset="1"
+         id="stop4" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       id="linearGradient4291">
+      <svg:stop
+         style="stop-color:#007584"
+         offset="0"
+         id="stop7" />
+      <svg:stop
+         style="stop-color:#00a698"
+         offset="1"
+         id="stop9" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       id="linearGradient4297"
+       x1="266"
+       x2="266"
+       y1="108"
+       y2="112"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4291" />
+    <svg:linearGradient
+       id="linearGradient4301"
+       x1="115"
+       x2="115"
+       y1="103"
+       y2="107"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4303" />
+    <svg:linearGradient
+       id="linearGradient4315"
+       x1="266"
+       x2="266"
+       y1="121"
+       y2="118"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4291" />
+    <svg:linearGradient
+       id="linearGradient4317"
+       x1="101"
+       x2="101"
+       y1="118"
+       y2="114"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4303" />
+    <svg:linearGradient
+       id="linearGradient4325"
+       x1="268"
+       x2="268"
+       y1="112"
+       y2="108"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4303" />
+    <svg:linearGradient
+       id="linearGradient4333"
+       x1="91"
+       x2="95"
+       y1="80.5"
+       y2="80.5"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4303" />
+    <svg:linearGradient
+       id="linearGradient4341"
+       x1="106"
+       x2="102"
+       y1="67"
+       y2="67"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1284" />
+    <svg:linearGradient
+       gradientTransform="matrix(0,-1,-1,0,334,214)"
+       id="linearGradient4341-9"
+       x1="106"
+       x2="102"
+       y1="67"
+       y2="67"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1254" />
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1284"
+       id="linearGradient1298"
+       x1="269"
+       y1="108"
+       x2="269"
+       y2="112"
+       gradientUnits="userSpaceOnUse" />
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1290"
+       id="linearGradient1302"
+       gradientUnits="userSpaceOnUse"
+       x1="115"
+       y1="103"
+       x2="115"
+       y2="107" />
+    <svg:linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1290"
+       id="linearGradient1306"
+       gradientUnits="userSpaceOnUse"
+       x1="101"
+       y1="118"
+       x2="101"
+       y2="114" />
+  </svg:defs>
+  <svg:rect
+     id="hint-stretch-borders"
+     style="opacity:0.65;fill:#023812"
+     width="5.221"
+     height="5.403"
+     x="-10"
+     y="0" />
+  <svg:g
+     id="north-center"
+     transform="translate(-152,-4)">
+    <svg:path
+       style="fill:currentColor"
+       d="m 264,112 v 5 h 5 v -5 z"
+       id="path22"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight" />
+  </svg:g>
+  <svg:g
+     id="north-top"
+     style="fill:url(#linearGradient4297)"
+     transform="translate(-152,-5)">
+    <svg:path
+       style="fill:currentColor;fill-opacity:1"
+       transform="translate(152,5)"
+       d="m 112,103 v 1 1 2 h 5 v -2 -1 -1 z"
+       id="path25"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight" />
+    <svg:path
+       id="path1300"
+       d="m 112,103 0,1 0,1 0,2 5,0 0,-2 0,-1 0,-1 -5,0 z"
+       transform="translate(152,5)"
+       style="fill:url(#linearGradient1302);fill-opacity:1" />
+  </svg:g>
+  <svg:g
+     id="north-bottom"
+     transform="translate(-152,-3)">
+    <svg:path
+       style="fill:currentColor"
+       transform="translate(152,3)"
+       d="m 112,114 v 3 1 h 5 v -1 -3 z"
+       id="path28"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight" />
+  </svg:g>
+  <svg:g
+     id="south-center"
+     transform="translate(-165,-4)">
+    <svg:path
+       style="fill:currentColor"
+       d="m 264,112 v 5 h 5 v -5 z"
+       id="path31"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight" />
+  </svg:g>
+  <svg:g
+     id="south-top"
+     transform="translate(-165,-5)">
+    <svg:path
+       style="fill:currentColor"
+       transform="translate(165,5)"
+       d="m 99,103 v 1 1 2 h 5 v -2 -1 -1 z"
+       id="path34"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight" />
+  </svg:g>
+  <svg:g
+     id="south-bottom"
+     style="fill:url(#linearGradient4315)"
+     transform="translate(-165,-3)">
+    <svg:path
+       style="fill:currentColor;fill-opacity:1"
+       transform="translate(165,3)"
+       d="m 99,114 v 3 1 h 5 v -1 -3 z"
+       id="path37"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight" />
+    <svg:path
+       id="path1304"
+       d="m 99,114 0,3 0,1 5,0 0,-1 0,-3 -5,0 z"
+       transform="translate(165,3)"
+       style="fill:url(#linearGradient1306);fill-opacity:1" />
+  </svg:g>
+  <svg:g
+     id="east-center"
+     transform="matrix(0,-1,1,0,-16,334)">
+    <svg:path
+       style="fill:currentColor"
+       d="m 264,112 v 5 h 5 v -5 z"
+       id="path40"
+       class="ColorScheme-Highlight"
+       inkscape:connector-curvature="0" />
+  </svg:g>
+  <svg:g
+     id="east-left"
+     transform="matrix(0,-1,1,0,-17,334)">
+    <svg:path
+       style="fill:currentColor"
+       transform="rotate(90,158.5,175.5)"
+       d="m 91,65 v 5 h 1 3 v -5 h -3 z"
+       id="path43"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight" />
+  </svg:g>
+  <svg:g
+     id="east-right"
+     transform="matrix(0,-1,1,0,-15,334)">
+    <svg:path
+       style="fill:url(#linearGradient4341);fill-opacity:1.0"
+       transform="matrix(0,1,-1,0,334,15)"
+       d="m 102,65 0,5 3,0 1,0 0,-5 -1,0 -3,0 z"
+       id="path46" />
+    <svg:path
+       id="path443"
+       d="m 102,65 v 5 h 4 v -5 z"
+       transform="rotate(90,159.5,174.5)"
+       style="fill:currentColor"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     id="west-center"
+     transform="matrix(0,-1,1,0,-16,347)">
+    <svg:path
+       style="fill:currentColor"
+       d="m 264,112 v 5 h 5 v -5 z"
+       id="path49"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight" />
+  </svg:g>
+  <svg:g
+     id="west-left"
+     style="fill:url(#linearGradient4325)"
+     transform="matrix(0,-1,1,0,-17,347)">
+    <svg:path
+       style="fill:currentColor;fill-opacity:1"
+       transform="rotate(90,165,182)"
+       d="m 91,78 v 5 h 1 3 v -5 h -3 z"
+       id="path52"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight" />
+    <svg:path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient1298);fill-opacity:1"
+       d="m 269,112 h -5 v -3 -1 h 5 v 1 z"
+       id="path46-2" />
+  </svg:g>
+  <svg:g
+     id="west-right"
+     transform="matrix(0,-1,1,0,-15,347)">
+    <svg:path
+       style="fill:currentColor"
+       transform="rotate(90,166,181)"
+       d="m 102,78 v 5 h 3 1 v -5 h -1 z"
+       id="path55"
+       class="ColorScheme-Highlight"
+       inkscape:connector-curvature="0" />
+  </svg:g>
+  <svg:g
+     id="vertical-centerindicator"
+     transform="translate(1,15)">
+    <svg:rect
+       style="opacity:0.2;fill:currentColor"
+       width="42"
+       height="1"
+       x="11"
+       y="32"
+       id="rect58"
+       class="ColorScheme-ViewBackground" />
+    <svg:rect
+       style="fill:currentColor"
+       width="42"
+       height="1"
+       x="11"
+       y="33"
+       id="rect60"
+       class="ColorScheme-ButtonHover" />
+    <svg:rect
+       style="fill:currentColor"
+       width="42"
+       height="1"
+       x="11"
+       y="31"
+       id="rect62"
+       class="ColorScheme-ButtonHover" />
+  </svg:g>
+  <svg:g
+     id="horizontal-centerindicator"
+     transform="translate(-4,17)">
+    <svg:rect
+       style="opacity:0.2;fill:currentColor"
+       width="42"
+       height="1"
+       x="-31"
+       y="8"
+       transform="rotate(-90)"
+       id="rect65"
+       class="ColorScheme-ViewBackground" />
+    <svg:rect
+       style="fill:currentColor"
+       width="42"
+       height="1"
+       x="-31"
+       y="9"
+       transform="rotate(-90)"
+       id="rect67"
+       class="ColorScheme-ButtonHover" />
+    <svg:rect
+       style="fill:currentColor"
+       width="42"
+       height="1"
+       x="-31"
+       y="7"
+       transform="rotate(-90)"
+       id="rect69"
+       class="ColorScheme-ButtonHover" />
+  </svg:g>
+  <svg:g
+     id="west-minslider"
+     style="enable-background:new"
+     transform="translate(5.0312,68.003199)">
+    <svg:g
+       transform="translate(-405,100)"
+       id="g74">
+      <svg:path
+         style="fill:currentColor"
+         d="m 13.03125,68 -1.755859,1.755859 v 0.488282 L 13.03125,72 14.787109,70.244141 v -0.488282 z m 0,4.753906 L 8.375,77.40625 v 1.390625 L 9.0546875,79.476562 12.03125,76.5 V 83 l 1,1 1,-1 v -6.5 l 2.976562,2.976562 0.679688,-0.679687 V 77.40625 Z"
+         transform="translate(399.9688,-168.0032)"
+         id="path183"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ViewText" />
+    </svg:g>
+  </svg:g>
+  <svg:g
+     id="north-offsetslider"
+     style="enable-background:new"
+     transform="translate(37,108.0004)">
+    <svg:path
+       style="fill:currentColor;stroke-width:1.08593297;enable-background:new"
+       d="m 8.020055,1.7871 5.05637,5.05213 v 1.51012 l -0.7381,0.7381 -3.23234,-3.23235 v 7.05857 L 8.020055,13.9996 6.934115,12.91367 V 5.8551 L 3.701772,9.08745 2.963675,8.34935 V 6.83923 Z"
+       id="path183-62-9-1"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ViewText"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:transform-center-y="6.10625" />
+  </svg:g>
+  <svg:g
+     id="north-maxslider"
+     style="enable-background:new"
+     transform="translate(6.9988,89.976669)">
+    <svg:g
+       style="enable-background:new"
+       transform="rotate(90,160.50003,-244.49229)"
+       id="g74-7">
+      <svg:path
+         style="fill:currentColor"
+         d="m 13.03125,68 -1.755859,1.755859 v 0.488282 L 13.03125,72 14.787109,70.244141 v -0.488282 z m 0,4.753906 L 8.375,77.40625 v 1.390625 L 9.0546875,79.476562 12.03125,76.5 V 83 l 1,1 1,-1 v -6.5 l 2.976562,2.976562 0.679688,-0.679687 V 77.40625 Z"
+         transform="translate(399.9688,-168.0032)"
+         id="path183-0"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ViewText" />
+    </svg:g>
+  </svg:g>
+  <svg:g
+     id="east-offsetslider"
+     style="enable-background:new"
+     transform="translate(5.0016,107.9598)">
+    <svg:g
+       transform="translate(-305,99.003)"
+       id="g89">
+      <svg:path
+         style="fill:currentColor;stroke-width:1.08593297;enable-background:new"
+         d="m 319.2109,-91.021962 -5.05213,-5.056375 h -1.51012 l -0.7381,0.738096 3.23235,3.232346 h -7.05857 l -1.08593,1.085933 1.08593,1.085933 h 7.05857 l -3.23235,3.232345 0.7381,0.738097 h 1.51012 z"
+         id="path183-62"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ViewText"
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:transform-center-x="6.10625" />
+    </svg:g>
+  </svg:g>
+  <svg:g
+     id="east-minslider"
+     style="enable-background:new"
+     transform="translate(22.0312,68.003199)">
+    <svg:g
+       style="enable-background:new"
+       transform="translate(-404.98443,100.02729)"
+       id="g74-3">
+      <svg:path
+         style="fill:currentColor"
+         d="m 412.98443,-100.0032 -1.75586,1.755859 v 0.488282 l 1.75586,1.755859 1.75585,-1.755859 v -0.488282 z m 0,4.753906 -4.65625,4.652344 v 1.390625 l 0.67968,0.679687 2.97657,-2.976562 v 6.5 l 1,1 1,-1 v -6.5 l 2.97656,2.976562 0.67969,-0.679687 v -1.390625 z"
+         id="path183-6"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ViewText" />
+    </svg:g>
+  </svg:g>
+  <svg:g
+     id="west-maxslider"
+     style="enable-background:new"
+     transform="matrix(1,0,0,-1,38.0312,83.996799)">
+    <svg:g
+       transform="translate(-405,100)"
+       id="g99">
+      <svg:g
+         style="enable-background:new"
+         transform="translate(0.01557)"
+         id="g74-3-7">
+        <svg:path
+           style="fill:currentColor"
+           d="m 412.98443,-100.0032 -1.75586,1.755859 v 0.488282 l 1.75586,1.755859 1.75585,-1.755859 v -0.488282 z m 0,4.753906 -4.65625,4.652344 v 1.390625 l 0.67968,0.679687 2.97657,-2.976562 v 6.5 l 1,1 1,-1 v -6.5 l 2.97656,2.976562 0.67969,-0.679687 v -1.390625 z"
+           id="path183-6-5"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-ViewText" />
+      </svg:g>
+    </svg:g>
+  </svg:g>
+  <svg:g
+     id="east-maxslider"
+     style="enable-background:new"
+     transform="matrix(1,0,0,-1,55.0312,83.996799)">
+    <svg:g
+       transform="translate(-405,100)"
+       id="g104">
+      <svg:g
+         style="enable-background:new"
+         transform="translate(0.01557)"
+         id="g74-3-7-3">
+        <svg:path
+           style="fill:currentColor"
+           d="m 412.98443,-100.0032 -1.75586,1.755859 v 0.488282 l 1.75586,1.755859 1.75585,-1.755859 v -0.488282 z m 0,4.753906 -4.65625,4.652344 v 1.390625 l 0.67968,0.679687 2.97657,-2.976562 v 6.5 l 1,1 1,-1 v -6.5 l 2.97656,2.976562 0.67969,-0.679687 v -1.390625 z"
+           id="path183-6-5-5"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-ViewText" />
+      </svg:g>
+    </svg:g>
+  </svg:g>
+  <svg:g
+     id="south-maxslider"
+     style="enable-background:new"
+     transform="translate(25.9988,89.968849)">
+    <svg:g
+       style="enable-background:new"
+       transform="rotate(90,160.49125,-244.49325)"
+       id="g74-7-6">
+      <svg:path
+         style="fill:currentColor"
+         d="m 13.03125,68 -1.755859,1.755859 v 0.488282 L 13.03125,72 14.787109,70.244141 v -0.488282 z m 0,4.753906 L 8.375,77.40625 v 1.390625 L 9.0546875,79.476562 12.03125,76.5 V 83 l 1,1 1,-1 v -6.5 l 2.976562,2.976562 0.679688,-0.679687 V 77.40625 Z"
+         transform="translate(399.9688,-168.0032)"
+         id="path183-0-0"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ViewText" />
+    </svg:g>
+  </svg:g>
+  <svg:g
+     id="north-minslider"
+     style="enable-background:new"
+     transform="matrix(-1,0,0,1,61.0012,89.968849)">
+    <svg:g
+       id="south-maxslider-6"
+       style="enable-background:new">
+      <svg:g
+         style="enable-background:new"
+         transform="rotate(90,160.49125,-244.49325)"
+         id="g74-7-6-2">
+        <svg:path
+           style="fill:currentColor"
+           d="m 13.03125,68 -1.755859,1.755859 v 0.488282 L 13.03125,72 14.787109,70.244141 v -0.488282 z m 0,4.753906 L 8.375,77.40625 v 1.390625 L 9.0546875,79.476562 12.03125,76.5 V 83 l 1,1 1,-1 v -6.5 l 2.976562,2.976562 0.679688,-0.679687 V 77.40625 Z"
+           transform="translate(399.9688,-168.0032)"
+           id="path183-0-0-6"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-ViewText" />
+      </svg:g>
+    </svg:g>
+  </svg:g>
+  <svg:g
+     id="south-minslider"
+     style="enable-background:new"
+     transform="matrix(-1,0,0,1,80.0012,89.968849)">
+    <svg:g
+       id="south-maxslider-6-1"
+       style="enable-background:new">
+      <svg:g
+         style="enable-background:new"
+         transform="rotate(90,160.49125,-244.49325)"
+         id="g74-7-6-2-8">
+        <svg:path
+           style="fill:currentColor"
+           d="m 13.03125,68 -1.755859,1.755859 v 0.488282 L 13.03125,72 14.787109,70.244141 v -0.488282 z m 0,4.753906 L 8.375,77.40625 v 1.390625 L 9.0546875,79.476562 12.03125,76.5 V 83 l 1,1 1,-1 v -6.5 l 2.976562,2.976562 0.679688,-0.679687 V 77.40625 Z"
+           transform="translate(399.9688,-168.0032)"
+           id="path183-0-0-6-7"
+           inkscape:connector-curvature="0"
+           class="ColorScheme-ViewText" />
+      </svg:g>
+    </svg:g>
+  </svg:g>
+  <svg:g
+     id="west-offsetslider"
+     style="enable-background:new"
+     transform="matrix(-1,0,0,1,37.2109,107.9598)">
+    <svg:path
+       style="fill:currentColor;stroke-width:1.08593297;enable-background:new"
+       d="M 14.2109,8.020095 9.1587699,2.963725 h -1.51012 l -0.7381,0.7381 3.2323501,3.23234 H 3.08433 l -1.08593,1.08593 1.08593,1.08594 h 7.05857 l -3.2323501,3.232343 0.7381,0.738097 h 1.51012 z"
+       id="path183-62-9"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ViewText"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:transform-center-x="-6.10625" />
+  </svg:g>
+  <svg:g
+     id="south-offsetslider"
+     style="enable-background:new"
+     transform="matrix(1,0,0,-1,52,123.7871)">
+    <svg:path
+       style="fill:currentColor;stroke-width:1.08593297;enable-background:new"
+       d="m 8.020055,1.7871 5.05637,5.05213 v 1.51012 l -0.7381,0.7381 -3.23234,-3.23235 v 7.05857 L 8.020055,13.9996 6.934115,12.91367 V 5.8551 L 3.701772,9.08745 2.963675,8.34935 V 6.83923 Z"
+       id="path183-62-9-1-2"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ViewText"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:transform-center-y="-6.10625" />
+  </svg:g>
+</svg:svg>

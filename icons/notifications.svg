@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg72"
+   width="32"
+   height="32"
+   version="1.1"
+   sodipodi:docname="notifications.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+              <style
+     id="current-color-scheme" />
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1720"
+     inkscape:window-height="1298"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-0.89159609"
+     inkscape:cy="39.097717"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg72" />
+  <g
+     id="22-22-notifications-disabled"
+     transform="translate(0,-22)">
+    <rect
+       id="rect861"
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="0"
+       y="0" />
+    <path
+       style="fill:currentColor"
+       d="m 12.4645,12.46321 h 1.24285 L 16,14.75661 l 2.29338,-2.2934 h 1.24212 v 1.27232 l -2.27828,2.27828 2.27828,2.27828 v 1.2447 H 18.26575 L 16,17.27103 13.73425,19.53679 H 12.4645 v -1.2447 L 14.74278,16.01381 12.4645,13.7627 Z"
+       id="path145-1-7-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       class="ColorScheme-ButtonHover" />
+    <path
+       style="opacity:0.3;fill:currentColor"
+       d="m 11.000126,2.99954 -7.021485,7.02149 v 1.95703 l 7.021485,7.02148 0.46289,-0.46289 V 17.8765 l 1.861328,-1.85938 -0.675781,-0.66601 -1.648437,1.64843 -5.265625,-5.26562 v -1.46875 l 5.265625,-5.26563 5.265625,5.26563 v 1.46875 l -0.935547,0.93554 0.669922,0.67188 1.878906,-1.87891 h 0.142578 v -1.4414 z m -0.07422,3.45703 -0.925781,0.96875 v 5.03125 h 1.074218 l 0.388672,-0.40625 v -0.58789 h 0.53711 V 6.45657 Z m 0.07422,7 -0.916016,0.91602 v 0.25391 l 0.916016,0.91601 0.916015,-0.91601 -0.453125,-0.44727 v -0.25977 z"
+       id="path1149-3-5-6"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="notifications-disabled">
+    <rect
+       id="rect905"
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0" />
+    <path
+       style="opacity:0.3;fill:currentColor"
+       d="M 15.498049,4 5.408206,14.09375 v 2.814453 L 15.498049,27 19.638674,22.859375 18.128909,21.369141 15.498049,24 8.039065,16.541015 V 14.460937 L 15.498049,7 22.96094,14.460937 v 2.080078 l -1.623047,1.623047 1.498047,1.5 2.755859,-2.755859 V 14.09375 Z M 15.392581,8.9999998 14.000002,10.392578 V 17 h 1.607422 l 1.392578,-1.392578 V 8.9999998 Z M 15.500002,19 14.183596,20.316406 v 0.367188 L 15.500002,22 16.816409,20.683594 v -0.367188 z"
+       id="pathrot-3-6-7-3-6-6-5"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <path
+       style="fill:currentColor"
+       d="m 18.00028,17.997543 h 1.75767 l 3.24233,3.243367 3.24336,-3.243367 h 1.75664 v 1.799354 l -3.22201,3.221997 3.22201,3.22201 v 1.760278 h -1.79571 l -3.20429,-3.204291 -3.20429,3.204291 h -1.79571 v -1.760278 l 3.22201,-3.22201 -3.22201,-3.183583 z"
+       id="path145-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       class="ColorScheme-ButtonHover" />
+  </g>
+</svg>

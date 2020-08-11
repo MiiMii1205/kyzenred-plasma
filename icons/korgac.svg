@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="korgac.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <style
+     id="current-color-scheme" />
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1720"
+     inkscape:window-height="1298"
+     id="namedview14"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="23.369059"
+     inkscape:cy="13.078641"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12">
+    <sodipodi:guide
+       position="-33.186441,-30.055479"
+       orientation="1,0"
+       id="guide836"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-23.288003,-27.508609"
+       orientation="0,1"
+       id="guide838"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="22-22-korgac">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="32"
+       y="10"
+       id="rect2" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor;stroke-width:0.6923089"
+       d="m 42.998047,11.996079 -7.898,7.898 v 2.20403 l 7.898,7.898 7.898,-7.898 v -2.20403 z m 0,2.769235 5.468159,5.468158 v 1.525244 l -5.468159,5.468158 -5.468158,-5.468158 v -1.525244 z m -0.259616,1.384618 -1.125002,1.12365 v 4.723115 h 4.723115 l 1.12365,-1.125002 v -0.951924 h -3.769838 v -3.769839 z"
+       id="path1038-3"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="korgac">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect7" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor;stroke-width:0.96153849"
+       d="M 15.5,3.0000001 4.530574,13.969426 v 3.061148 L 15.5,28 26.469426,17.030574 v -3.061148 z m 0,3.8461539 7.594652,7.594651 v 2.11839 L 15.5,24.153846 7.9053491,16.559195 v -2.11839 z m -0.360577,1.9230769 -1.5625,1.5606221 v 6.559871 h 6.559871 l 1.560622,-1.5625 V 14.005109 H 16.461538 V 8.7692309 Z"
+       id="path1038"
+       class="ColorScheme-Text" />
+  </g>
+</svg>

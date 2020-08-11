@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="drive.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+            <style
+     id="current-color-scheme" />
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1720"
+     inkscape:window-height="1298"
+     id="namedview14"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="35.663856"
+     inkscape:cy="9.0297058"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <g
+     id="22-22-drive-harddisk"
+     transform="translate(32,10)">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       ry="0"
+       id="rect2"
+       rx="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor;stroke-width:0.66666669"
+       d="M 6.5130207,3 4,5.5130207 V 19 H 15.486979 L 18,16.486979 V 3 Z M 11,5 15.388021,9.3880207 V 10.611979 L 11,15 H 6.6119793 V 9.3880207 Z M 11,7.6666667 8.9518227,9.714844 v 0.570312 L 11,12.333333 13.046875,10.285156 V 9.714844 Z"
+       id="path848-3"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="drive-harddisk">
+    <rect
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       ry="0"
+       id="rect7"
+       rx="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       d="M 8.7695308,4 4.9999998,7.769531 V 28 H 22.230469 L 26,24.230469 V 4 Z M 15.5,7 l 6.582031,6.582031 v 1.835938 L 15.5,22 H 8.9179688 v -8.417969 z m 0,4 -3.072266,3.072266 v 0.855468 L 15.5,18 18.570312,14.927734 v -0.855468 z"
+       id="path848"
+       class="ColorScheme-Text" />
+  </g>
+</svg>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg72"
+   sodipodi:docname="notification.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+              <style
+     id="current-color-scheme" />
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs76" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1720"
+     inkscape:window-height="1298"
+     id="namedview74"
+     showgrid="false"
+     inkscape:zoom="83.4386"
+     inkscape:cx="1.1753131"
+     inkscape:cy="-3.5410131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg72"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="170,47"
+       orientation="0,1"
+       id="guide1061"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="172,41"
+       orientation="0,1"
+       id="guide1063"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="171,40"
+       orientation="0,1"
+       id="guide1065"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="170,47"
+       orientation="1,0"
+       id="guide1067"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="172,41"
+       orientation="1,0"
+       id="guide1069"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="5,-8"
+       orientation="0,1"
+       id="guide1259"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,-3"
+       orientation="1,0"
+       id="guide1261"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4.6949153,-2.0338983"
+       orientation="0,1"
+       id="guide1263"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6,-7"
+       orientation="1,0"
+       id="guide1265"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="22-22-notification-active"
+     transform="translate(160,-62)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="0"
+       y="40"
+       id="rect2" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:0.69564778"
+       d="m 11.000005,43 -7.02083,7.020828 v 1.958337 L 11.000005,59 l 7.02082,-7.020828 v -1.958344 z"
+       id="pathrot-3-6-9"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:currentColor;stroke-width:0.69564778"
+       d="M 10.925275,46.456529 10,47.425272 v 5.031257 h 1.074725 L 12,51.487785 v -5.031256 z m 0.0747,7 -0.91576,0.915755 v 0.255434 l 0.91576,0.915754 0.91575,-0.915754 v -0.255434 z"
+       id="path45-7-3"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     id="22-22-notification-inactive"
+     transform="translate(0,-22)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       id="rect13" />
+    <g
+       id="g17" />
+    <path
+       style="fill:currentColor"
+       d="M 11,2.9999998 3.9785159,10.021484 v 1.957032 L 11,19 18.021484,11.978516 v -1.957032 z m 0,2 5.265625,5.2656252 v 1.46875 L 11,17 5.734375,11.734375 v -1.46875 z M 10.92578,6.4570308 10,7.4257808 v 5.0312502 h 1.074219 L 12,11.488281 V 6.4570308 Z M 11,13.457031 10.083984,14.373047 v 0.253906 L 11,15.542969 11.916016,14.626953 v -0.253906 z"
+       id="path1149-3-0"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="22-22-notification-disabled"
+     transform="translate(32,18)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="0"
+       y="-40"
+       id="rect20" />
+    <path
+       style="opacity:0.3;fill:currentColor"
+       d="m 43,-19 -7.021484,7.021484 v 1.957032 L 43,-3 l 7.021484,-7.021484 v -1.957032 z m 0,2 5.265625,5.265625 v 1.46875 L 43,-5 37.734375,-10.265625 v -1.46875 z M 42.92578,-15.542969 42,-14.574219 v 5.0312502 h 1.074219 L 44,-10.511719 v -5.03125 z M 43,-8.5429688 42.083984,-7.6269531 v 0.2539062 L 43,-6.4570312 43.916016,-7.3730469 v -0.2539062 z"
+       transform="translate(-32,-18)"
+       id="path1149-3"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="22-22-notification-empty"
+     transform="translate(24,18)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="40"
+       y="-40"
+       id="rect25" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       d="m 51.000001,-37 -7.021485,7.02148 v 1.95703 L 51.000001,-21 l 7.021484,-7.02149 v -1.95703 z m 0,2 5.265625,5.26562 v 1.46875 L 51.000001,-23 45.734376,-28.26563 v -1.46875 z"
+       id="path1149"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="22-22-notification-progress-active"
+     transform="translate(88,-22)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="40"
+       y="0"
+       id="rect30" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:0.69564778"
+       d="m 51.000005,3 -7.02083,7.020828 v 1.958337 L 51.000005,19 l 7.02082,-7.020828 v -1.958344 z"
+       id="pathrot-3-6-9-1"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     id="22-22-notification-progress-inactive"
+     transform="translate(56,-62)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="40"
+       y="40"
+       id="rect35" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text"
+       style="opacity:0.3;fill:currentColor"
+       d="m 51.000005,43 -7.02083,7.020828 v 1.958337 L 51.000005,59 l 7.02082,-7.020828 v -1.958344 z"
+       id="pathrot-3-6-9-1-7"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     id="notification-inactive">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect40" />
+    <path
+       style="fill:currentColor"
+       d="M 15.498047,4.0000001 5.408203,14.09375 v 2.814453 L 15.498047,27 25.591797,16.908203 V 14.09375 Z m 0,3 7.462891,7.4609379 v 2.080078 L 15.498047,24 8.039062,16.541016 v -2.080078 z m -0.105469,2 L 14,10.392578 V 17 h 1.607422 L 17,15.607422 V 9.0000001 Z M 15.5,19 14.183594,20.316406 v 0.367188 L 15.5,22 16.816406,20.683594 v -0.367188 z"
+       id="pathrot-3-6-7-3-6-9"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="notification-disabled"
+     transform="translate(32)">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect45" />
+    <path
+       style="opacity:0.3;fill:currentColor"
+       d="M 47.498047,4 37.408203,14.09375 v 2.814453 L 47.498047,27 57.591797,16.908203 V 14.09375 Z m 0,3 7.462891,7.460938 v 2.080078 L 47.498047,24 40.039062,16.541016 V 14.460938 Z M 47.392578,9 46,10.392578 V 17 h 1.607422 L 49,15.607422 V 9 Z M 47.5,19 46.183594,20.316406 v 0.367188 L 47.5,22 48.816406,20.683594 v -0.367188 z"
+       transform="translate(-32)"
+       id="pathrot-3-6-7-3-6"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="notification-empty"
+     transform="translate(64)">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect50" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       d="M 15.499023,4.0000002 5.407227,14.09375 v 2.814453 L 15.499023,27 25.592773,16.908203 V 14.09375 Z m 0,3 7.460938,7.4609378 v 2.080078 L 15.499023,24 8.040039,16.541016 v -2.080078 z"
+       id="pathrot-3-6-7-3"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="notification-progress-inactive"
+     transform="translate(96)">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect55" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text"
+       style="opacity:0.3;fill:currentColor"
+       d="M 15.5,3.9999271 5.4075,14.092431 v 2.815127 L 15.5,27.000073 25.5925,16.907569 v -2.815138 z"
+       id="pathrot-3-6-7"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     id="notification-progress-active"
+     transform="translate(128)">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect60" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor"
+       d="M 15.5,3.9999272 5.4075,14.092431 v 2.815127 L 15.5,27.000073 25.5925,16.907569 v -2.815138 z"
+       id="pathrot-3-6-3"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     id="notification-active"
+     transform="translate(160)">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect65" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor"
+       d="M 15.5,4.3922742 5.4075,14.484778 v 2.815127 L 15.5,27.39242 25.5925,17.299916 v -2.815138 z"
+       id="pathrot-3-6"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:currentColor"
+       d="M 15.39258,9 14,10.392578 V 17 h 1.60743 L 17,15.607422 V 9 Z M 15.5,19 14.1836,20.316406 v 0.367188 L 15.5,22 16.81641,20.683594 v -0.367188 z"
+       id="path45-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <path
+     style="fill:currentColor"
+     d="M 2.9999985,38 1.4638649,39.536134 1.927732,40 h 2.1445316 l 0.4638651,-0.463866 z"
+     id="expander-bottom"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Text" />
+  <path
+     style="fill:currentColor"
+     d="M 5.536133,35.463867 4,37 5.536133,38.536133 6,38.072265 v -2.144531 z"
+     id="expander-right"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Text" />
+  <path
+     style="fill:currentColor"
+     d="M 0.463865,35.463867 0,35.927734 v 2.144531 L 0.463865,38.536133 2,37 Z"
+     id="expander-left"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Text" />
+  <path
+     style="fill:currentColor"
+     d="M 1.9277338,34.033898 1.4638668,34.497765 3,36.033898 4.53613,34.497765 4.072265,34.033898 Z"
+     id="expander-top"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Text" />
+</svg>

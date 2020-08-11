@@ -1,0 +1,1799 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg237"
+   width="182"
+   height="46"
+   version="1.1"
+   sodipodi:docname="button.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+      <style
+     id="current-color-scheme" />
+  <svg:g
+     transform="matrix(-0.28205061,0,0,-0.28205061,240.58962,92.05121)"
+     id="toolbutton-hover-topleft">
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1662-67"
+       transform="translate(183,207.06091)"
+       d="m -7,37.939453 v 14 l 14,-14 z"
+       style="opacity:0.5;fill:currentColor" />
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038-6-3-1"
+       d="m 185.35106,244.99845 -9.35077,9.35208 v 4.65085 l 13.99972,-14.00104 z"
+       style="fill:currentColor" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.28205061,0,0,0.28205371,135.38474,-50.103273)"
+     id="toolbutton-hover-left">
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 183.00002,259.00037 v 49.99944 l 14,10e-6 v -49.99945 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1666-3" />
+    <svg:path
+       d="m 187.64895,259.00216 h -4.64908 v 49.99766 h 4.64908 z"
+       id="path322-2-7-5-37-2"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.56217541,0,0,0.28205061,70.129131,-50.102423)"
+     id="toolbutton-hover-right">
+    <svg:path
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ButtonHover"
+       inkscape:connector-curvature="0"
+       d="m 247.02398,258.99983 v 49.99945 l -7.02397,5.5e-4 v -49.99945 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1670-62" />
+    <svg:path
+       d="m 247.02409,259.00011 h -2.33251 v 49.9982 h 2.33251 z"
+       id="path322-2-7-5-37-2-9"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.28205061,0,0,0.28205061,135.38474,-50.102394)"
+     id="toolbutton-hover-bottomleft">
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 197.00001,323.00008 -1e-5,-13.99907 -13.99999,-0.001 1e-5,13.99907 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1674-1" />
+    <svg:path
+       d="m 187.65008,309.0001 h -4.64906 l -0.001,13.99898 13.99998,-4e-5 v -4.64624 h -9.34971 z"
+       id="path322-2-7-5-3-5-2-5-9"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.28205061,0,0,0.28205061,137.35911,-48.128105)"
+     id="toolbutton-hover-bottom">
+    <svg:path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       d="M 189.99998,315.99995 H 240 l -4e-5,-13.99962 h -50.00001 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1678-70" />
+    <svg:path
+       d="m 239.99815,315.99995 v -4.64909 h -49.9982 v 4.64909 z"
+       id="path322-2-7-5-37-2-9-3"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.56410123,0,0,0.56410123,69.667004,-137.25646)"
+     id="toolbutton-hover-bottomright">
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1682-3"
+       d="m 57,101.93945 v 14 l 14,-14 z"
+       style="opacity:0.5;fill:currentColor"
+       transform="matrix(0.5,0,0,0.5,211.49998,258.03039)" />
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       id="path2038-6-3-1-1"
+       d="m 244.67544,308.99939 -4.67539,4.67604 v 2.32542 l 6.99986,-7.00052 z"
+       style="fill:currentColor"
+       inkscape:connector-curvature="0" />
+  </svg:g>
+
+  <svg:g
+     transform="matrix(0.56410123,0,0,0.5641016,69.66694,-123.1535)"
+     id="toolbutton-hover-topright">
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 240,251.99982 v 7 h 7 v -7 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1686-0" />
+    <svg:path
+       d="m 244.67496,258.99931 h 2.32453 l 5e-4,-6.99949 -6.99999,2e-5 v 2.32312 h 4.67485 z"
+       id="path322-2-7-5-3-5-2-5-9-4"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:0.85874546"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:metadata
+     id="metadata223">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g
+     transform="matrix(0.32796583,0,0,0.56410086,126.33936,-119.2046)"
+     id="toolbutton-hover-top">
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="M 197.00001,244.99982 H 240 v 7 h -42.9989 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1690-2" />
+    <svg:path
+       d="m 240,247.32472 v -2.3249 h -42.99999 v 2.3249 z"
+       id="path322-2-7-5-3-7-6"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1720"
+     inkscape:window-height="1298"
+     id="namedview221"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="3.1895605"
+     inkscape:cx="129.85598"
+     inkscape:cy="-85.223318"
+     inkscape:window-x="1098"
+     inkscape:window-y="466"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg237"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true"
+     inkscape:pagecheckerboard="true">
+    <sodipodi:guide
+       position="158,43"
+       orientation="0,1"
+       id="guide1179"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.1076407,4.1076073"
+       orientation="0,1"
+       id="guide1181"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2.1076359,4.1076461"
+       orientation="1,0"
+       id="guide1183"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="39.892241,10.88908"
+       orientation="1,0"
+       id="guide1185"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50.75,27"
+       orientation="0,1"
+       id="guide1370"
+       inkscape:locked="false" />
+    <inkscape:grid
+       id="grid1638"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1644"
+       orientation="1,0"
+       position="3.4189152,10.88946" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1646"
+       orientation="0,1"
+       position="15.961343,5.4186978" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1650"
+       orientation="-0.70710678,0.70710678"
+       position="8.8893503,40.58087" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1654"
+       orientation="0,1"
+       position="8.8895062,40.892483" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1658"
+       orientation="-0.70710678,0.70710678"
+       position="33.110488,5.4186983" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1660"
+       orientation="1,0"
+       position="39.407487,35.111113" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide3011"
+       orientation="0,1"
+       position="112,2" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide3013"
+       orientation="0,1"
+       position="33.110474,41.892358" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide3015"
+       orientation="1,0"
+       position="49.107642,35.110444" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide3017"
+       orientation="1,0"
+       position="86.892338,10.889659" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide3157"
+       orientation="1,0"
+       position="93.999998,39" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide3159"
+       orientation="1,0"
+       position="132.00001,7" />
+    <sodipodi:guide
+       position="140.10761,35.110444"
+       orientation="1,0"
+       inkscape:locked="false"
+       id="guide3535" />
+    <sodipodi:guide
+       position="177.8924,10.890141"
+       orientation="1,0"
+       id="guide3537"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1083"
+       orientation="1,0"
+       position="187,15" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1085"
+       orientation="1,0"
+       position="209,15" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1213"
+       orientation="1,0"
+       position="212,8.00004" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1317"
+       orientation="1,0"
+       position="234,7.9999815" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide2100"
+       orientation="0,1"
+       position="33.110329,41.407939" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide2132"
+       orientation="1,0"
+       position="2.1076359,27" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide2134"
+       orientation="1,0"
+       position="39.892241,21.671875" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide2140"
+       orientation="0,1"
+       position="15.430092,40.58087" />
+    <sodipodi:guide
+       position="130.69003,10.889516"
+       orientation="0,1"
+       id="guide2912"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="190.94863,23.051285"
+       orientation="0,1"
+       id="guide3096"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="187.00001,8.9487274"
+       orientation="0,1"
+       id="guide3113"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="190.94871,5.0000244"
+       orientation="1,0"
+       id="guide3193"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="215.94871,5.0001243"
+       orientation="1,0"
+       id="guide3409"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="212,5.0000224"
+       orientation="0,1"
+       id="guide3473"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="230.05123,23.051206"
+       orientation="1,0"
+       id="guide3490"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <svg:g
+     style="opacity:0.5"
+     id="toolbutton-hover-center"
+     transform="matrix(0.58224479,0,0,0.58224479,185.77284,16.608352)">
+    <svg:rect
+       id="rect1700-1"
+       style="fill:currentColor;stroke:none"
+       width="24.220964"
+       height="24.220964"
+       x="8.8895111"
+       y="10.889518"
+       class="ColorScheme-ButtonHover" />
+  </svg:g>
+  <svg:defs
+     id="defs46">
+    <svg:linearGradient
+       id="linearGradient4311">
+      <svg:stop
+         id="stop2"
+         style="stop-color:#000000"
+         offset="0" />
+      <svg:stop
+         id="stop4"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       id="linearGradient5878">
+      <svg:stop
+         id="stop7"
+         style="stop-color:#000000"
+         offset="0" />
+      <svg:stop
+         id="stop9"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:linearGradient
+       id="linearGradient2643">
+      <svg:stop
+         id="stop12"
+         style="stop-opacity:.353"
+         offset="0" />
+      <svg:stop
+         id="stop14"
+         style="stop-opacity:.137"
+         offset=".45" />
+      <svg:stop
+         id="stop16"
+         style="stop-opacity:0"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:radialGradient
+       id="radialGradient1933"
+       cx="52"
+       cy="20.518"
+       r="3"
+       fx="52"
+       fy="20.518"
+       gradientTransform="matrix(1.7927802e-6,-2.3333312,0.9999998,7.6805377e-7,29.482354,131.33419)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient1562"
+       cx="53.802"
+       cy="23.591"
+       r="3"
+       fx="53.802"
+       fy="23.591"
+       gradientTransform="matrix(-3.9810276e-7,-1.3333327,1.6666672,-4.9297874e-7,12.681798,77.735995)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient1987"
+       cx="52.776"
+       cy="51.595"
+       r="3"
+       fx="52.776"
+       fy="51.595"
+       gradientTransform="matrix(-1.6666667,-2.18358e-7,2.1835785e-7,-1.6666658,139.96033,1133.3541)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient2009"
+       cx="53.027"
+       cy="52.74"
+       r="3"
+       fx="53.027"
+       fy="52.74"
+       gradientTransform="matrix(-0.92011123,-0.00184061,0.00233381,-1.1666633,98.427929,1106.9957)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:linearGradient
+       id="linearGradient7337"
+       x1="53"
+       x2="53"
+       y1="53"
+       y2="59"
+       gradientTransform="matrix(1.0000001,0,0,0.83333333,-1.0000032,1003.1955)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:linearGradient
+       id="linearGradient7463"
+       x1="53"
+       x2="53"
+       y1="21.514"
+       y2="16.5"
+       gradientTransform="translate(-0.99999724,991.36216)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:linearGradient
+       id="linearGradient2050"
+       x1="50.181"
+       x2="47"
+       y1="35"
+       y2="35"
+       gradientTransform="matrix(0.9,0,0,1.1034483,4.6999951,987.98284)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient5890"
+       cx="5"
+       cy="1050.474"
+       r="2.5"
+       fx="5"
+       fy="1050.474"
+       gradientTransform="matrix(-2.0000001,-1.4532645e-6,1.0048499e-6,-1.3819582,16.998931,1490.7106)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4311" />
+    <svg:radialGradient
+       id="radialGradient5892"
+       cx="31.583"
+       cy="1048.39"
+       r="2.5"
+       fx="31.583"
+       fy="1048.39"
+       gradientTransform="matrix(0.00152309,1.3135979,-1.999979,0.00231894,2131.7097,-4.9192)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4311" />
+    <svg:radialGradient
+       id="radialGradient4309"
+       cx="20"
+       cy="1033.362"
+       r="16"
+       fx="20"
+       fy="1033.362"
+       gradientTransform="matrix(0,0.12499996,-1.2499967,0,1311.6996,1045.8622)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5878" />
+    <svg:radialGradient
+       id="radialGradient4525"
+       cx="53.027"
+       cy="52.74"
+       r="3"
+       fx="53.027"
+       fy="52.74"
+       gradientTransform="matrix(0.92011123,-0.00184061,-0.00233381,-1.1666633,37.572073,1106.9957)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4527"
+       cx="52.776"
+       cy="51.595"
+       r="3"
+       fx="52.776"
+       fy="51.595"
+       gradientTransform="matrix(1.6666667,-2.18358e-7,-2.1835785e-7,-1.6666658,-3.96033,1133.3541)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4529"
+       cx="53.802"
+       cy="23.591"
+       r="3"
+       fx="53.802"
+       fy="23.591"
+       gradientTransform="matrix(3.9810276e-7,-1.3333327,-1.6666672,-4.9297874e-7,123.31821,77.735995)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:linearGradient
+       id="linearGradient4531"
+       x1="50.181"
+       x2="47"
+       y1="35"
+       y2="35"
+       gradientTransform="matrix(-0.9,0,0,1.1034483,131.3,987.98284)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4533"
+       cx="52"
+       cy="20.518"
+       r="3"
+       fx="52"
+       fy="20.518"
+       gradientTransform="matrix(-1.7927802e-6,-2.3333312,-0.9999998,7.6805377e-7,106.51765,131.33419)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:linearGradient
+       id="linearGradient4805"
+       x1="50.181"
+       x2="47"
+       y1="35"
+       y2="35"
+       gradientTransform="matrix(0.9,0,0,1.1034483,4.6999951,987.98284)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:linearGradient
+       id="linearGradient4807"
+       x1="53"
+       x2="53"
+       y1="21.514"
+       y2="16.5"
+       gradientTransform="translate(-0.99999724,991.36216)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:linearGradient
+       id="linearGradient4809"
+       x1="50.181"
+       x2="47"
+       y1="35"
+       y2="35"
+       gradientTransform="matrix(-0.9,0,0,1.1034483,131.3,987.98284)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:linearGradient
+       id="linearGradient4811"
+       x1="53"
+       x2="53"
+       y1="53"
+       y2="59"
+       gradientTransform="matrix(1.0000001,0,0,0.83333333,-1.0000032,1003.1955)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4813"
+       cx="53.027"
+       cy="52.74"
+       r="3"
+       fx="53.027"
+       fy="52.74"
+       gradientTransform="matrix(-0.92011123,-0.00184061,0.00233381,-1.1666633,98.427929,1106.9957)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4815"
+       cx="52.776"
+       cy="51.595"
+       r="3"
+       fx="52.776"
+       fy="51.595"
+       gradientTransform="matrix(-1.6666667,-2.18358e-7,2.1835785e-7,-1.6666658,139.96033,1133.3541)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4817"
+       cx="52"
+       cy="20.518"
+       r="3"
+       fx="52"
+       fy="20.518"
+       gradientTransform="matrix(1.7927802e-6,-2.3333312,0.9999998,7.6805377e-7,29.482354,131.33419)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4819"
+       cx="53.802"
+       cy="23.591"
+       r="3"
+       fx="53.802"
+       fy="23.591"
+       gradientTransform="matrix(-3.9810276e-7,-1.3333327,1.6666672,-4.9297874e-7,12.681798,77.735995)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4821"
+       cx="53.027"
+       cy="52.74"
+       r="3"
+       fx="53.027"
+       fy="52.74"
+       gradientTransform="matrix(0.92011123,-0.00184061,-0.00233381,-1.1666633,37.572073,1106.9957)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4823"
+       cx="52.776"
+       cy="51.595"
+       r="3"
+       fx="52.776"
+       fy="51.595"
+       gradientTransform="matrix(1.6666667,-2.18358e-7,-2.1835785e-7,-1.6666658,-3.96033,1133.3541)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4825"
+       cx="52"
+       cy="20.518"
+       r="3"
+       fx="52"
+       fy="20.518"
+       gradientTransform="matrix(-1.7927802e-6,-2.3333312,-0.9999998,7.6805377e-7,106.51765,131.33419)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+    <svg:radialGradient
+       id="radialGradient4827"
+       cx="53.802"
+       cy="23.591"
+       r="3"
+       fx="53.802"
+       fy="23.591"
+       gradientTransform="matrix(3.9810276e-7,-1.3333327,-1.6666672,-4.9297874e-7,123.31821,77.735995)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2643" />
+  </svg:defs>
+  <svg:g
+     transform="matrix(-0.4844193,0,0,-0.4844193,94.147303,129.57242)"
+     id="normal-topleft">
+    <svg:path
+       class="ColorScheme-ButtonBackground"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path86"
+       transform="translate(183,207.06091)"
+       d="m -7,37.939453 v 14 l 14,-14 z"
+       style="opacity:0.5;fill:currentColor;stroke-width:2" />
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038-6"
+       d="m 187.29239,245.00096 -11.29207,11.29207 0,2.70793 13.9989,-13.9989 z"
+       style="fill:currentColor;stroke-width:0.99992186" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.4844193,0,0,0.48442462,-86.541101,-114.57659)"
+     id="normal-left">
+    <svg:path
+       class="ColorScheme-ButtonBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 183.00002,259.00037 v 49.99944 l 14,10e-6 v -49.99945 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path89-3" />
+    <svg:path
+       d="m 185.70692,259.00037 h -2.7069 v 49.99947 h 2.7069 z"
+       id="path322-2-7-5"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.96553103,0,0,0.4844193,-198.61698,-114.57513)"
+     id="normal-right">
+    <svg:path
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ButtonBackground"
+       inkscape:connector-curvature="0"
+       d="m 247.02398,258.99983 v 49.99945 l -7.02397,5.5e-4 v -49.99945 z"
+       style="fill:currentColor;opacity:0.5"
+       id="path92" />
+    <svg:path
+       d="m 247.02353,258.9988 h -1.35674 v 50.00002 h 1.35674 z"
+       id="path322-2-7"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:0.70831716"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.4844193,0,0,0.4844193,-86.541096,-114.57508)"
+     id="normal-bottomleft">
+    <svg:path
+       class="ColorScheme-ButtonBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 197.00001,323.00008 -1e-5,-13.99907 -13.99999,-0.001 1e-5,13.99907 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path95" />
+    <svg:path
+       d="m 185.70691,309.00012 h -2.70689 l -7e-4,13.99871 14.00008,-2e-5 v -2.70525 h -11.29249 z"
+       id="path322-2-7-5-3-5-2"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:1.00000048"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.4844193,0,0,0.4844193,-83.150144,-111.18431)"
+     id="normal-bottom">
+    <svg:path
+       inkscape:label="#path98"
+       class="ColorScheme-ButtonBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="M 189.99998,315.99995 H 240 l -4e-5,-13.99962 h -50.00001 z"
+       style="fill:currentColor;fill-opacity:0.5"
+       id="path57-6" />
+    <svg:path
+       d="m 189.99998,313.2939 v 2.70605 H 240 v -2.70605 z"
+       id="path322-2"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:1.00000036"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.9688386,0,0,0.9688386,-199.41068,-264.26137)"
+     id="normal-bottomright">
+    <svg:path
+       class="ColorScheme-ButtonBackground"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path101"
+       transform="matrix(0.5,0,0,0.5,211.49998,258.03039)"
+       d="m 57,101.93945 v 14 l 14,-14 z"
+       style="fill:currentColor;stroke-width:2;opacity:0.5" />
+    <svg:path
+       style="fill:currentColor;stroke-width:0.49996093"
+       d="m 246.49968,309.00011 -6.4997,6.49971 v 0.50029 l 6.99945,-6.99945 z"
+       id="path918-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ButtonText" />
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038"
+       d="m 245.64732,309.00011 -5.64734,5.64742 v 1.35258 l 6.99945,-6.99945 z"
+       style="fill:currentColor;stroke-width:0.49996093" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.9688386,0,0,0.96883923,-199.41079,-240.03967)"
+     id="normal-topright">
+    <svg:path
+       class="ColorScheme-ButtonBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 240,251.99982 v 7 h 7 v -7 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path104" />
+    <svg:path
+       d="m 245.64744,258.99917 h 1.3521 l 3.5e-4,-6.99935 -7.00004,1e-5 v 1.35366 h 5.64759 z"
+       id="path322-2-7-5-3-5"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:0.50000006"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.56327826,0,0,0.96883797,-102.07645,-233.25748)"
+     id="normal-top">
+    <svg:path
+       class="ColorScheme-ButtonBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="M 197.00001,244.99982 H 240 v 7 h -42.9989 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path107" />
+    <svg:path
+       d="m 240,246.35348 v -1.35366 h -43.00003 v 1.35366 z"
+       id="path322-2-7-5-3"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:rect
+     id="hint-stretch-borders"
+     style="opacity:1;fill:#9a06ff"
+     width="2"
+     height="2"
+     x="-0.0056454092"
+     y="0.0027627149"
+     ry="0" />
+  <svg:rect
+     id="normal-hint-top-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.11803401"
+     width="2"
+     height="6"
+     x="20.198866"
+     y="4.1076422" />
+  <svg:rect
+     id="normal-hint-right-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.09544516"
+     width="2"
+     height="6"
+     x="-24"
+     y="33.892242"
+     transform="rotate(-90)" />
+  <svg:rect
+     id="normal-hint-left-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.09544516"
+     width="2"
+     height="6"
+     x="-24.359375"
+     y="2.107636"
+     transform="rotate(-90)" />
+  <svg:g
+     id="normal-center"
+     transform="translate(-1.3825562e-4,-3.7349532e-6)"
+     style="opacity:0.5">
+    <svg:rect
+       id="rect2074"
+       style="fill:currentColor;stroke-width:0.48441929"
+       width="24.220964"
+       height="24.220964"
+       x="8.8895111"
+       y="10.889518"
+       class="ColorScheme-ButtonBackground" />
+  </svg:g>
+  <svg:g
+     style="opacity:1;fill:#ff00ff;stroke:none"
+     transform="matrix(-0.4844193,0,0,-0.4844193,232.14727,129.57241)"
+     id="pressed-topleft">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1662-2"
+       transform="translate(183,207.06091)"
+       d="m -7,37.939453 v 14 l 14,-14 z"
+       style="fill:currentColor" />
+    <svg:path
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038-6-7-6"
+       d="m 187.2924,245.00097 -11.29207,11.29207 v 2.70793 l 13.9989,-13.9989 z"
+       style="opacity:0.5;fill:currentColor" />
+  </svg:g>
+  <svg:g
+     style="opacity:1;fill:#ff00ff;stroke:none"
+     transform="matrix(0.4844193,0,0,0.48442462,51.458868,-114.5766)"
+     id="pressed-left">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 183.00002,259.00037 v 49.99944 l 14,10e-6 v -49.99945 z"
+       style="fill:currentColor"
+       id="path1666-4" />
+    <svg:path
+       sodipodi:nodetypes="ccccc"
+       style="opacity:0.5;fill:currentColor"
+       class="ColorScheme-Background"
+       inkscape:connector-curvature="0"
+       id="path3362"
+       d="m 185.70692,259.00027 h -2.7069 v 49.99947 h 2.7069 z" />
+  </svg:g>
+  <svg:g
+     style="opacity:1;fill:#ff00ff;stroke:none"
+     transform="matrix(0.96553103,0,0,0.4844193,-60.617018,-114.57514)"
+     id="pressed-right">
+    <svg:path
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ViewBackground"
+       inkscape:connector-curvature="0"
+       d="m 247.02398,258.99983 v 49.99945 l -7.02397,5.5e-4 v -49.99945 z"
+       style="fill:currentColor"
+       id="path1670-4" />
+    <svg:path
+       d="m 246.97688,258.9988 h -1.30998 v 50.00002 h 1.30998 z"
+       id="path322-2-7-6-0"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       style="opacity:0.5;fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     style="opacity:1;fill:#ff00ff;stroke:none"
+     transform="matrix(0.4844193,0,0,0.4844193,51.458868,-114.57509)"
+     id="pressed-bottomleft">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 197.00001,323.00008 -1e-5,-13.99907 -13.99999,-0.001 1e-5,13.99907 z"
+       style="fill:currentColor"
+       id="path1674-3" />
+    <svg:path
+       d="m 185.70756,309.00069 h -2.70689 l -7e-4,13.99871 14.00008,-2e-5 v -2.70525 h -11.29249 z"
+       id="path322-2-7-5-3-5-2-1-1"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       style="opacity:0.5;fill:currentColor"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     style="opacity:1;fill:#ff00ff;stroke:none"
+     transform="matrix(0.4844193,0,0,0.4844193,54.849828,-111.18432)"
+     id="pressed-bottom">
+    <svg:path
+       inkscape:label="#path98"
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="M 189.99998,315.99995 H 240 l -4e-5,-13.99962 h -50.00001 z"
+       style="fill:currentColor"
+       id="path1678-7" />
+    <svg:path
+       d="m 190.00034,313.2939 v 2.70605 h 50.00002 v -2.70605 z"
+       id="path322-2-6-6"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       style="opacity:0.5;fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     style="opacity:1;fill:#ff00ff;stroke:none"
+     transform="matrix(0.9688386,0,0,0.9688386,-61.410718,-264.26138)"
+     id="pressed-bottomright">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1682-68"
+       transform="matrix(0.5,0,0,0.5,211.49998,258.03039)"
+       d="m 57,101.93945 v 14 l 14,-14 z"
+       style="fill:currentColor" />
+    <svg:path
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038-2-3"
+       d="m 245.64743,309.00011 -5.64734,5.64742 v 1.35258 l 6.99945,-6.99945 z"
+       style="opacity:0.5;fill:currentColor" />
+  </svg:g>
+  <svg:g
+     style="opacity:1;fill:#ff00ff;stroke:none"
+     transform="matrix(0.9688386,0,0,0.96883923,-61.410828,-240.03968)"
+     id="pressed-topright">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 240,251.99982 v 7 h 7 v -7 z"
+       style="fill:currentColor"
+       id="path1686-4" />
+    <svg:path
+       d="m 245.64755,258.99917 h 1.3521 l 3.5e-4,-6.99935 -7.00004,1e-5 v 1.35366 h 5.64759 z"
+       id="path322-2-7-5-3-5-0-5"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       style="opacity:0.5;fill:currentColor"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     style="opacity:1;fill:#ff00ff;stroke:none"
+     transform="matrix(0.56327826,0,0,0.96883797,35.923514,-233.25749)"
+     id="pressed-top">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="M 197.00001,244.99982 H 240 v 7 h -42.9989 z"
+       style="fill:currentColor"
+       id="path1690-1" />
+    <svg:path
+       d="m 240,246.35348 v -1.35366 h -43.00003 v 1.35366 z"
+       id="path322-2-7-5-3-9-7"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       style="opacity:0.5;fill:currentColor"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     style="opacity:1;fill:#ff00ff;stroke:none"
+     id="pressed-center"
+     transform="translate(137.99997,2.3198201e-6)">
+    <svg:rect
+       id="rect1700-9"
+       style="fill:currentColor"
+       width="24.220964"
+       height="24.220964"
+       x="8.8895111"
+       y="10.889518"
+       class="ColorScheme-ViewBackground" />
+  </svg:g>
+  <svg:rect
+     id="pressed-hint-top-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.22474492"
+     width="2"
+     height="6"
+     x="158"
+     y="4.1076422" />
+  <svg:rect
+     y="35.726048"
+     x="19.999992"
+     height="6.1663442"
+     width="2.015625"
+     style="opacity:1;fill:#9a05f9;fill-opacity:1;stroke-width:1.13784504"
+     id="normal-hint-bottom-margin" />
+  <svg:rect
+     id="pressed-hint-left-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.09544504"
+     width="2"
+     height="6"
+     x="-21.933594"
+     y="140.1076"
+     transform="rotate(-90)" />
+  <svg:rect
+     id="pressed-hint-bottom-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.22474492"
+     width="2"
+     height="6"
+     x="158"
+     y="35.892792" />
+  <svg:rect
+     id="toolbutton-hover-hint-left-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.22474492"
+     width="2"
+     height="6"
+     x="-31"
+     y="187"
+     transform="rotate(-90)" />
+  <svg:rect
+     id="toolbutton-hover-hint-top-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.2247448"
+     width="2"
+     height="6"
+     x="-199"
+     y="19"
+     transform="scale(-1,1)" />
+  <svg:rect
+     id="toolbutton-hover-hint-right-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.22474492"
+     width="2"
+     height="6"
+     x="-31"
+     y="203"
+     transform="rotate(-90)" />
+  <svg:rect
+     id="toolbutton-hover-hint-bottom-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.2247448"
+     width="2"
+     height="6"
+     x="197"
+     y="-40.999981"
+     transform="scale(1,-1)" />
+  <svg:g
+     transform="matrix(-0.28205061,0,0,-0.28205061,265.58962,92.05121)"
+     id="toolbutton-pressed-topleft">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1662-67-4"
+       transform="translate(183,207.06091)"
+       d="m -7,37.939453 v 14 l 14,-14 z"
+       style="fill:currentColor;stroke:none;stroke-width:2" />
+    <svg:path
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038-6-7-6-5"
+       d="m 185.35094,245.00034 -9.35093,9.34917 v 4.65085 l 13.99989,-13.99813 z"
+       style="opacity:0.5;fill:currentColor;stroke:none;stroke-width:1.71749067" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.28205061,0,0,0.28205371,160.38474,-50.103271)"
+     id="toolbutton-pressed-left">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 183.00002,259.00037 v 49.99944 l 14,10e-6 v -49.99945 z"
+       style="fill:currentColor;stroke:none"
+       id="path1666-3-8" />
+    <svg:path
+       sodipodi:nodetypes="ccccc"
+       style="opacity:0.5;fill:currentColor;stroke:none;stroke-width:1.31053162"
+       class="ColorScheme-Background"
+       inkscape:connector-curvature="0"
+       id="path3362-3"
+       d="m 187.64907,259.00027 h -4.64908 v 49.99954 h 4.64908 z" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.56217541,0,0,0.28205061,95.129129,-50.102421)"
+     id="toolbutton-pressed-right">
+    <svg:path
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ViewBackground"
+       inkscape:connector-curvature="0"
+       d="m 247.02398,258.99983 v 49.99945 l -7.02397,5.5e-4 v -49.99945 z"
+       style="fill:currentColor;stroke:none"
+       id="path1670-62-5" />
+    <svg:path
+       d="m 247.02409,259.0001 h -2.24988 v 50.0001 h 2.24988 z"
+       id="path322-2-7-6-0-2"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       style="opacity:0.5;fill:currentColor;stroke:none;stroke-width:1.31053174"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.28205061,0,0,0.28205061,160.38474,-50.102392)"
+     id="toolbutton-pressed-bottomleft">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 197.00001,323.00008 -1e-5,-13.99907 -13.99999,-0.001 1e-5,13.99907 z"
+       style="fill:currentColor;stroke:none"
+       id="path1674-1-3" />
+    <svg:path
+       d="m 187.64905,309.00009 h -4.64906 l -0.001,14.00002 14.00101,-3e-5 v -4.64625 h -9.35075 z"
+       id="path322-2-7-5-3-5-2-1-1-5"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       style="opacity:0.5;fill:currentColor;stroke:none;stroke-width:1.71749067"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.28205061,0,0,0.28205061,162.35911,-48.128103)"
+     id="toolbutton-pressed-bottom">
+    <svg:path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ViewBackground"
+       d="M 189.99998,315.99995 H 240 l -4e-5,-13.99962 h -50.00001 z"
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       id="path1678-70-1" />
+    <svg:path
+       d="m 189.99994,311.35138 v 4.64761 h 50.00015 v -4.64761 z"
+       id="path322-2-6-6-0"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       style="opacity:0.5;fill:currentColor;stroke:none;stroke-width:1.31053233"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.56410123,0,0,0.56410123,94.666999,-137.25645)"
+     id="toolbutton-pressed-bottomright">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1682-3-6"
+       transform="matrix(0.5,0,0,0.5,211.49998,258.03039)"
+       d="m 57,101.93945 v 14 l 14,-14 z"
+       style="fill:currentColor;stroke:none;stroke-width:2" />
+    <svg:path
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038-2-3-1"
+       d="m 244.67777,309.00078 -4.67779,4.6763 v 2.32303 L 247,309.00172 Z"
+       style="opacity:0.5;fill:currentColor;stroke:none;stroke-width:1.71749067" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.56410123,0,0,0.5641016,94.666939,-123.15349)"
+     id="toolbutton-pressed-topright">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 240,251.99982 v 7 h 7 v -7 z"
+       style="fill:currentColor;stroke:none"
+       id="path1686-0-2" />
+    <svg:path
+       d="m 244.67728,258.99981 h 2.32222 l 6e-4,-7.00001 -7.0001,2e-5 v 2.3249 h 4.67728 z"
+       id="path322-2-7-5-3-5-0-5-4"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       style="opacity:0.5;fill:currentColor;stroke:none;stroke-width:1.71749067"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.32796583,0,0,0.56410086,151.33936,-119.20459)"
+     id="toolbutton-pressed-top">
+    <svg:path
+       class="ColorScheme-ViewBackground"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="M 197.00001,244.99982 H 240 v 7 h -42.9989 z"
+       style="fill:currentColor;stroke:none"
+       id="path1690-2-6" />
+    <svg:path
+       d="m 240.00023,247.3247 v -2.32489 h -42.99998 v 2.32489 z"
+       id="path322-2-7-5-3-9-7-6"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       style="opacity:0.5;fill:currentColor;stroke:none;stroke-width:1.31052995"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     id="toolbutton-pressed-center"
+     transform="matrix(0.58224479,0,0,0.58224479,210.77284,16.608354)">
+    <svg:rect
+       id="rect1700-1-5"
+       style="fill:currentColor;stroke:none"
+       width="24.220964"
+       height="24.220964"
+       x="8.8895111"
+       y="10.889518"
+       class="ColorScheme-ViewBackground" />
+  </svg:g>
+  <svg:rect
+     id="toolbutton-pressed-hint-left-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.22474492"
+     width="2"
+     height="6"
+     x="-31"
+     y="212"
+     transform="rotate(-90)" />
+  <svg:rect
+     id="toolbutton-pressed-hint-top-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.2247448"
+     width="2"
+     height="6"
+     x="222"
+     y="19" />
+  <svg:rect
+     id="toolbutton-pressed-hint-right-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.22474492"
+     width="2"
+     height="6"
+     x="-31"
+     y="228"
+     transform="rotate(-90)" />
+  <svg:rect
+     id="toolbutton-pressed-hint-bottom-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.2247448"
+     width="2"
+     height="6"
+     x="221.9375"
+     y="34.999977" />
+  <svg:g
+     id="hover-topleft"
+     transform="matrix(-0.4844193,0,0,-0.4844193,141.14731,129.57242)">
+    <svg:path
+       style="opacity:0.5;fill:currentColor"
+       d="m -7,37.939453 v 14 l 14,-14 z"
+       transform="translate(183,207.06091)"
+       id="path2712"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       class="ColorScheme-ButtonHover" />
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038-6-3"
+       d="m 187.29262,245.00036 -11.29207,11.29207 v 2.70793 l 13.9989,-13.9989 z"
+       style="fill:currentColor;stroke-width:0.99992186" />
+  </svg:g>
+  <svg:g
+     id="hover-left"
+     transform="matrix(0.4844193,0,0,0.48442462,-39.5411,-114.5766)">
+    <svg:path
+       id="path2716"
+       style="opacity:0.5;fill:currentColor"
+       d="m 183.00002,259.00037 v 49.99944 l 14,10e-6 v -49.99945 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ButtonHover" />
+    <svg:path
+       d="m 185.70692,259.00037 h -2.7069 v 49.99947 h 2.7069 z"
+       id="path322-2-7-5-37"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:1"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     id="hover-right"
+     transform="matrix(0.96553103,0,0,0.4844193,-151.61698,-114.57514)">
+    <svg:path
+       id="path2720"
+       style="opacity:0.5;fill:currentColor"
+       d="m 247.02398,258.99983 v 49.99945 l -7.02397,5.5e-4 v -49.99945 z"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="ccccc" />
+    <svg:path
+       d="m 247.02398,258.99983 h -1.35674 v 50.00002 h 1.35674 z"
+       id="path322-2-7-8"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:0.70831716"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     id="hover-bottomleft"
+     transform="matrix(0.4844193,0,0,0.4844193,-39.5411,-114.57509)">
+    <svg:path
+       id="path2724"
+       style="opacity:0.5;fill:currentColor"
+       d="m 197.00001,323.00008 -1e-5,-13.99907 -13.99999,-0.001 1e-5,13.99907 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ButtonHover" />
+    <svg:path
+       d="m 185.70692,309.00012 h -2.70689 l -7e-4,13.99871 14.00008,-2e-5 v -2.70525 h -11.29249 z"
+       id="path322-2-7-5-3-5-2-5"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:1.00000048"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     id="hover-bottom"
+     transform="matrix(0.4844193,0,0,0.4844193,-36.15014,-111.18432)">
+    <svg:path
+       id="path2728"
+       style="opacity:0.5;fill:currentColor"
+       d="M 189.99998,315.99995 H 240 l -4e-5,-13.99962 h -50.00001 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ButtonHover"
+       inkscape:label="#path98" />
+    <svg:path
+       d="m 189.99936,313.2931 v 2.70605 h 50.00002 v -2.70605 z"
+       id="path322-2-9"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:1.00000036"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     id="hover-bottomright"
+     transform="matrix(0.9688386,0,0,0.9688386,-152.41068,-264.26138)">
+    <svg:path
+       style="opacity:0.5;fill:currentColor"
+       d="m 57,101.93945 v 14 l 14,-14 z"
+       transform="matrix(0.5,0,0,0.5,211.49998,258.03039)"
+       id="path2732"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       class="ColorScheme-ButtonHover" />
+    <svg:path
+       class="ColorScheme-ButtonHover"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038-22"
+       d="m 245.64759,309.00012 -5.64734,5.64742 v 1.35258 l 6.99945,-6.99945 z"
+       style="fill:currentColor;stroke-width:0.49996093" />
+  </svg:g>
+  <svg:g
+     id="hover-topright"
+     transform="matrix(0.9688386,0,0,0.96883923,-152.41079,-240.03968)">
+    <svg:path
+       id="path2736"
+       style="opacity:0.5;fill:currentColor"
+       d="m 240,251.99982 v 7 h 7 v -7 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ButtonHover" />
+    <svg:path
+       d="m 245.64789,258.99969 h 1.3521 l 3.5e-4,-6.99935 -7.00004,1e-5 v 1.35366 h 5.64759 z"
+       id="path322-2-7-5-3-5-9"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:0.50000006"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     id="hover-top"
+     transform="matrix(0.56327826,0,0,0.96883797,-55.07645,-233.25749)">
+    <svg:path
+       id="path2740"
+       style="opacity:0.5;fill:currentColor"
+       d="M 197.00001,244.99982 H 240 v 7 h -42.9989 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ButtonHover" />
+    <svg:path
+       d="m 240,246.35348 v -1.35366 h -43.00003 v 1.35366 z"
+       id="path322-2-7-5-3-7"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonHover"
+       style="fill:currentColor;stroke-width:1"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="translate(47,-4.6429296e-6)"
+     id="hover-center">
+    <svg:rect
+       class="ColorScheme-ButtonHover"
+       y="10.889518"
+       x="8.8895111"
+       height="24.220964"
+       width="24.220964"
+       style="opacity:0.5;fill:currentColor"
+       id="rect2744" />
+  </svg:g>
+  <svg:g
+     transform="matrix(-0.4844193,0,0,-0.4844193,186.25498,129.57241)"
+     id="focus-topleft">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1662-6"
+       transform="translate(183,207.06091)"
+       d="m -7,37.939453 v 14 l 14,-14 z"
+       style="opacity:0.5;fill:currentColor" />
+    <svg:path
+       class="ColorScheme-Highlight"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038-6-7"
+       d="M 187.29207,245.00036 176,256.29243 v 2.70793 l 13.9989,-13.9989 z"
+       style="fill:currentColor;stroke-width:0.99992186" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.4844193,0,0,0.48442462,5.5665622,-114.57659)"
+     id="focus-left">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 183.00002,259.00037 v 49.99944 l 14,10e-6 v -49.99945 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1666-2" />
+    <svg:path
+       d="m 185.70694,259.00025 h -2.7069 v 49.99947 h 2.7069 z"
+       id="path322-2-7-5-8"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor;stroke-width:1"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.96553103,0,0,0.4844193,-106.50931,-114.57513)"
+     id="focus-right">
+    <svg:path
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       d="m 247.02398,258.99983 v 49.99945 l -7.02397,5.5e-4 v -49.99945 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1670-6" />
+    <svg:path
+       d="m 247.02399,259.00008 h -1.30998 v 50.00002 h 1.30998 z"
+       id="path322-2-7-6"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor;stroke-width:0.48441949"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.4844193,0,0,0.4844193,5.5665622,-114.57508)"
+     id="focus-bottomleft">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 197.00001,323.00008 -1e-5,-13.99907 -13.99999,-0.001 1e-5,13.99907 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1674-5" />
+    <svg:path
+       d="m 185.70756,309.00069 h -2.70689 l -7e-4,13.99871 14.00008,-2e-5 v -2.70525 h -11.29249 z"
+       id="path322-2-7-5-3-5-2-1"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor;stroke-width:1.00000048"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.4844193,0,0,0.4844193,8.9575222,-111.18431)"
+     id="focus-bottom">
+    <svg:path
+       inkscape:label="#path98"
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="M 189.99998,315.99995 H 240 l -4e-5,-13.99962 h -50.00001 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1678-4" />
+    <svg:path
+       d="m 189.99998,313.2939 v 2.70605 H 240 v -2.70605 z"
+       id="path322-2-6"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor;stroke-width:1.00000036"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.9688386,0,0,0.9688386,-107.30301,-264.26138)"
+     id="focus-bottomright">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1682-6"
+       transform="matrix(0.5,0,0,0.5,211.49998,258.03039)"
+       d="m 57,101.93945 v 14 l 14,-14 z"
+       style="opacity:0.5;fill:currentColor" />
+    <svg:path
+       class="ColorScheme-Highlight"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path2038-2"
+       d="m 245.64777,309.00076 -5.64734,5.64742 v 1.35258 l 6.99945,-6.99945 z"
+       style="fill:currentColor;stroke-width:0.49996093" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.9688386,0,0,0.96883923,-107.30312,-240.03968)"
+     id="focus-topright">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 240,251.99982 v 7 h 7 v -7 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1686-6" />
+    <svg:path
+       d="m 245.64755,258.99917 h 1.3521 l 3.5e-4,-6.99935 -7.00004,1e-5 v 1.35366 h 5.64759 z"
+       id="path322-2-7-5-3-5-0"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.56327826,0,0,0.96883797,-9.9687922,-233.25749)"
+     id="focus-top">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="M 197.00001,244.99982 H 240 v 7 h -42.9989 z"
+       style="opacity:0.5;fill:currentColor"
+       id="path1690-3" />
+    <svg:path
+       d="m 240.00031,246.35378 v -1.35366 h -43.00003 v 1.35366 z"
+       id="path322-2-7-5-3-9"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor;stroke-width:1"
+       sodipodi:nodetypes="ccccc" />
+  </svg:g>
+  <svg:g
+     id="focus-center"
+     transform="translate(92.107663,-1.7389387e-6)">
+    <svg:rect
+       id="rect1700-4"
+       style="opacity:0.5;fill:currentColor"
+       width="24.220964"
+       height="24.220964"
+       x="8.8895111"
+       y="10.889518"
+       class="ColorScheme-ButtonFocus" />
+  </svg:g>
+  <svg:rect
+     id="pressed-hint-right-margin"
+     style="opacity:1;fill:#9a06ff;stroke-width:1.09544504"
+     width="2"
+     height="6"
+     x="-22"
+     y="171.8924"
+     transform="rotate(-90)" />
+  <svg:rect
+     ry="0"
+     y="67.75"
+     x="16.75"
+     height="3"
+     width="3"
+     id="hint-focus-highlighted-background"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <svg:rect
+     y="-12.000498"
+     x="70.5"
+     height="0.001"
+     width="2"
+     id="hover-hint-top-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <svg:rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="hover-hint-bottom-margin"
+     width="2"
+     height="0.001"
+     x="80.375"
+     y="-21.875498" />
+  <svg:rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="hover-hint-left-margin"
+     width="0.001"
+     height="1.9999999"
+     x="54.374496"
+     y="-21.749996" />
+  <svg:rect
+     y="-13.499997"
+     x="86.374496"
+     height="1.9999999"
+     width="0.001"
+     id="hover-hint-right-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <svg:rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="focus-hint-top-margin"
+     width="2"
+     height="0.001"
+     x="92.5"
+     y="113.9995" />
+  <svg:rect
+     y="139.4995"
+     x="133.5"
+     height="0.001"
+     width="2"
+     id="focus-hint-bottom-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <svg:rect
+     y="133.5"
+     x="193.9995"
+     height="1.9999999"
+     width="0.001"
+     id="focus-hint-left-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <svg:rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="focus-hint-right-margin"
+     width="0.001"
+     height="1.9999999"
+     x="211.9995"
+     y="125" />
+  <svg:g
+     transform="matrix(-0.4844193,0,0,-0.4844193,186.25498,174.65047)"
+     id="focus-background-topleft">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path2436"
+       transform="translate(183,207.06091)"
+       d="m -7,37.939453 v 14 l 14,-14 z"
+       style="fill:currentColor" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.4844193,0,0,0.48442462,5.5665622,-69.498533)"
+     id="focus-background-left">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 183.00002,259.00037 v 49.99944 l 14,10e-6 v -49.99945 z"
+       style="fill:currentColor"
+       id="path2440" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.96553103,0,0,0.4844193,-106.50931,-69.497073)"
+     id="focus-background-right">
+    <svg:path
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       d="m 247.02398,258.99983 v 49.99945 l -7.02397,5.5e-4 v -49.99945 z"
+       style="fill:currentColor"
+       id="path2444" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.4844193,0,0,0.4844193,5.5665622,-69.497023)"
+     id="focus-background-bottomleft">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 197.00001,323.00008 -1e-5,-13.99907 -13.99999,-0.001 1e-5,13.99907 z"
+       style="fill:currentColor"
+       id="path2448" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.4844193,0,0,0.4844193,8.9575222,-66.106253)"
+     id="focus-background-bottom">
+    <svg:path
+       inkscape:label="#path98"
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="M 189.99998,315.99995 H 240 l -4e-5,-13.99962 h -50.00001 z"
+       style="fill:currentColor"
+       id="path2452" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.9688386,0,0,0.9688386,-107.30301,-219.18332)"
+     id="focus-background-bottomright">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path2456"
+       transform="matrix(0.5,0,0,0.5,211.49998,258.03039)"
+       d="m 57,101.93945 v 14 l 14,-14 z"
+       style="fill:currentColor" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.9688386,0,0,0.96883923,-107.30312,-194.96162)"
+     id="focus-background-topright">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="m 240,251.99982 v 7 h 7 v -7 z"
+       style="fill:currentColor"
+       id="path2460" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.56327826,0,0,0.96883797,-9.9687922,-188.17943)"
+     id="focus-background-top">
+    <svg:path
+       class="ColorScheme-ButtonFocus"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       d="M 197.00001,244.99982 H 240 v 7 h -42.9989 z"
+       style="fill:currentColor"
+       id="path2464" />
+  </svg:g>
+  <svg:g
+     id="focus-background-center"
+     transform="translate(92.107663,45.078055)">
+    <svg:rect
+       id="rect2468"
+       style="fill:currentColor"
+       width="24.220964"
+       height="24.220964"
+       x="8.8895111"
+       y="10.889518"
+       class="ColorScheme-ButtonFocus" />
+  </svg:g>
+</svg:svg>

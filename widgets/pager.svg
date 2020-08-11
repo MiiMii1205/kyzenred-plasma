@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15.344"
+   height="23"
+   version="1"
+   id="svg31"
+   sodipodi:docname="pager.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <svg:metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+    <style id="current-color-scheme"> </style>
+  <svg:defs
+     id="defs35" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1720"
+     inkscape:window-height="1363"
+     id="namedview33"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="45.254834"
+     inkscape:cx="8.3752374"
+     inkscape:cy="2.2042791"
+     inkscape:window-x="1020"
+     inkscape:window-y="226"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg31">
+    <sodipodi:guide
+       position="9.5e-06,22"
+       orientation="1,0"
+       id="guide844"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.0000095,23"
+       orientation="0,1"
+       id="guide846"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.000009,17"
+       orientation="1,0"
+       id="guide848"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.000009,16"
+       orientation="0,1"
+       id="guide850"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.999988,15"
+       orientation="0,1"
+       id="guide852"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.999988,7.9977539"
+       orientation="0,1"
+       id="guide854"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.999977,7"
+       orientation="0,1"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12,-0.00099945068"
+       orientation="0,1"
+       id="guide858"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-0.9999905,17.000001"
+       orientation="1,0"
+       id="guide860"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12,-2.3759995"
+       orientation="0,1"
+       id="guide862"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.999977,4.625"
+       orientation="0,1"
+       id="guide864"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <svg:path
+     id="normal-left"
+     style="opacity:0.1;fill:currentColor"
+     d="m -0.9999905,0 v 4.999999 h 2 V 0 Z"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonBackground"
+     sodipodi:nodetypes="ccccc" />
+  <svg:path
+     id="normal-right"
+     style="opacity:0.1;fill:currentColor"
+     d="m 14.000009,0 v 4.999999 h -2 V 0 Z"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonBackground"
+     sodipodi:nodetypes="ccccc" />
+  <svg:rect
+     id="normal-bottom"
+     style="opacity:0.1;fill:currentColor"
+     width="11"
+     height="2"
+     x="1"
+     y="5"
+     class="ColorScheme-ButtonBackground" />
+  <svg:path
+     id="normal-top"
+     style="opacity:0.1;fill:currentColor"
+     d="M 1.0000095,-2 V 0 H 11.999983 v -2 z"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonBackground"
+     sodipodi:nodetypes="ccccc" />
+  <svg:path
+     id="hover-left"
+     style="opacity:0.32000002"
+     d="m -0.9999905,10.002247 v 4.999999 h 2 v -4.999999 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     class="ColorScheme-ButtonHover" />
+  <svg:path
+     id="hover-right"
+     style="opacity:0.32000002"
+     d="m 14.000009,10.002247 v 4.999999 h -2 v -4.999999 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     class="ColorScheme-ButtonHover" />
+  <svg:path
+     id="hover-top"
+     style="opacity:0.32000002"
+     d="M 1.0000095,8.0022461 V 10.000998 H 11.999988 V 8.0022461 Z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     class="ColorScheme-ButtonHover" />
+  <svg:path
+     id="active-left"
+     style="opacity:0.45;fill:currentColor"
+     d="m -1,19.375 v 4.999999 H 1 V 19.375 Z"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ViewBackground"
+     sodipodi:nodetypes="ccccc" />
+  <svg:path
+     id="active-right"
+     style="opacity:0.45;fill:currentColor"
+     d="m 13.999999,19.375 v 4.999999 h -2 V 19.375 Z"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ViewBackground"
+     sodipodi:nodetypes="ccccc" />
+  <svg:rect
+     id="active-bottom"
+     style="opacity:0.45;fill:currentColor"
+     width="10.999999"
+     height="1.999999"
+     x="1"
+     y="24.375"
+     class="ColorScheme-ViewBackground" />
+  <svg:path
+     id="active-top"
+     style="opacity:0.45;fill:currentColor"
+     d="m 1,17.375 v 2 h 10.999977 v -2 z"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-ViewBackground"
+     sodipodi:nodetypes="ccccc" />
+  <svg:rect
+     id="normal-center"
+     style="opacity:0.1;fill:currentColor"
+     width="11"
+     height="5"
+     x="1"
+     y="-5"
+     transform="scale(1,-1)"
+     class="ColorScheme-ButtonBackground" />
+  <svg:rect
+     id="active-center"
+     style="opacity:0.45;fill:currentColor"
+     width="11"
+     height="5"
+     x="1"
+     y="-24.375"
+     transform="scale(1,-1)"
+     class="ColorScheme-ViewBackground" />
+  <svg:rect
+     id="hover-center"
+     style="opacity:0.32000002"
+     width="11"
+     height="5"
+     x="1"
+     y="-15.002246"
+     transform="scale(1,-1)"
+     class="ColorScheme-ButtonHover" />
+  <svg:g
+     id="hover-bottom"
+     transform="matrix(2.1999957,0,0,0.99875155,-1.1999862,-1.4446949)"
+     class="ColorScheme-ButtonHover">
+    <svg:rect
+       style="opacity:0.32000002"
+       width="5"
+       height="2.0000005"
+       x="1"
+       y="16.469999"
+       id="rect16" />
+  </svg:g>
+  <svg:path
+     id="hover-bottomleft"
+     style="opacity:0.32000002"
+     d="m -0.9999905,15.00465 v 2.004492 l 2,-0.0044 v -2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     class="ColorScheme-ButtonHover" />
+  <svg:path
+     id="hover-topleft"
+     style="opacity:0.32000002"
+     d="m -0.9999905,10.002245 2,-1.9999999 v 1.9999999 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     class="ColorScheme-ButtonHover" />
+  <svg:path
+     id="hover-topright"
+     style="opacity:0.32000002"
+     d="M 14,10.002246 V 8.0022461 h -2 v 1.9999999 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     class="ColorScheme-ButtonHover" />
+  <svg:path
+     id="hover-bottomright"
+     style="opacity:0.32000002"
+     d="m 14.000009,15.002246 -2,2 v -2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     class="ColorScheme-ButtonHover" />
+  <svg:path
+     id="normal-bottomleft"
+     style="opacity:0.1;fill:currentColor;stroke-width:2"
+     d="M -0.9999905,4.999999 V 7 l 2,-1e-6 v -2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     class="ColorScheme-ButtonBackground" />
+  <svg:path
+     id="normal-topleft"
+     style="opacity:0.1;fill:currentColor;stroke-width:2"
+     d="m -0.9999905,0 2,-2 v 2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     class="ColorScheme-ButtonBackground" />
+  <svg:path
+     id="normal-topright"
+     style="opacity:0.1;fill:currentColor;stroke-width:2"
+     d="m 14.000009,0 v -2 h -2 v 2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     class="ColorScheme-ButtonBackground" />
+  <svg:path
+     id="normal-bottomright"
+     style="opacity:0.1;fill:currentColor;stroke-width:2"
+     d="m 14.000009,4.999999 -2,2 v -2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     class="ColorScheme-ButtonBackground" />
+  <svg:path
+     id="active-bottomleft"
+     style="opacity:0.45;fill:currentColor"
+     d="m -1,24.374999 v 2.002 l 2,-0.002 v -2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     class="ColorScheme-ViewBackground" />
+  <svg:path
+     id="active-topleft"
+     style="opacity:0.45;fill:currentColor"
+     d="m -1,19.375 2,-2 v 2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     class="ColorScheme-ViewBackground" />
+  <svg:path
+     id="active-topright"
+     style="opacity:0.45;fill:currentColor"
+     d="m 13.999977,19.375 v -2 h -2 v 2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     class="ColorScheme-ViewBackground" />
+  <svg:path
+     id="active-bottomright"
+     style="opacity:0.45;fill:currentColor"
+     d="m 13.999999,24.374999 -2,2 v -2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     class="ColorScheme-ViewBackground" />
+</svg:svg>

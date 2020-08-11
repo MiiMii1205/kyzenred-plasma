@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="phone.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+          <style
+     id="current-color-scheme" />
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1720"
+     inkscape:window-height="1298"
+     id="namedview24"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="39.570281"
+     inkscape:cy="32.720864"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg22">
+    <sodipodi:guide
+       position="49.488329,10"
+       orientation="0,1"
+       id="guide854"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="45.51372,25"
+       orientation="0,1"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="44.325519,39"
+       orientation="0,1"
+       id="guide879"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="41.675779,49"
+       orientation="0,1"
+       id="guide881"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="22-22-phone"
+     transform="translate(0,-22)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       rx="0"
+       ry="0"
+       id="rect2" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       d="M 7.675781,3.0000002 6.001301,4.6757812 6.000001,19 h 8.325519 l 1.674479,-1.674479 V 3.0000002 Z m 1.999999,2 h 4.324219 V 13.325521 L 12.32552,15 H 7.999999 l 0.0013,-8.3242188 z m 1.251302,10.6666668 h 1.071615 l 0.0013,1.071614 -0.928418,0.928386 H 9.999998 v -1.071615 z"
+       id="path828-3-7"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="22-22-phone-battery"
+     transform="translate(2,-22)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="30"
+       y="0"
+       rx="0"
+       ry="0"
+       id="rect7" />
+    <path
+       style="fill:currentColor"
+       d="M 39.675781,-19 38.001953,-17.324219 38,-3 h 8.326172 L 48,-4.6738281 V -19 Z m 2,2 H 46 v 8.3261719 L 44.326172,-7 H 40 l 0.002,-8.324219 z M 43,-16 41.496094,-12.242188 42.466797,-11 H 43 v 3 L 44.503906,-11.757812 43.533203,-13 H 43 Z m -0.07227,9.6660156 h 1.070313 L 44,-5.2617188 43.072266,-4.3339844 H 42 v -1.0703125 z"
+       transform="translate(-2,22)"
+       id="path828-3-5"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="phone">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       rx="0"
+       ry="0"
+       id="rect12" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       d="M 10.513672,4.0000001 8.0019521,6.5136721 8.0000021,28 H 20.488279 l 2.511719,-2.511719 V 4.0000001 Z m 2.999999,3 h 6.486327 V 19.488281 L 17.48828,22 H 11 L 11.002,9.5136721 Z M 15.390624,23 h 1.607422 l 0.002,1.607422 L 15.607421,26 h -1.607422 v -1.607422 z"
+       id="path828"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="phone-battery">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="32"
+       y="0"
+       rx="0"
+       ry="0"
+       id="rect17" />
+    <path
+       style="fill:currentColor"
+       d="M 42.513672,4 40.001953,6.5136719 40,28 H 52.488281 L 55,25.488281 V 4 Z m 3,3 H 52 V 19.488281 L 49.488281,22 H 43 l 0.002,-12.4863281 z M 47.5,8.5 45.029297,14.257812 46,15.5 h 1.5 v 5 L 49.970703,14.742188 49,13.5 H 47.5 Z M 47.390625,23 h 1.607422 L 49,24.607422 47.607422,26 H 46 v -1.607422 z"
+       id="path828-3"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

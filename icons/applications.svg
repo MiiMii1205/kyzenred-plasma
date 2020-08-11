@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="applications.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <style
+     id="current-color-scheme" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1720"
+     inkscape:window-height="1298"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-10.638362"
+     inkscape:cy="26.711618"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="applications-other" />
+  <g
+     id="applications-other">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect2" />
+    <path
+       style="fill:currentColor"
+       d="M 29.350722,2.6481078 H 5.9153088 l -3.26603,3.2683703 V 29.351891 H 26.082351 L 29.350722,26.08352 Z M 27.855741,12.61231 v 5.947172 l -0.828206,0.830545 -5.947172,-0.0024 V 13.442855 L 21.908569,12.61231 Z M 19.386518,4.1407488 V 10.09026 l -0.828205,0.828205 -5.947171,-0.0024 V 4.9712947 l 0.828205,-0.8282065 z m 0,16.9407832 v 5.949511 l -0.828205,0.828205 -5.947171,-0.0024 V 21.912016 L 13.439347,21.08381 Z M 10.917297,12.61231 v 5.947172 l -0.830545,0.830545 -5.9471722,-0.0024 v -5.944828 l 0.830546,-0.830545 z"
+       id="path859"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text" />
+  </g>
+</svg>
