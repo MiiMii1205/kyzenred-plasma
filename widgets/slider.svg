@@ -6,12 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="76"
-   height="66"
-   version="1.1"
-   id="svg60"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="slider.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   id="svg60"
+   version="1.1"
+   height="66"
+   width="76">
   <svg:metadata
      id="metadata66">
     <rdf:RDF>
@@ -28,280 +28,285 @@
   <svg:defs
      id="defs64" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="3440"
-     inkscape:window-height="1298"
-     id="namedview62"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg60"
+     inkscape:window-maximized="0"
+     inkscape:window-y="321"
+     inkscape:window-x="-1"
+     inkscape:cy="41.73345"
+     inkscape:cx="37.511393"
+     inkscape:zoom="10.11377"
      showgrid="false"
-     inkscape:zoom="20.22754"
-     inkscape:cx="24.643242"
-     inkscape:cy="26.660967"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg60" />
+     id="namedview62"
+     inkscape:window-height="881"
+     inkscape:window-width="1550"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <svg:rect
-     id="hint-tile-center"
-     style="fill:#ff2a2a"
-     width="2"
-     height="2"
+     y="36"
      x="0"
-     y="36" />
+     height="2"
+     width="2"
+     style="fill:#ff2a2a"
+     id="hint-tile-center" />
   <svg:path
-     id="groove-bottomright"
-     style="opacity:0.3;fill:currentColor"
-     d="m 7,53 v 1 h 1 v -1 z"
+     sodipodi:nodetypes="cccc"
+     class="ColorScheme-Text"
      inkscape:connector-curvature="0"
-     class="ColorScheme-Text" />
-  <svg:path
-     id="groove-right"
+     d="m 7,53 v 1 l 1,-1 z"
      style="opacity:0.3;fill:currentColor"
+     id="groove-bottomright" />
+  <svg:path
+     class="ColorScheme-Text"
+     inkscape:connector-curvature="0"
      d="m 7,51 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0"
-     class="ColorScheme-Text" />
-  <svg:path
-     id="groove-topright"
      style="opacity:0.3;fill:currentColor"
+     id="groove-right" />
+  <svg:path
+     class="ColorScheme-Text"
+     inkscape:connector-curvature="0"
      d="m 7,49 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0"
-     class="ColorScheme-Text" />
-  <svg:path
-     id="groove-bottomleft"
      style="opacity:0.3;fill:currentColor"
+     id="groove-topright" />
+  <svg:path
+     class="ColorScheme-Text"
+     inkscape:connector-curvature="0"
      d="m 3,53 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0"
-     class="ColorScheme-Text" />
-  <svg:path
-     id="groove-left"
      style="opacity:0.3;fill:currentColor"
+     id="groove-bottomleft" />
+  <svg:path
+     class="ColorScheme-Text"
+     inkscape:connector-curvature="0"
      d="m 3,51 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0"
-     class="ColorScheme-Text" />
-  <svg:path
-     id="groove-topleft"
      style="opacity:0.3;fill:currentColor"
-     d="M 4,49 H 3 v 1 h 1 z"
-     inkscape:connector-curvature="0"
-     class="ColorScheme-Text" />
+     id="groove-left" />
   <svg:path
-     id="groove-bottom"
+     sodipodi:nodetypes="cccc"
+     class="ColorScheme-Text"
+     inkscape:connector-curvature="0"
+     d="M 4,49 3,50 H 4 Z"
      style="opacity:0.3;fill:currentColor"
+     id="groove-topleft" />
+  <svg:path
+     class="ColorScheme-Text"
+     inkscape:connector-curvature="0"
      d="m 5,53 v 1 h 1 v -1 z"
-     inkscape:connector-curvature="0"
-     class="ColorScheme-Text" />
-  <svg:path
-     id="groove-center"
      style="opacity:0.3;fill:currentColor"
+     id="groove-bottom" />
+  <svg:path
+     class="ColorScheme-Text"
+     inkscape:connector-curvature="0"
      d="M 6,51 H 5 v 1 h 1 z"
-     inkscape:connector-curvature="0"
-     class="ColorScheme-Text" />
-  <svg:path
-     id="groove-top"
      style="opacity:0.3;fill:currentColor"
-     d="m 5,49 v 1 h 1 v -1 z"
+     id="groove-center" />
+  <svg:path
+     class="ColorScheme-Text"
      inkscape:connector-curvature="0"
-     class="ColorScheme-Text" />
+     d="m 5,49 v 1 h 1 v -1 z"
+     style="opacity:0.3;fill:currentColor"
+     id="groove-top" />
   <svg:path
-     id="groove-highlight-bottomright"
-     style="fill:currentColor"
-     d="m 7,62 v 1 h 1 v -1 z"
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
      class="ColorScheme-Highlight"
-     inkscape:connector-curvature="0" />
-  <svg:path
-     id="groove-highlight-right"
+     d="m 7,62 v 1 l 1,-1 z"
      style="fill:currentColor"
+     id="groove-highlight-bottomright" />
+  <svg:path
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
      d="m 7,60 v 1 h 1 v -1 z"
-     class="ColorScheme-Highlight"
-     inkscape:connector-curvature="0" />
-  <svg:path
-     id="groove-highlight-topright"
      style="fill:currentColor"
+     id="groove-highlight-right" />
+  <svg:path
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
      d="m 7,58 v 1 h 1 v -1 z"
-     class="ColorScheme-Highlight"
-     inkscape:connector-curvature="0" />
-  <svg:path
-     id="groove-highlight-bottomleft"
      style="fill:currentColor"
+     id="groove-highlight-topright" />
+  <svg:path
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
      d="m 3,62 v 1 h 1 v -1 z"
-     class="ColorScheme-Highlight"
-     inkscape:connector-curvature="0" />
-  <svg:path
-     id="groove-highlight-left"
      style="fill:currentColor"
+     id="groove-highlight-bottomleft" />
+  <svg:path
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
      d="m 3,60 v 1 h 1 v -1 z"
-     class="ColorScheme-Highlight"
-     inkscape:connector-curvature="0" />
-  <svg:path
-     id="groove-highlight-topleft"
      style="fill:currentColor"
-     d="M 4,58 H 3 v 1 h 1 z"
-     class="ColorScheme-Highlight"
-     inkscape:connector-curvature="0" />
+     id="groove-highlight-left" />
   <svg:path
-     id="groove-highlight-bottom"
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
+     d="M 4,58 3,59 H 4 Z"
      style="fill:currentColor"
+     id="groove-highlight-topleft" />
+  <svg:path
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
      d="m 5,62 v 1 h 1 v -1 z"
-     class="ColorScheme-Highlight"
-     inkscape:connector-curvature="0" />
-  <svg:path
-     id="groove-highlight-center"
      style="fill:currentColor"
+     id="groove-highlight-bottom" />
+  <svg:path
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
      d="M 6,60 H 5 v 1 h 1 z"
-     class="ColorScheme-Highlight"
-     inkscape:connector-curvature="0" />
-  <svg:path
-     id="groove-highlight-top"
      style="fill:currentColor"
-     d="m 5,58 v 1 h 1 v -1 z"
+     id="groove-highlight-center" />
+  <svg:path
+     inkscape:connector-curvature="0"
      class="ColorScheme-Highlight"
-     inkscape:connector-curvature="0" />
+     d="m 5,58 v 1 h 1 v -1 z"
+     style="fill:currentColor"
+     id="groove-highlight-top" />
   <svg:g
-     id="horizontal-slider-handle"
-     transform="matrix(0.6875,0,0,0.6875,-7.187504,41.250002)">
+     transform="matrix(0.6875,0,0,0.6875,-7.187504,41.250002)"
+     id="horizontal-slider-handle">
     <svg:rect
-       style="opacity:0"
-       width="32"
-       height="32"
-       x="25"
+       id="rect21"
        y="4"
-       id="rect21" />
+       x="25"
+       height="32"
+       width="32"
+       style="opacity:0" />
     <svg:path
-       style="fill:currentColor;stroke-width:3.63636374"
-       d="m 41,27.272727 6.384945,-6.38494 V 19.112216 L 41,12.727273 34.615054,19.112216 v 1.775571 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
        id="path55-3-3"
-       class="ColorScheme-Highlight"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       d="m 41,27.272727 6.384945,-6.38494 V 19.112216 L 41,12.727273 34.615054,19.112216 v 1.775571 z"
+       style="fill:currentColor;stroke-width:3.63636374" />
   </svg:g>
   <svg:g
-     id="horizontal-slider-hover"
-     transform="matrix(0.6875,0,0,0.6875,14.8125,41.25)">
+     transform="matrix(0.6875,0,0,0.6875,14.8125,41.25)"
+     id="horizontal-slider-hover">
     <svg:rect
-       style="opacity:0"
-       width="32"
-       height="32"
-       x="25"
+       id="rect26"
        y="4"
-       id="rect26" />
+       x="25"
+       height="32"
+       width="32"
+       style="opacity:0" />
     <svg:path
-       style="fill:currentColor;stroke-width:3.63636374"
-       d="m 41,27.272727 6.384946,-6.38494 V 19.112216 L 41,12.727273 34.615054,19.112216 v 1.775571 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
        id="path55-3-3-7"
-       class="ColorScheme-Highlight"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
-    <svg:path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Highlight"
-       id="path908"
-       d="M 41,36 55.046882,21.953131 V 18.046875 L 41,4 26.953118,18.046875 v 3.906256 z"
-       style="opacity:0.2;fill:currentColor;stroke-width:8.00000095" />
-  </svg:g>
-  <svg:g
-     id="horizontal-slider-focus"
-     transform="matrix(0.6875,0,0,0.6875,36.8125,41.25)">
-    <svg:rect
-       style="opacity:0"
-       width="32"
-       height="32"
-       x="25"
-       y="4"
-       id="rect33" />
-    <svg:path
-       style="fill:currentColor;stroke-width:3.63636374"
        d="m 41,27.272727 6.384946,-6.38494 V 19.112216 L 41,12.727273 34.615054,19.112216 v 1.775571 z"
-       id="path55-3-3-5"
-       class="ColorScheme-Highlight"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       style="fill:currentColor;stroke-width:3.63636374" />
     <svg:path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Highlight"
-       id="path910"
+       style="opacity:0.2;fill:currentColor;stroke-width:8.00000095"
        d="M 41,36 55.046882,21.953131 V 18.046875 L 41,4 26.953118,18.046875 v 3.906256 z"
-       style="opacity:0.3;fill:currentColor" />
+       id="path908"
+       class="ColorScheme-Highlight"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </svg:g>
   <svg:g
-     id="vertical-slider-handle"
-     transform="matrix(0.6875,0,0,0.6875,-7.1875,19.25)">
+     transform="matrix(0.6875,0,0,0.6875,36.8125,41.25)"
+     id="horizontal-slider-focus">
     <svg:rect
-       style="opacity:0"
-       width="32"
-       height="32"
-       x="25"
+       id="rect33"
        y="4"
-       id="rect40" />
+       x="25"
+       height="32"
+       width="32"
+       style="opacity:0" />
     <svg:path
-       style="fill:currentColor;stroke-width:3.63636374"
-       d="m 48.272727,20 -6.38494,-6.384946 H 40.112216 L 33.727273,20 l 6.384943,6.384945 h 1.775571 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       id="path55-3-3-5"
+       d="m 41,27.272727 6.384946,-6.38494 V 19.112216 L 41,12.727273 34.615054,19.112216 v 1.775571 z"
+       style="fill:currentColor;stroke-width:3.63636374" />
+    <svg:path
+       style="opacity:0.3;fill:currentColor"
+       d="M 41,36 55.046882,21.953131 V 18.046875 L 41,4 26.953118,18.046875 v 3.906256 z"
+       id="path910"
+       class="ColorScheme-Highlight"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </svg:g>
+  <svg:g
+     transform="matrix(0.6875,0,0,0.6875,-7.1875,19.25)"
+     id="vertical-slider-handle">
+    <svg:rect
+       id="rect40"
+       y="4"
+       x="25"
+       height="32"
+       width="32"
+       style="opacity:0" />
+    <svg:path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
        id="path55-3"
-       class="ColorScheme-Highlight"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       d="m 48.272727,20 -6.38494,-6.384946 H 40.112216 L 33.727273,20 l 6.384943,6.384945 h 1.775571 z"
+       style="fill:currentColor;stroke-width:3.63636374" />
   </svg:g>
   <svg:g
-     id="vertical-slider-hover"
-     transform="matrix(0.6875,0,0,0.6875,14.8125,19.25)">
+     transform="matrix(0.6875,0,0,0.6875,14.8125,19.25)"
+     id="vertical-slider-hover">
     <svg:rect
-       style="opacity:0"
-       width="32"
-       height="32"
-       x="25"
+       id="rect45"
        y="4"
-       id="rect45" />
+       x="25"
+       height="32"
+       width="32"
+       style="opacity:0" />
     <svg:path
-       style="fill:currentColor;stroke-width:3.63636374"
-       d="m 48.272454,20 -6.38494,-6.384946 H 40.111943 L 33.727,20 l 6.384943,6.384945 h 1.775571 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
        id="path55-3-36"
+       d="m 48.272454,20 -6.38494,-6.384946 H 40.111943 L 33.727,20 l 6.384943,6.384945 h 1.775571 z"
+       style="fill:currentColor;stroke-width:3.63636374" />
+    <svg:path
+       style="opacity:0.2;fill:currentColor;stroke-width:8.00000095"
+       d="M 56.999727,20 42.952858,5.9531177 H 39.046602 L 24.999727,20 39.046602,34.046881 h 3.906256 z"
+       id="path904"
        class="ColorScheme-Highlight"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
-    <svg:path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Highlight"
-       id="path904"
-       d="M 56.999727,20 42.952858,5.9531177 H 39.046602 L 24.999727,20 39.046602,34.046881 h 3.906256 z"
-       style="opacity:0.2;fill:currentColor;stroke-width:8.00000095" />
   </svg:g>
   <svg:g
-     id="vertical-slider-focus"
-     transform="matrix(0.6875,0,0,0.6875,36.8125,19.25)">
+     transform="matrix(0.6875,0,0,0.6875,36.8125,19.25)"
+     id="vertical-slider-focus">
     <svg:rect
-       style="opacity:0"
-       width="32"
-       height="32"
-       x="25"
+       id="rect52"
        y="4"
-       id="rect52" />
-    <svg:path
-       style="fill:currentColor;stroke-width:3.63636374"
-       d="m 48.272727,20.000001 -6.38494,-6.384947 h -1.775571 l -6.384943,6.384947 6.384943,6.384945 h 1.775571 z"
-       id="path55-3-36-3"
-       class="ColorScheme-Highlight"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       x="25"
+       height="32"
+       width="32"
+       style="opacity:0" />
     <svg:path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        class="ColorScheme-Highlight"
-       id="path906"
+       id="path55-3-36-3"
+       d="m 48.272727,20.000001 -6.38494,-6.384947 h -1.775571 l -6.384943,6.384947 6.384943,6.384945 h 1.775571 z"
+       style="fill:currentColor;stroke-width:3.63636374" />
+    <svg:path
+       style="opacity:0.3;fill:currentColor;stroke-width:8.00000095"
        d="M 57,20.000002 42.953131,5.9531183 H 39.046875 L 25,20.000002 39.046875,34.046882 h 3.906256 z"
-       style="opacity:0.3;fill:currentColor;stroke-width:8.00000095" />
+       id="path906"
+       class="ColorScheme-Highlight"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </svg:g>
   <svg:circle
-     id="hint-handle-size"
-     style="fill:#ff0000"
-     cx="65"
+     r="11"
      cy="11"
-     r="11" />
+     cx="65"
+     style="fill:#ff0000"
+     id="hint-handle-size" />
 </svg:svg>
