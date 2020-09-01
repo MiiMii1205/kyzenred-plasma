@@ -12,7 +12,7 @@
    version="1"
    id="svg91"
    sodipodi:docname="lineedit.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata97">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,20 +38,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1720"
-     inkscape:window-height="1298"
+     inkscape:window-width="1718"
+     inkscape:window-height="927"
      id="namedview93"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="6.2972528"
-     inkscape:cx="176.71726"
-     inkscape:cy="92.806177"
-     inkscape:window-x="469"
-     inkscape:window-y="89"
+     inkscape:zoom="22.627417"
+     inkscape:cx="127.25737"
+     inkscape:cy="46.396552"
+     inkscape:window-x="1301"
+     inkscape:window-y="664"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg91"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="116.00001,59.002951"
        orientation="1,0"
@@ -83,12 +84,18 @@
      id="base-bottomleft"
      transform="translate(829.80716,-765.58399)">
     <path
-       style="opacity:0.00100002"
-       transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"
-       d="m 162,-159 1.4e-4,1.99992 -14.00002,8e-5 v -2 z"
+       style="opacity:0.00100002;stroke-width:0.5"
+       d="m -720.80709,810.63721 -7e-5,0.99996 7.00001,4e-5 v -1 z"
        id="path5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       id="path32-3"
+       d="m -720.80713,810.63721 6.99995,1 v -1 z"
+       style="fill:currentColor;opacity:0.3;" />
   </g>
   <g
      id="base-left"
@@ -116,12 +123,13 @@
      id="base-bottom"
      transform="matrix(1.9090909,0,0,1,1484.1774,-765.58399)">
     <rect
-       style="opacity:0.00100002"
+       style="fill:currentColor;opacity:0.3;"
        width="48.714298"
-       height="0.8857187"
+       height="1"
        x="-716.66437"
        y="810.63721"
-       id="rect14" />
+       id="rect14"
+       class="ColorScheme-Text" />
   </g>
   <g
      id="base-topright"
@@ -144,6 +152,13 @@
        id="path20"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:currentColor;opacity:0.3;"
+       d="m -663.80719,810.63721 -6.99995,1 v -1 z"
+       id="path32-3-6"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text"
+       sodipodi:nodetypes="cccc" />
   </g>
   <g
      id="base-right"
