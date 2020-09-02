@@ -12,6 +12,7 @@ To set your plasma theme, you'll need to open up your KDE system manager and go 
 
 ## Color scheme
 Kyzenred comes with its official color scheme. That means that you can use Kyzenred as is.
+
 However, Kyzenred was designed to handle any KDE color scheme you'll throw at it.
 
 To find out how to change your KDE color scheme, [click here](https://docs.kde.org/trunk5/en/kde-workspace/kcontrol/colors/index.html)!
