@@ -14,7 +14,9 @@
    sodipodi:docname="nepomuk.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
                     <style
-     id="current-color-scheme" />
+     id="current-color-scheme" >
+      .ColorScheme-Text{color:rgb(255,248,247);} .ColorScheme-Background{color:rgb(3,27,22);} .ColorScheme-Highlight{color:rgb(229,27,66);} .ColorScheme-ViewText{color:rgb(250,233,232);} .ColorScheme-ViewBackground{color:rgb(1,13,10);} .ColorScheme-ViewHover{color:rgb(148,34,40);} .ColorScheme-ViewFocus{color:rgb(201,30,60);} .ColorScheme-ButtonText{color:rgb(233,245,243);} .ColorScheme-ButtonBackground{color:rgb(28,4,8);} .ColorScheme-ButtonHover{color:rgb(148,34,40);} .ColorScheme-ButtonFocus{color:rgb(201,30,60);}
+  </style>
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -105,7 +107,8 @@
        id="rect2" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:currentColor;stroke-width:2.00026274"
+       style="fill:currentColor"
+       class="ColorScheme-Text"
        d="m 12.459806,4.2566811 -9.21875,9.2167969 v 2.564453 l 9.21875,9.21875 4.335938,-4.335938 6.851562,6.851563 h 2.625 l 1.515625,-1.515625 -8.164063,-8.164062 2.052735,-2.052735 v -2.568359 z m 0,3.9999997 5.705078,5.7050782 v 1.589844 L 12.459806,21.256681 6.7527748,15.54965 v -1.587891 z"
        id="rect22" />
   </g>
@@ -121,7 +124,8 @@
        id="rect7" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:currentColor;stroke-width:1.36091638"
+       style="fill:currentColor"
+       class="ColorScheme-Text"
        d="M 9.1908655,3.000702 2.9187154,9.271523 v 1.744774 l 6.2721501,6.272149 2.9500385,-2.950036 4.661588,4.661589 h 1.785968 l 1.031185,-1.031184 -5.554574,-5.554572 1.396616,-1.396617 V 9.2701942 Z m 0,2.7214751 3.8815575,3.8815571 V 10.685414 L 9.1908655,14.566972 5.3079797,10.684086 V 9.6037342 Z"
        id="rect22-6" />
   </g>

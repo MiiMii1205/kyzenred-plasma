@@ -1,25 +1,146 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1">
- <g>
-  <g id="border-top" transform="matrix(0.1444413,0,0,1,7.6889401,-99.922096)">
-   <rect style="opacity:0.01" width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
-   <rect style="opacity:0" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="scrollwidget.svg"
+   id="svg29"
+   version="1"
+   height="128"
+   width="128">
+     <style
+     id="current-color-scheme" >
+      .ColorScheme-Text{color:rgb(255,248,247);} .ColorScheme-Background{color:rgb(3,27,22);} .ColorScheme-Highlight{color:rgb(229,27,66);} .ColorScheme-ViewText{color:rgb(250,233,232);} .ColorScheme-ViewBackground{color:rgb(1,13,10);} .ColorScheme-ViewHover{color:rgb(148,34,40);} .ColorScheme-ViewFocus{color:rgb(201,30,60);} .ColorScheme-ButtonText{color:rgb(233,245,243);} .ColorScheme-ButtonBackground{color:rgb(28,4,8);} .ColorScheme-ButtonHover{color:rgb(148,34,40);} .ColorScheme-ButtonFocus{color:rgb(201,30,60);}
+  </style>
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs33" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg29"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="74.56825"
+     inkscape:cx="-4.7477629"
+     inkscape:zoom="3.4257813"
+     showgrid="false"
+     id="namedview31"
+     inkscape:window-height="1407"
+     inkscape:window-width="1718"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <rect
+     id="border-center"
+     style="fill:none"
+     width="64.25"
+     height="61.5"
+     x="33.5"
+     y="33.5" />
+  <g
+     transform="translate(-239.5,-1120.75)"
+     id="border-left">
+    <path
+       d="m 271,1170 h 2 v 30 h -2 z"
+       id="rect4962"
+       style="fill:currentColor"
+       class="ColorScheme-ButtonHover" />
+    <path
+       d="m 272,1170 v 30 h 1 v -30 z"
+       id="path5131"
+       style="fill:currentColor"
+       class="ColorScheme-ViewBackground" />
+    <path
+       d="m 270,1170 v 30 h 1 v -30 z"
+       id="rect5135"
+       style="fill-opacity:0;fill-rule:evenodd" />
   </g>
-  <rect id="border-center" style="opacity:0.6;fill:#ffffff;fill-opacity:0" width="64.25" height="61.5" x="33.5" y="33.5"/>
-  <rect id="border-topleft" style="opacity:0.6;fill:#ffffff;fill-opacity:0" width="8.582" height="9.211" x="-10.87" y="-11.23" transform="scale(-1,-1)"/>
-  <rect id="border-bottomleft" style="opacity:0.59999999999999998;fill:#8b8b8b;fill-opacity:0" width="8.582" height="9.211" x="-10.87" y="-126.84" transform="scale(-1,-1)"/>
-  <rect id="border-topright" style="opacity:0.6;fill:#ffffff;fill-opacity:0" width="8.582" height="9.211" x="-126.13" y="-11.23" transform="scale(-1,-1)"/>
-  <rect id="border-bottomright" style="opacity:0.59999999999999998;fill:#8b8b8b;fill-opacity:0" width="8.582" height="9.211" x="-126.13" y="-126.84" transform="scale(-1,-1)"/>
-  <g id="border-left" transform="matrix(0,-0.1444413,1,0,-100.15432,123.01818)">
-   <rect style="opacity:0.01" width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
-   <rect style="opacity:0" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
+  <g
+     transform="translate(-239.5,-1136.5)"
+     id="border-topleft">
+    <path
+       transform="translate(-35.5,-5)"
+       d="m 308.5,1173 h -2 v 2 h 2 z"
+       id="rect5015"
+       style="fill:currentColor"
+       class="ColorScheme-ButtonHover" />
+    <path
+       d="m 273,1169 h -1 v 1 h 1 z"
+       id="path5157"
+       class="ColorScheme-ViewBackground" />
+    <path
+       d="m 273,1167 h -3 v 3 h 1 c 0,-1.125 0.875,-2 2,-2 z"
+       id="path5159"
+       style="fill-opacity:0" />
   </g>
-  <g id="border-bottom" transform="matrix(-0.1444413,0,0,-1,118.89686,231.56855)">
-   <rect style="opacity:0.01" width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
-   <rect style="opacity:0" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
-  </g>
-  <g id="border-right" transform="matrix(0,0.1444413,-1,0,227.80078,12.163813)">
-   <rect style="opacity:0.01" width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
-   <rect style="opacity:0" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
-  </g>
- </g>
+  <use
+     transform="rotate(90,64.9375,64.9375)"
+     id="border-top"
+     xlink:href="#border-left"
+     height="1230"
+     y="0"
+     x="0"
+     width="450" />
+  <use
+     transform="rotate(90,65.625002,65.625)"
+     id="border-topright"
+     xlink:href="#border-topleft"
+     height="1230"
+     y="0"
+     x="0"
+     width="450" />
+  <use
+     transform="matrix(-1,0,0,1,131.25,0)"
+     id="border-right"
+     xlink:href="#border-left"
+     height="1230"
+     y="0"
+     x="0"
+     width="450" />
+  <use
+     transform="rotate(180,65.625,64.25)"
+     id="border-bottomright"
+     xlink:href="#border-topleft"
+     height="1230"
+     y="0"
+     x="0"
+     width="450" />
+  <use
+     transform="rotate(-90,64.9375,63.5625)"
+     id="border-bottom"
+     xlink:href="#border-left"
+     height="1230"
+     y="0"
+     x="0"
+     width="450" />
+  <use
+     transform="rotate(-90,64.25,64.25)"
+     id="border-bottomleft"
+     xlink:href="#border-topleft"
+     height="1230"
+     y="0"
+     x="0"
+     width="450" />
 </svg>

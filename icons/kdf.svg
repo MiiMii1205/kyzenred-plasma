@@ -14,7 +14,9 @@
    sodipodi:docname="kdf.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
                     <style
-     id="current-color-scheme" />
+     id="current-color-scheme" >
+      .ColorScheme-Text{color:rgb(255,248,247);} .ColorScheme-Background{color:rgb(3,27,22);} .ColorScheme-Highlight{color:rgb(229,27,66);} .ColorScheme-ViewText{color:rgb(250,233,232);} .ColorScheme-ViewBackground{color:rgb(1,13,10);} .ColorScheme-ViewHover{color:rgb(148,34,40);} .ColorScheme-ViewFocus{color:rgb(201,30,60);} .ColorScheme-ButtonText{color:rgb(233,245,243);} .ColorScheme-ButtonBackground{color:rgb(28,4,8);} .ColorScheme-ButtonHover{color:rgb(148,34,40);} .ColorScheme-ButtonFocus{color:rgb(201,30,60);}
+  </style>
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -52,7 +54,7 @@
      id="22-22-kdf"
      transform="matrix(-1,0,0,1,54,10)">
     <rect
-       style="opacity:0.001"
+       style="fill:none"
        width="22"
        height="22"
        x="0"
@@ -62,13 +64,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path848-3"
-       style="fill:currentColor;fill-rule:evenodd;stroke-width:0.66666669"
+       class="ColorScheme-ViewText"
+       style="fill:currentColor"
        d="M 11,7.6666671 8.9518229,9.7148439 V 10.285156 L 11,12.333333 13.046875,10.285156 V 9.7148439 Z m 0,-2.666667 4.388021,4.3880208 V 10.611979 L 11,15 H 6.6119791 V 9.3880209 Z m 4.486979,-2 L 18,5.5130211 V 19 H 6.5130211 L 4.0000001,16.486979 V 3.0000001 Z" />
   </g>
   <g
      id="kdf">
     <rect
-       style="opacity:0.001"
+       style="fill:none"
        width="32"
        height="32"
        x="-32"
@@ -79,7 +82,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path848"
-       style="fill:currentColor;fill-rule:evenodd"
+       class="ColorScheme-ViewText"
+       style="fill:currentColor"
        d="m 15.5,11 3.072266,3.072266 v 0.855468 L 15.5,18 12.429688,14.927734 v -0.855468 z m 0,-4.0000005 -6.5820315,6.5820315 v 1.835938 L 15.5,22.000001 h 6.582031 v -8.41797 z m -6.7304695,-3 -3.769531,3.769531 V 28.000001 H 22.230469 L 26,24.23047 V 3.9999995 Z" />
   </g>
 </svg>

@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg1076"
-   width="109"
-   height="125"
-   version="1.0"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="tasks.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   version="1.0"
+   height="125"
+   width="109"
+   id="svg1076">
   <metadata
      id="metadata626">
     <rdf:RDF>
@@ -29,431 +29,180 @@
   <defs
      id="defs624" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1902"
-     inkscape:window-height="1404"
-     id="namedview622"
-     showgrid="false"
-     inkscape:pagecheckerboard="true"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="83.064087"
-     inkscape:cy="101.13345"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg1076"
+     inkscape:document-rotation="0"
      inkscape:snap-midpoints="true"
-     inkscape:document-rotation="0">
+     inkscape:current-layer="svg1076"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="100.17768"
+     inkscape:cx="69.451593"
+     inkscape:zoom="11.313708"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:guide-bbox="true"
+     showguides="false"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     id="namedview622"
+     inkscape:window-height="1404"
+     inkscape:window-width="2076"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
     <sodipodi:guide
-       inkscape:locked="false"
+       position="3,85"
+       orientation="0,1"
        id="guide1473"
-       orientation="0,1"
-       position="3,85" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1475"
-       orientation="0,1"
-       position="3,103" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1483"
-       orientation="1,0"
-       position="-34.152956,99.769196" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1491"
-       orientation="1,0"
-       position="-38.998779,104.61527" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1493"
-       orientation="-0.70710678,0.70710678"
-       position="-34.152956,101.3846" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1517"
-       orientation="0,1"
-       position="-9.5852315,108.79414" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1519"
-       orientation="1,0"
-       position="-9.354478,109.02489" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1568"
-       orientation="0,1"
-       position="19.615223,102.00009" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1605"
-       orientation="1,0"
-       position="-37.383693,99.76917" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1622"
-       orientation="0,1"
-       position="-34.152961,104.61527" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1654"
-       orientation="0,1"
-       position="-34.152889,83.384547" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1712"
-       orientation="1,0"
-       position="-22.614288,84.999881" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide1779"
-       orientation="1,0"
-       position="0,81.5" />
-    <inkscape:grid
-       id="grid1781"
-       type="xygrid" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide18085"
-       orientation="0.8680738,-0.49643516"
-       position="90.003169,7" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide18087"
-       orientation="0.70710678,0.70710678"
-       position="86.930899,3.92773" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide18089"
-       orientation="0,1"
-       position="94,0" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide18091"
-       orientation="0.86841245,0.49584254"
-       position="90.003169,7" />
-    <sodipodi:guide
-       position="4.8458985,101.38468"
-       orientation="1,0"
-       id="guide1520"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="3,103"
+       orientation="0,1"
+       id="guide1475"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-34.152956,99.769196"
+       orientation="1,0"
+       id="guide1483"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-38.998779,104.61527"
+       orientation="1,0"
+       id="guide1491"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-34.152956,101.3846"
+       orientation="-0.70710678,0.70710678"
+       id="guide1493"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-9.5852315,108.79414"
+       orientation="0,1"
+       id="guide1517"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-9.354478,109.02489"
+       orientation="1,0"
+       id="guide1519"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.615223,102.00009"
+       orientation="0,1"
+       id="guide1568"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-37.383693,99.76917"
+       orientation="1,0"
+       id="guide1605"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-34.152961,104.61527"
+       orientation="0,1"
+       id="guide1622"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-34.152889,83.384547"
+       orientation="0,1"
+       id="guide1654"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-22.614288,84.999881"
+       orientation="1,0"
+       id="guide1712"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,81.5"
+       orientation="1,0"
+       id="guide1779"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1781" />
+    <sodipodi:guide
+       position="90.003169,7"
+       orientation="0.8680738,-0.49643516"
+       id="guide18085"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="86.930899,3.92773"
+       orientation="0.70710678,0.70710678"
+       id="guide18087"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="94,0"
+       orientation="0,1"
+       id="guide18089"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="90.003169,7"
+       orientation="0.86841245,0.49584254"
+       id="guide18091"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide1520"
+       orientation="1,0"
+       position="4.8458985,101.38468" />
   </sodipodi:namedview>
   <style
-     id="current-color-scheme" />
+     id="current-color-scheme">
+      .ColorScheme-Text{color:rgb(255,248,247);} .ColorScheme-Background{color:rgb(3,27,22);} .ColorScheme-Highlight{color:rgb(229,27,66);} .ColorScheme-ViewText{color:rgb(250,233,232);} .ColorScheme-ViewBackground{color:rgb(1,13,10);} .ColorScheme-ViewHover{color:rgb(148,34,40);} .ColorScheme-ViewFocus{color:rgb(201,30,60);} .ColorScheme-ButtonText{color:rgb(233,245,243);} .ColorScheme-ButtonBackground{color:rgb(28,4,8);} .ColorScheme-ButtonHover{color:rgb(148,34,40);} .ColorScheme-ButtonFocus{color:rgb(201,30,60);}
+  </style>
   <g
-     id="group-expander-bottom"
-     transform="translate(61,78)">
+     transform="translate(61,78)"
+     id="group-expander-bottom">
     <path
-       id="center-3-2-8-5-9-9"
-       d="m -24.984217,27.981458 v 10 h 10 v -10 z"
+       style="opacity:0.27000002;fill:none;filter:url(#filter7986-7-9-7-4-2-6)"
        transform="matrix(0,-1,1.2,0,-10.57775,22.015783)"
-       style="opacity:0.27000002;fill:none;filter:url(#filter7986-7-9-7-4-2-6)" />
+       d="m -24.984217,27.981458 v 10 h 10 v -10 z"
+       id="center-3-2-8-5-9-9" />
     <path
-       style="fill:currentColor;stroke-width:1"
-       d="M 29.002749,40 25.530131,46.07227 26.457871,47 h 5.084258 l 0.92774,-0.92773 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonText"
        id="path55-3"
-       class="ColorScheme-ButtonText"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       d="M 29.002749,40 25.530131,46.07227 26.457871,47 h 5.084258 l 0.92774,-0.92773 z"
+       style="fill:currentColor;stroke-width:1" />
   </g>
   <g
-     transform="matrix(-0.23077193,0,0,-0.23077193,45.461709,103.00065)"
-     id="normal-topleft">
-    <rect
-       style="fill:none"
-       id="rect276-6-1"
-       width="20.998299"
-       height="20.998299"
-       x="-196.9986"
-       y="-265.99979"
-       transform="scale(-1)" />
-    <path
-       class="ColorScheme-ButtonText"
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path86-6-0"
-       transform="translate(183,207.06091)"
-       d="m -7,37.939453 v 14 l 14,-14 z"
-       style="opacity:0.025;fill:currentColor" />
-  </g>
-  <g
-     transform="matrix(0.46154387,0,0,0.46154417,-94.386075,-73.078414)"
-     id="normal-topright">
-    <rect
-       style="fill:none"
-       id="rect276-6-6-2-6-2-6"
-       width="10.499149"
-       height="10.499143"
-       x="240"
-       y="248.50069" />
-    <use
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       style="fill:#ffffff"
-       xlink:href="#normal-base"
-       id="normal-left-1-7"
-       transform="matrix(0,-0.28902291,0.28902309,0,236.85212,261.56794)" />
-  </g>
-  <g
-     transform="matrix(0.26833946,0,0,0.46154357,-48.017095,-69.847454)"
-     id="normal-top">
-    <rect
-       style="fill:none"
-       id="rect276-6-6-2-1-9"
-       width="43.000027"
-       height="10.499152"
-       x="197.00024"
-       y="241.50011" />
-    <use
-       transform="matrix(0,-0.28902328,1.7753836,0,177.66621,254.56909)"
-       id="normal-left-1"
-       xlink:href="#normal-base"
-       style="fill:#ffffff"
-       height="100%"
-       y="0"
-       x="0"
-       width="100%" />
-  </g>
-  <g
-     id="normal-center"
-     transform="matrix(0.47638881,0,0,0.47638881,0.6109246,41.273796)">
-    <rect
-       id="normal-base"
-       style="opacity:0.025;fill:currentColor"
-       width="24.220964"
-       height="24.220964"
-       x="8.8895111"
-       y="10.889518"
-       class="ColorScheme-ButtonText" />
-  </g>
-  <g
-     transform="matrix(-0.23077193,0,0,-0.23077193,45.461738,124.23137)"
-     id="hover-topleft">
-    <g
-       id="hover-base-topleft">
-      <path
-         style="opacity:0.125;fill:currentColor"
-         d="m -7,37.939453 v 14 l 14,-14 z"
-         transform="translate(183,207.06091)"
-         id="path6805"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc"
-         class="ColorScheme-ButtonHover" />
-      <rect
-         transform="scale(-1)"
-         y="-265.99979"
-         x="-196.9986"
-         height="20.998299"
-         width="20.998299"
-         id="rect276-6-3"
-         style="fill:none" />
-    </g>
-    <g
-       id="hover-overlay-topleft">
-      <rect
-         transform="scale(-1)"
-         y="-265.99979"
-         x="-196.9986"
-         height="20.998299"
-         width="20.998299"
-         id="rect6885"
-         style="fill:none" />
-      <path
-         class="ColorScheme-ButtonHover"
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path918-1"
-         d="m 176.00028,252.00038 v 6.99998 l 13.99888,-13.99887 z"
-         style="fill:currentColor" />
-    </g>
-  </g>
-  <g
-     transform="matrix(0.23077193,0,0,0.23077447,-40.616196,7.921516)"
-     id="hover-left">
-    <use
-       transform="matrix(0,-1.1628115,2.0000013,0,-307.00029,538.07544)"
-       id="minimized-bottomright-3-7-8-3"
-       xlink:href="#hover-base-top"
-       y="0"
-       x="0"
-       width="100%"
-       height="100%" />
-  </g>
-  <g
-     transform="matrix(0.45996818,0,0,0.23077193,-94.007886,7.922212)"
-     id="hover-right">
-    <use
-       height="100%"
-       width="100%"
-       x="0"
-       y="0"
-       xlink:href="#hover-base-top"
-       id="minimized-bottomright-3-7-8-3-1"
-       transform="matrix(0,-1.1628243,-1.0034263,0,492.86324,538.07667)" />
-  </g>
-  <g
-     transform="matrix(-0.46154387,0,0,-0.46154417,115.61641,198.77064)"
-     id="hover-bottomleft">
-    <use
-       height="100%"
-       width="100%"
-       x="0"
-       y="0"
-       xlink:href="#hover-base-topright"
-       id="minimized-bottomright-3-7-8" />
-  </g>
-  <g
-     transform="matrix(0.23077193,0,0,0.23077193,-39.000786,9.53756)"
-     id="hover-bottom">
-    <use
-       transform="matrix(1.1628316,0,0,-2.0001195,-39.079583,806.02872)"
-       id="minimized-bottomright-3-7"
-       xlink:href="#hover-base-top"
-       y="0"
-       x="0"
-       width="100%"
-       height="100%" />
-  </g>
-  <g
-     transform="matrix(0.46154387,0,0,0.46154387,-94.385996,-63.386631)"
-     id="hover-bottomright">
-    <use
-       height="100%"
-       width="100%"
-       transform="matrix(0.5,0,0,0.5,151.99988,186.50028)"
-       x="0"
-       y="0"
-       xlink:href="#hover-base-topleft"
-       id="minimized-bottomright-3" />
-  </g>
-  <g
-     transform="matrix(0.46154387,0,0,0.46154417,-94.386061,-51.84793)"
-     id="hover-topright">
-    <g
-       id="hover-base-topright">
-      <rect
-         y="248.50069"
-         x="240"
-         height="10.499143"
-         width="10.499149"
-         id="rect276-6-6-2-6-2-6-8"
-         style="fill:none" />
-      <use
-         height="100%"
-         width="100%"
-         x="0"
-         y="0"
-         xlink:href="#hover-base-center"
-         id="minimized-bottomright-3-7-4"
-         transform="matrix(0.28902309,0,0,-0.28900124,237.4313,262.14679)" />
-    </g>
-    <use
-       transform="matrix(0.16279943,0,0,-1.0000366,207.92909,500.50873)"
-       id="hover-overlay-topright"
-       xlink:href="#hover-overlay-top"
-       y="0"
-       x="0"
-       width="100%"
-       height="100%" />
-  </g>
-  <g
-     transform="matrix(0.26833946,0,0,0.46154357,-48.017076,-48.616709)"
-     id="hover-top">
-    <g
-       id="hover-base-top">
-      <use
-         height="100%"
-         width="100%"
-         x="0"
-         y="0"
-         xlink:href="#hover-base-center"
-         id="minimized-bottomright-3-7-4-9-2"
-         transform="matrix(1.7753836,0,0,-0.28900162,181.21722,255.14634)" />
-      <rect
-         y="241.50011"
-         x="197.00024"
-         height="10.499152"
-         width="43.000027"
-         id="rect276-6-6-2-1-6"
-         style="fill:none" />
-    </g>
-    <g
-       id="hover-overlay-top">
-      <rect
-         y="241.50011"
-         x="197.00024"
-         height="10.499152"
-         width="43.000027"
-         id="rect6878"
-         style="fill:none" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         class="ColorScheme-ButtonHover"
-         inkscape:connector-curvature="0"
-         id="path320-6-4"
-         d="m 240,244.99982 h -42.99999 v 3.5 H 240 Z"
-         style="fill:currentColor" />
-    </g>
-  </g>
-  <g
-     id="hover-center"
-     transform="matrix(0.47638881,0,0,0.47638881,0.61108222,62.504543)">
-    <rect
-       id="hover-base-center"
-       style="opacity:0.125;fill:currentColor"
-       width="24.220964"
-       height="24.220964"
-       x="8.8895111"
-       y="10.889518"
-       class="ColorScheme-ButtonHover" />
-  </g>
-  <g
-     id="attention-topleft"
-     transform="matrix(-0.23077193,0,0,-0.23077193,45.461769,145.46209)">
+     id="normal-topleft"
+     transform="matrix(-0.23077193,0,0,-0.23077193,45.461709,103.00065)">
     <rect
        transform="scale(-1)"
        y="-265.99979"
        x="-196.9986"
        height="20.998299"
        width="20.998299"
-       id="rect276-6-1-12"
+       id="rect276-6-1"
        style="fill:none" />
     <path
-       style="fill:currentColor"
+       style="opacity:0.025;fill:currentColor"
        d="m -7,37.939453 v 14 l 14,-14 z"
        transform="translate(183,207.06091)"
-       id="path86-6-0-4"
+       id="path86-6-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-ButtonText" />
   </g>
   <g
-     id="attention-topright"
-     transform="matrix(0.46154387,0,0,0.46154417,-94.386015,-30.616972)">
+     id="normal-topright"
+     transform="matrix(0.46154387,0,0,0.46154417,-94.386075,-73.078414)">
     <rect
        y="248.50069"
        x="240"
        height="10.499143"
        width="10.499149"
-       id="rect276-6-6-2-6-2-6-6"
+       id="rect276-6-6-2-6-2-6"
        style="fill:none" />
     <use
-       transform="matrix(0,-0.2890229,0.28902309,0,236.85309,261.56853)"
-       id="normal-left-1-0-9"
-       xlink:href="#attention-base"
+       transform="matrix(0,-0.28902291,0.28902309,0,236.85212,261.56794)"
+       id="normal-left-1-7"
+       xlink:href="#normal-base"
        style="fill:#ffffff"
        height="100%"
        y="0"
@@ -461,14 +210,14 @@
        width="100%" />
   </g>
   <g
-     id="attention-top"
-     transform="matrix(0.26833946,0,0,0.46154357,-48.017039,-27.386012)">
+     id="normal-top"
+     transform="matrix(0.26833946,0,0,0.46154357,-48.017095,-69.847454)">
     <rect
        y="241.50011"
        x="197.00024"
        height="10.499152"
        width="43.000027"
-       id="rect276-6-6-2-1-9-0"
+       id="rect276-6-6-2-1-9"
        style="fill:none" />
     <use
        width="100%"
@@ -476,1333 +225,38 @@
        y="0"
        height="100%"
        style="fill:#ffffff"
-       xlink:href="#attention-base"
-       id="normal-left-1-0"
-       transform="matrix(0,-0.28902329,1.7753836,0,177.66644,254.56853)" />
+       xlink:href="#normal-base"
+       id="normal-left-1"
+       transform="matrix(0,-0.28902328,1.7753836,0,177.66621,254.56909)" />
   </g>
   <g
-     transform="matrix(0.47638881,0,0,0.47638881,0.6109846,83.735239)"
-     id="attention-center">
+     transform="matrix(0.47638881,0,0,0.47638881,0.6109246,41.273796)"
+     id="normal-center">
     <rect
-       style="fill:currentColor"
-       class="ColorScheme-Highlight"
-       y="10.889518"
-       x="8.8895111"
-       height="24.220964"
-       width="24.220964"
-       id="attention-base" />
-  </g>
-  <g
-     transform="matrix(-0.23077193,0,0,-0.23077193,45.46209,166.69307)"
-     id="minimized-topleft">
-    <rect
-       style="fill:none"
-       id="rect276-6-1-12-3"
-       width="20.998299"
-       height="20.998299"
-       x="-196.9986"
-       y="-265.99979"
-       transform="scale(-1)" />
-    <path
        class="ColorScheme-ButtonText"
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path86-6-0-4-7"
-       transform="translate(183,207.06091)"
-       d="m -7,37.939453 v 14 l 14,-14 z"
-       style="opacity:0.05;fill:currentColor" />
-  </g>
-  <g
-     transform="matrix(0.46154387,0,0,0.46154417,-94.385989,-9.3862503)"
-     id="minimized-topright">
-    <rect
-       style="fill:none"
-       id="rect276-6-6-2-6-2-6-6-0"
-       width="10.499149"
-       height="10.499143"
-       x="240"
-       y="248.50069" />
-    <use
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       style="fill:#ffffff"
-       xlink:href="#minimized-base"
-       id="normal-left-1-0-3-0"
-       transform="matrix(0,-0.2890229,0.28902309,0,236.85196,261.56852)" />
-  </g>
-  <g
-     transform="matrix(0.26833946,0,0,0.46154357,-48.017009,-6.1552903)"
-     id="minimized-top">
-    <rect
-       style="fill:none"
-       id="rect276-6-6-2-1-9-0-2"
-       width="43.000027"
-       height="10.499152"
-       x="197.00024"
-       y="241.50011" />
-    <use
-       transform="matrix(0,-0.28902329,1.7753836,0,177.66622,254.56909)"
-       id="normal-left-1-0-3"
-       xlink:href="#minimized-base"
-       style="fill:#ffffff"
-       height="100%"
-       y="0"
-       x="0"
-       width="100%" />
-  </g>
-  <g
-     id="minimized-center"
-     transform="matrix(0.47638881,0,0,0.47638881,0.6110116,104.96596)">
-    <rect
-       id="minimized-base"
-       width="24.220964"
-       height="24.220964"
-       x="8.8895111"
-       y="10.889518"
-       class="ColorScheme-ButtonText"
-       style="opacity:0.05;fill:currentColor" />
-  </g>
-  <g
-     style="opacity:0.75"
-     id="progress-topleft"
-     transform="matrix(-0.23077193,0,0,-0.23077193,45.461681,60.539205)">
-    <rect
-       transform="scale(-1)"
-       y="-265.99979"
-       x="-196.9986"
-       height="20.998299"
-       width="20.998299"
-       id="rect6885-5-9"
-       style="fill:none" />
-    <path
-       class="ColorScheme-ButtonFocus"
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path918-1-3-2"
-       d="m 176.00028,252.00038 v 6.99998 l 13.99888,-13.99887 z"
-       style="fill:currentColor" />
-  </g>
-  <g
-     transform="matrix(0.23077193,0,0,0.23077447,-40.616248,-55.770652)"
-     id="progress-left">
-    <rect
-       style="fill:none"
-       id="rect276-6-6-2-7-5"
-       width="49.999481"
-       height="20.998291"
-       x="258.99915"
-       y="-196.99969"
-       transform="rotate(90)" />
-  </g>
-  <g
-     transform="matrix(0.45996818,0,0,0.23077193,-94.007951,-55.769956)"
-     id="progress-right">
-    <path
-       sodipodi:nodetypes="ccccc"
-       class="ColorScheme-Highlight"
-       inkscape:connector-curvature="0"
-       d="m 247.02398,258.99983 v 49.99945 l -7.02397,5.5e-4 v -49.99945 z"
-       style="opacity:0.00100002;fill:currentColor"
-       id="path92-9" />
-    <rect
-       style="fill:none"
-       id="rect276-6-6-2-8-2"
-       width="50.000034"
-       height="10.535111"
-       x="259.00009"
-       y="-250.53513"
-       transform="rotate(90)" />
-  </g>
-  <g
-     transform="matrix(0.23077193,0,0,0.23077193,-40.616314,-55.769824)"
-     id="progress-bottomleft">
-    <rect
-       style="fill:none"
-       id="rect276-6-6-74"
-       width="20.998299"
-       height="20.998299"
-       x="176.00171"
-       y="309.00101" />
-  </g>
-  <g
-     transform="matrix(0.23077193,0,0,0.23077193,-39.000838,-54.154608)"
-     id="progress-bottom">
-    <rect
-       style="fill:none"
-       id="rect276-6-6-2-59"
-       width="50.000031"
-       height="20.998291"
-       x="189.99997"
-       y="302.00134" />
-  </g>
-  <g
-     transform="matrix(0.46154387,0,0,0.46154387,-94.386061,-127.0788)"
-     id="progress-bottomright">
-    <rect
-       style="fill:none"
-       id="rect276-6-6-2-6-70"
-       width="10.499149"
-       height="10.499149"
-       x="239.99989"
-       y="309.00073" />
-  </g>
-  <g
-     id="progress-topright"
-     transform="matrix(0.46154387,0,0,0.46154417,-108.81178,-125.44592)">
-    <rect
-       y="269.96332"
-       x="271.2551"
-       height="10.499143"
-       width="10.499149"
-       id="rect276-6-6-2-6-2-9"
-       style="fill:none" />
-    <use
-       transform="matrix(0.6066921,0,0,-2.1667221,268.31522,278.62945)"
-       id="focus-overlay-topright-8-0"
-       xlink:href="#progress-top"
-       y="0"
-       x="0"
-       width="100%"
-       height="100%" />
-  </g>
-  <g
-     style="opacity:0.75"
-     transform="matrix(0.26833946,0,0,0.46154357,-48.017121,-112.3089)"
-     id="progress-top">
-    <path
-       style="fill:currentColor;"
-       d="m 240,244.99982 h -42.99999 v 3.5 H 240 Z"
-       id="path320-6-2"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Text"
-       sodipodi:nodetypes="ccccc" />
-    <rect
-       style="fill:none"
-       id="rect276-6-6-2-1-5"
-       width="43.000027"
-       height="10.499152"
-       x="197.00024"
-       y="241.50011" />
-  </g>
-  <g
-     transform="matrix(0.47638881,0,0,0.47638881,0.61089306,-1.1876482)"
-     id="progress-center">
-    <rect
-       class="ColorScheme-Highlight"
        y="10.889518"
        x="8.8895111"
        height="24.220964"
        width="24.220964"
-       style="fill:none"
-       id="rect2074-4" />
+       style="opacity:0.025;fill:currentColor"
+       id="normal-base" />
   </g>
-  <use
-     transform="rotate(180,10.615383,115.92297)"
-     id="minimized-bottomright"
-     xlink:href="#minimized-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-top"
-     id="minimized-bottom"
-     transform="rotate(180,10.615202,115.92284)" />
-  <use
-     transform="rotate(180,10.615237,115.92292)"
-     id="minimized-bottomleft"
-     xlink:href="#minimized-topright"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     transform="rotate(-90,10.615241,115.92297)"
-     id="minimized-left"
-     xlink:href="#minimized-top"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-top"
-     id="minimized-right"
-     transform="rotate(90,10.615073,115.92274)" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-topleft"
-     id="use3804"
-     transform="translate(21.230046,-3.5537e-4)" />
-  <use
-     transform="translate(21.230078,9.463e-5)"
-     id="north-minimized-top"
-     xlink:href="#minimized-top"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-topright"
-     id="1-minimized-topright"
-     transform="translate(21.230069,-3.1737e-4)" />
-  <use
-     transform="translate(21.230404,-2.4723954e-4)"
-     id="north-minimized-left"
-     xlink:href="#minimized-left"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-center"
-     id="north-minimized-center"
-     transform="translate(21.230138,-1.6537e-4)" />
-  <use
-     transform="translate(21.230402,-2.4037e-4)"
-     id="north-minimized-right"
-     xlink:href="#minimized-right"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-bottomleft"
-     id="north-minimized-bottomleft"
-     transform="translate(21.2303,6.263e-5)" />
-  <use
-     transform="translate(21.230365,-3.837e-5)"
-     id="north-minimized-bottom"
-     xlink:href="#minimized-bottom"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-bottomright"
-     id="north-minimized-bottomright"
-     transform="translate(21.230303,2.2063e-4)" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-topleft"
-     id="east-minimized-topleft"
-     transform="translate(42.460453,-4.2774e-4)" />
-  <use
-     transform="translate(42.46067,-1.7174e-4)"
-     id="east-minimized-top"
-     xlink:href="#minimized-top"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-topright"
-     id="use3816"
-     transform="translate(42.460592,-1.6974e-4)" />
-  <use
-     transform="translate(42.460812,-1.7360954e-4)"
-     id="east-minimized-left"
-     xlink:href="#minimized-left"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-center"
-     id="east-minimized-center"
-     transform="translate(42.460808,-1.6974e-4)" />
-  <use
-     transform="translate(42.460665,-1.6174e-4)"
-     id="east-minimized-right"
-     xlink:href="#minimized-right"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-bottomleft"
-     id="east-minimized-bottomleft"
-     transform="translate(42.460751,-5.774e-5)" />
-  <use
-     transform="translate(42.460481,-3.374e-5)"
-     id="east-minimized-bottom"
-     xlink:href="#minimized-bottom"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-bottomright"
-     id="east-minimized-bottomright"
-     transform="translate(42.460336,-3.774e-5)" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-topleft"
-     id="west-minimized-topleft"
-     transform="translate(63.690676,-2.9611e-4)" />
-  <use
-     transform="translate(63.690893,-4.011e-5)"
-     id="west-minimized-top"
-     xlink:href="#minimized-top"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-topright"
-     id="use3826"
-     transform="translate(63.691147,2.389e-5)" />
-  <use
-     transform="translate(63.690889,-4.1979543e-5)"
-     id="west-minimized-left"
-     xlink:href="#minimized-left"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-center"
-     id="west-minimized-center"
-     transform="translate(63.690885,-3.811e-5)" />
-  <use
-     transform="translate(63.69122,3.189e-5)"
-     id="west-minimized-right"
-     xlink:href="#minimized-right"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-bottomleft"
-     id="west-minimized-bottomleft"
-     transform="translate(63.690827,-7.211e-5)" />
-  <use
-     transform="translate(63.690887,-1.7311e-4)"
-     id="west-minimized-bottom"
-     xlink:href="#minimized-bottom"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#minimized-bottomright"
-     id="west-minimized-bottomright"
-     transform="translate(63.690888,-1.7811e-4)" />
-  <use
-     transform="translate(21.230251,1.4228476e-5)"
-     id="north-attention-topleft"
-     xlink:href="#attention-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#attention-top"
-     id="north-attention-top"
-     transform="translate(21.230177,1.3228476e-5)" />
-  <use
-     transform="translate(21.230238,-5.0771524e-5)"
-     id="north-attention-topright"
-     xlink:href="#attention-topright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-left"
-     id="north-attention-left"
-     transform="translate(21.230051,-5.292976e-5)" />
-  <use
-     transform="translate(21.230312,1.4228476e-5)"
-     id="north-attention-center"
-     xlink:href="#attention-center"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-right"
-     id="north-attention-right"
-     transform="translate(21.230531,-1.7817046e-4)" />
-  <use
-     transform="translate(21.230003,-4.7928111e-4)"
-     id="north-attention-bottomleft"
-     xlink:href="#attention-bottomleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-bottom"
-     id="north-attention-bottom"
-     transform="translate(21.230325,2.7217766e-4)" />
-  <use
-     transform="translate(21.230299,1.4474227e-4)"
-     id="north-attention-bottomright"
-     xlink:href="#attention-bottomright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     transform="translate(63.690857,-9.3209549e-5)"
-     id="west-attention-topleft"
-     xlink:href="#attention-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#attention-top"
-     id="west-attention-top"
-     transform="translate(63.690783,-9.5209549e-5)" />
-  <use
-     transform="translate(63.690848,-9.8209549e-5)"
-     id="west-attention-topright"
-     xlink:href="#attention-topright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-left"
-     id="west-attention-left"
-     transform="translate(63.690655,-1.6242976e-4)" />
-  <use
-     transform="translate(63.690918,-9.4209549e-5)"
-     id="west-attention-center"
-     xlink:href="#attention-center"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-right"
-     id="west-attention-right"
-     transform="translate(63.691133,-2.8617046e-4)" />
-  <use
-     transform="translate(63.690607,-5.8878111e-4)"
-     id="west-attention-bottomleft"
-     xlink:href="#attention-bottomleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-bottom"
-     id="west-attention-bottom"
-     transform="translate(63.690931,1.6373964e-4)" />
-  <use
-     transform="translate(63.690847,-9.8457728e-5)"
-     id="west-attention-bottomright"
-     xlink:href="#attention-bottomright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     transform="translate(42.460738,-1.1094105e-4)"
-     id="east-attention-topleft"
-     xlink:href="#attention-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#attention-top"
-     id="east-attention-top"
-     transform="translate(42.460664,-1.1294105e-4)" />
-  <use
-     transform="translate(42.460506,-1.0994105e-4)"
-     id="east-attention-topright"
-     xlink:href="#attention-topright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-left"
-     id="east-attention-left"
-     transform="translate(42.460392,1.0387024e-4)" />
-  <use
-     transform="translate(42.460578,-1.0794105e-4)"
-     id="east-attention-center"
-     xlink:href="#attention-center"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-right"
-     id="east-attention-right"
-     transform="translate(42.460793,-3.0017046e-4)" />
-  <use
-     transform="translate(42.460344,-3.2248111e-4)"
-     id="east-attention-bottomleft"
-     xlink:href="#attention-bottomleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-bottom"
-     id="east-attention-bottom"
-     transform="translate(42.460513,-1.1200122e-4)" />
-  <use
-     transform="translate(42.460525,-1.2457728e-5)"
-     id="east-attention-bottomright"
-     xlink:href="#attention-bottomright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     transform="rotate(180,10.615207,94.692053)"
-     id="attention-bottom"
-     xlink:href="#attention-top"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     transform="rotate(90,10.615044,94.692023)"
-     id="attention-right"
-     xlink:href="#attention-top"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-top"
-     id="attention-left"
-     transform="rotate(-90,10.615305,94.692079)" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#attention-topleft"
-     id="attention-bottomright"
-     transform="rotate(180,10.615212,94.692183)" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#attention-topright"
-     id="attention-bottomleft"
-     transform="rotate(180,10.615337,94.692429)" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-topleft"
-     id="normal-bottomright"
-     transform="rotate(180,10.615117,52.23074)" />
-  <use
-     transform="rotate(180,10.615156,52.23074)"
-     id="normal-bottom"
-     xlink:href="#normal-top"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#normal-topright"
-     id="normal-bottomleft"
-     transform="rotate(180,10.615121,52.230739)" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-top"
-     id="normal-left"
-     transform="rotate(-90,10.615112,52.230707)" />
-  <use
-     transform="rotate(90,10.615156,52.230482)"
-     id="normal-right"
-     xlink:href="#normal-top"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     transform="translate(21.230153,-2.8937e-4)"
-     id="north-normal-topleft"
-     xlink:href="#normal-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#normal-top"
-     id="north-normal-top"
-     transform="translate(21.230185,1.6063e-4)" />
-  <use
-     transform="translate(21.230176,-2.5137e-4)"
-     id="north-normal-topright"
-     xlink:href="#normal-topright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-left"
-     id="north-normal-left"
-     transform="translate(21.230152,-2.8837e-4)" />
-  <use
-     transform="translate(21.230245,-9.937e-5)"
-     id="north-normal-center"
-     xlink:href="#normal-center"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-right"
-     id="north-normal-right"
-     transform="translate(21.230509,-1.7437e-4)" />
-  <use
-     transform="translate(21.230407,1.2863e-4)"
-     id="north-normal-bottomleft"
-     xlink:href="#normal-bottomleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-bottom"
-     id="north-normal-bottom"
-     transform="translate(21.230472,2.763e-5)" />
-  <use
-     transform="translate(21.23041,2.8663e-4)"
-     id="north-normal-bottomright"
-     xlink:href="#normal-bottomright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     transform="translate(42.460456,-3.8874e-4)"
-     id="east-normal-topleft"
-     xlink:href="#normal-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#normal-top"
-     id="east-normal-top"
-     transform="translate(42.460488,6.126e-5)" />
-  <use
-     transform="translate(42.460479,-3.5074e-4)"
-     id="east-normal-topright"
-     xlink:href="#normal-topright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-left"
-     id="east-normal-left"
-     transform="translate(42.460455,-3.8774e-4)" />
-  <use
-     transform="translate(42.460548,-1.9874e-4)"
-     id="east-normal-center"
-     xlink:href="#normal-center"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-right"
-     id="east-normal-right"
-     transform="translate(42.460812,-2.7374e-4)" />
-  <use
-     transform="translate(42.46071,2.926e-5)"
-     id="east-normal-bottomleft"
-     xlink:href="#normal-bottomleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-bottom"
-     id="east-normal-bottom"
-     transform="translate(42.460775,-7.174e-5)" />
-  <use
-     transform="translate(42.460713,1.8726e-4)"
-     id="east-normal-bottomright"
-     xlink:href="#normal-bottomright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     transform="translate(63.690754,-4.8811e-4)"
-     id="west-normal-topleft"
-     xlink:href="#normal-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#normal-top"
-     id="west-normal-top"
-     transform="translate(63.690786,-3.811e-5)" />
-  <use
-     transform="translate(63.690777,-4.5011e-4)"
-     id="west-normal-topright"
-     xlink:href="#normal-topright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-left"
-     id="west-normal-left"
-     transform="translate(63.690753,-4.8711e-4)" />
-  <use
-     transform="translate(63.690846,-2.9811e-4)"
-     id="west-normal-center"
-     xlink:href="#normal-center"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-right"
-     id="west-normal-right"
-     transform="translate(63.69111,-3.7311e-4)" />
-  <use
-     transform="translate(63.691008,-7.011e-5)"
-     id="west-normal-bottomleft"
-     xlink:href="#normal-bottomleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#normal-bottom"
-     id="west-normal-bottom"
-     transform="translate(63.691073,-1.7111e-4)" />
-  <use
-     transform="translate(63.691011,8.789e-5)"
-     id="west-normal-bottomright"
-     xlink:href="#normal-bottomright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     transform="rotate(180,21.230042,73.46124)"
-     id="north-hover-topleft"
-     xlink:href="#hover-bottomright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#hover-bottom"
-     id="north-hover-top"
-     transform="matrix(1,0,0,-1,21.230337,146.92294)" />
-  <use
-     transform="rotate(180,21.230149,73.461533)"
-     id="north-hover-topright"
-     xlink:href="#hover-bottomleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#hover-left"
-     id="north-hover-left"
-     transform="translate(21.230047,-1.4671136e-4)" />
-  <use
-     transform="translate(21.23014,4.2288641e-5)"
-     id="north-hover-center"
-     xlink:href="#hover-center"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#hover-right"
-     id="north-hover-right"
-     transform="translate(21.230404,-3.2711359e-5)" />
-  <use
-     transform="rotate(180,21.229995,73.461521)"
-     id="north-hover-bottomleft"
-     xlink:href="#hover-topright"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#hover-top"
-     id="north-hover-bottom"
-     transform="matrix(1,0,0,-1,21.229721,146.92311)" />
-  <use
-     transform="rotate(180,21.230335,73.461647)"
-     id="north-hover-bottomright"
-     xlink:href="#hover-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#hover-bottomright"
-     id="east-hover-bottomright"
-     transform="translate(42.461019,2.9843882e-4)" />
-  <use
-     transform="translate(42.460717,1.5343882e-4)"
-     id="east-hover-bottom"
-     xlink:href="#hover-bottom"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#hover-bottomleft"
-     id="east-hover-topright"
-     transform="rotate(180,31.845339,73.461551)" />
-  <use
-     transform="rotate(90,31.845346,94.692073)"
-     id="east-hover-top"
-     xlink:href="#hover-left"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#hover-center"
-     id="east-hover-center"
-     transform="translate(42.460519,7.6438822e-5)" />
-  <use
-     transform="translate(42.460783)"
-     id="east-hover-right"
-     xlink:href="#hover-right"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#hover-topright"
-     id="east-hover-bottomleft"
-     transform="matrix(0,1,1,0,-20.385931,62.846781)" />
-  <use
-     transform="matrix(0,1,1,0,-20.385461,62.846396)"
-     id="east-hover-left"
-     xlink:href="#hover-top"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#hover-topleft"
-     id="east-hover-topleft"
-     transform="matrix(0,1,1,0,-20.386201,62.845997)" />
-  <use
-     transform="rotate(180,42.460503,73.461492)"
-     id="west-hover-topleft"
-     xlink:href="#hover-bottomright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#hover-bottom"
-     id="west-hover-bottom"
-     transform="translate(63.690645,4.2791432e-5)" />
-  <use
-     transform="translate(63.690304,1.1079143e-4)"
-     id="west-hover-bottomleft"
-     xlink:href="#hover-bottomleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#hover-left"
-     id="west-hover-top"
-     transform="rotate(90,42.460365,105.30698)" />
-  <use
-     transform="translate(63.690447,-3.4208568e-5)"
-     id="west-hover-center"
-     xlink:href="#hover-center"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#hover-right"
-     id="west-hover-left"
-     transform="matrix(-1,0,0,1,84.921129,1.8179143e-4)" />
-  <use
-     transform="matrix(0,-1,-1,0,147.76662,84.076821)"
-     id="west-hover-topright"
-     xlink:href="#hover-topright"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#hover-top"
-     id="west-hover-right"
-     transform="rotate(90,42.460314,105.3066)" />
-  <use
-     transform="matrix(0,-1,-1,0,147.76758,84.076641)"
-     id="west-hover-bottomright"
-     xlink:href="#hover-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
   <g
-     id="focus-topleft"
-     transform="matrix(-0.23077193,0,0,-0.23077193,45.461686,81.770035)">
+     id="hover-topleft"
+     transform="matrix(-0.23077193,0,0,-0.23077193,45.461738,124.23137)">
     <g
-       id="focus-base-topleft-8">
+       id="hover-base-topleft">
       <path
-         class="ColorScheme-ButtonFocus"
+         class="ColorScheme-ButtonHover"
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
-         id="path6805-5"
+         id="path6805"
          transform="translate(183,207.06091)"
          d="m -7,37.939453 v 14 l 14,-14 z"
          style="opacity:0.125;fill:currentColor" />
       <rect
          style="fill:none"
-         id="rect276-6-3-9"
+         id="rect276-6-3"
          width="20.998299"
          height="20.998299"
          x="-196.9986"
@@ -1810,10 +264,10 @@
          transform="scale(-1)" />
     </g>
     <g
-       id="focus-overlay-topleft-7">
+       id="hover-overlay-topleft">
       <rect
          style="fill:none"
-         id="rect6885-5"
+         id="rect6885"
          width="20.998299"
          height="20.998299"
          x="-196.9986"
@@ -1822,65 +276,65 @@
       <path
          style="fill:currentColor"
          d="m 176.00028,252.00038 v 6.99998 l 13.99888,-13.99887 z"
-         id="path918-1-3"
+         id="path918-1"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc"
-         class="ColorScheme-ButtonFocus" />
+         class="ColorScheme-ButtonHover" />
     </g>
   </g>
   <g
-     id="focus-left"
-     transform="matrix(0.23077193,0,0,0.23077447,-40.616248,-34.539819)">
+     id="hover-left"
+     transform="matrix(0.23077193,0,0,0.23077447,-40.616196,7.921516)">
     <use
        height="100%"
        width="100%"
        x="0"
        y="0"
-       xlink:href="#focus-base-top-8"
-       id="minimized-bottomright-3-7-8-3-8"
+       xlink:href="#hover-base-top"
+       id="minimized-bottomright-3-7-8-3"
        transform="matrix(0,-1.1628115,2.0000013,0,-307.00029,538.07544)" />
   </g>
   <g
-     id="focus-right"
-     transform="matrix(0.45996818,0,0,0.23077193,-94.007935,-34.539123)">
+     id="hover-right"
+     transform="matrix(0.45996818,0,0,0.23077193,-94.007886,7.922212)">
     <use
        transform="matrix(0,-1.1628243,-1.0034263,0,492.86324,538.07667)"
-       id="minimized-bottomright-3-7-8-3-1-1"
-       xlink:href="#focus-base-top-8"
+       id="minimized-bottomright-3-7-8-3-1"
+       xlink:href="#hover-base-top"
        y="0"
        x="0"
        width="100%"
        height="100%" />
   </g>
   <g
-     id="focus-bottomleft"
-     transform="matrix(-0.46154387,0,0,-0.46154417,115.61636,156.30931)">
+     id="hover-bottomleft"
+     transform="matrix(-0.46154387,0,0,-0.46154417,115.61641,198.77064)">
     <use
-       id="minimized-bottomright-3-7-8-9"
-       xlink:href="#focus-base-topright-6"
+       id="minimized-bottomright-3-7-8"
+       xlink:href="#hover-base-topright"
        y="0"
        x="0"
        width="100%"
        height="100%" />
   </g>
   <g
-     id="focus-bottom"
-     transform="matrix(0.23077193,0,0,0.23077193,-39.000838,-32.923775)">
+     id="hover-bottom"
+     transform="matrix(0.23077193,0,0,0.23077193,-39.000786,9.53756)">
     <use
        height="100%"
        width="100%"
        x="0"
        y="0"
-       xlink:href="#focus-base-top-8"
-       id="minimized-bottomright-3-7-43"
+       xlink:href="#hover-base-top"
+       id="minimized-bottomright-3-7"
        transform="matrix(1.1628316,0,0,-2.0001195,-39.079583,806.02872)" />
   </g>
   <g
-     id="focus-bottomright"
-     transform="matrix(0.46154387,0,0,0.46154387,-94.386045,-105.84796)">
+     id="hover-bottomright"
+     transform="matrix(0.46154387,0,0,0.46154387,-94.385996,-63.386631)">
     <use
-       id="minimized-bottomright-3-3"
-       xlink:href="#focus-base-topleft-8"
+       id="minimized-bottomright-3"
+       xlink:href="#hover-base-topleft"
        y="0"
        x="0"
        transform="matrix(0.5,0,0,0.5,151.99988,186.50028)"
@@ -1888,21 +342,21 @@
        height="100%" />
   </g>
   <g
-     id="focus-topright"
-     transform="matrix(0.46154387,0,0,0.46154417,-94.386115,-94.309264)">
+     id="hover-topright"
+     transform="matrix(0.46154387,0,0,0.46154417,-94.386061,-51.84793)">
     <g
-       id="focus-base-topright-6">
+       id="hover-base-topright">
       <rect
          style="fill:none"
-         id="rect276-6-6-2-6-2-6-8-0"
+         id="rect276-6-6-2-6-2-6-8"
          width="10.499149"
          height="10.499143"
          x="240"
          y="248.50069" />
       <use
          transform="matrix(0.28902309,0,0,-0.28900124,237.4313,262.14679)"
-         id="minimized-bottomright-3-7-4-4"
-         xlink:href="#focus-base-center-0"
+         id="minimized-bottomright-3-7-4"
+         xlink:href="#hover-base-center"
          y="0"
          x="0"
          width="100%"
@@ -1913,36 +367,36 @@
        width="100%"
        x="0"
        y="0"
-       xlink:href="#focus-overlay-top-7"
-       id="focus-overlay-topright-8"
+       xlink:href="#hover-overlay-top"
+       id="hover-overlay-topright"
        transform="matrix(0.16279943,0,0,-1.0000366,207.92909,500.50873)" />
   </g>
   <g
-     id="focus-top"
-     transform="matrix(0.26833946,0,0,0.46154357,-48.017128,-91.078044)">
+     id="hover-top"
+     transform="matrix(0.26833946,0,0,0.46154357,-48.017076,-48.616709)">
     <g
-       id="focus-base-top-8">
+       id="hover-base-top">
       <use
          transform="matrix(1.7753836,0,0,-0.28900162,181.21722,255.14634)"
-         id="minimized-bottomright-3-7-4-9-2-9"
-         xlink:href="#focus-base-center-0"
+         id="minimized-bottomright-3-7-4-9-2"
+         xlink:href="#hover-base-center"
          y="0"
          x="0"
          width="100%"
          height="100%" />
       <rect
          style="fill:none"
-         id="rect276-6-6-2-1-6-7"
+         id="rect276-6-6-2-1-6"
          width="43.000027"
          height="10.499152"
          x="197.00024"
          y="241.50011" />
     </g>
     <g
-       id="focus-overlay-top-7">
+       id="hover-overlay-top">
       <rect
          style="fill:none"
-         id="rect6878-6"
+         id="rect6878"
          width="43.000027"
          height="10.499152"
          x="197.00024"
@@ -1950,23 +404,301 @@
       <path
          style="fill:currentColor"
          d="m 240,244.99982 h -42.99999 v 3.5 H 240 Z"
-         id="path320-6-4-4"
+         id="path320-6-4"
          inkscape:connector-curvature="0"
-         class="ColorScheme-ButtonFocus"
+         class="ColorScheme-ButtonHover"
          sodipodi:nodetypes="ccccc" />
     </g>
   </g>
   <g
-     transform="matrix(0.47638881,0,0,0.47638881,0.61103098,20.043209)"
-     id="focus-center">
+     transform="matrix(0.47638881,0,0,0.47638881,0.61108222,62.504543)"
+     id="hover-center">
     <rect
-       class="ColorScheme-ButtonFocus"
+       class="ColorScheme-ButtonHover"
        y="10.889518"
        x="8.8895111"
        height="24.220964"
        width="24.220964"
        style="opacity:0.125;fill:currentColor"
-       id="focus-base-center-0" />
+       id="hover-base-center" />
+  </g>
+  <g
+     transform="matrix(-0.23077193,0,0,-0.23077193,45.461769,145.46209)"
+     id="attention-topleft">
+    <rect
+       style="fill:none"
+       id="rect276-6-1-12"
+       width="20.998299"
+       height="20.998299"
+       x="-196.9986"
+       y="-265.99979"
+       transform="scale(-1)" />
+    <path
+       class="ColorScheme-Highlight"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path86-6-0-4"
+       transform="translate(183,207.06091)"
+       d="m -7,37.939453 v 14 l 14,-14 z"
+       style="fill:currentColor" />
+  </g>
+  <g
+     transform="matrix(0.46154387,0,0,0.46154417,-94.386015,-30.616972)"
+     id="attention-topright">
+    <rect
+       style="fill:none"
+       id="rect276-6-6-2-6-2-6-6"
+       width="10.499149"
+       height="10.499143"
+       x="240"
+       y="248.50069" />
+    <use
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       style="fill:#ffffff"
+       xlink:href="#attention-base"
+       id="normal-left-1-0-9"
+       transform="matrix(0,-0.2890229,0.28902309,0,236.85309,261.56853)" />
+  </g>
+  <g
+     transform="matrix(0.26833946,0,0,0.46154357,-48.017039,-27.386012)"
+     id="attention-top">
+    <rect
+       style="fill:none"
+       id="rect276-6-6-2-1-9-0"
+       width="43.000027"
+       height="10.499152"
+       x="197.00024"
+       y="241.50011" />
+    <use
+       transform="matrix(0,-0.28902329,1.7753836,0,177.66644,254.56853)"
+       id="normal-left-1-0"
+       xlink:href="#attention-base"
+       style="fill:#ffffff"
+       height="100%"
+       y="0"
+       x="0"
+       width="100%" />
+  </g>
+  <g
+     id="attention-center"
+     transform="matrix(0.47638881,0,0,0.47638881,0.6109846,83.735239)">
+    <rect
+       id="attention-base"
+       width="24.220964"
+       height="24.220964"
+       x="8.8895111"
+       y="10.889518"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor" />
+  </g>
+  <g
+     id="minimized-topleft"
+     transform="matrix(-0.23077193,0,0,-0.23077193,45.46209,166.69307)">
+    <rect
+       transform="scale(-1)"
+       y="-265.99979"
+       x="-196.9986"
+       height="20.998299"
+       width="20.998299"
+       id="rect276-6-1-12-3"
+       style="fill:none" />
+    <path
+       style="opacity:0.05;fill:currentColor"
+       d="m -7,37.939453 v 14 l 14,-14 z"
+       transform="translate(183,207.06091)"
+       id="path86-6-0-4-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       class="ColorScheme-ButtonText" />
+  </g>
+  <g
+     id="minimized-topright"
+     transform="matrix(0.46154387,0,0,0.46154417,-94.385989,-9.3862503)">
+    <rect
+       y="248.50069"
+       x="240"
+       height="10.499143"
+       width="10.499149"
+       id="rect276-6-6-2-6-2-6-6-0"
+       style="fill:none" />
+    <use
+       transform="matrix(0,-0.2890229,0.28902309,0,236.85196,261.56852)"
+       id="normal-left-1-0-3-0"
+       xlink:href="#minimized-base"
+       style="fill:#ffffff"
+       height="100%"
+       y="0"
+       x="0"
+       width="100%" />
+  </g>
+  <g
+     id="minimized-top"
+     transform="matrix(0.26833946,0,0,0.46154357,-48.017009,-6.1552903)">
+    <rect
+       y="241.50011"
+       x="197.00024"
+       height="10.499152"
+       width="43.000027"
+       id="rect276-6-6-2-1-9-0-2"
+       style="fill:none" />
+    <use
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       style="fill:#ffffff"
+       xlink:href="#minimized-base"
+       id="normal-left-1-0-3"
+       transform="matrix(0,-0.28902329,1.7753836,0,177.66622,254.56909)" />
+  </g>
+  <g
+     transform="matrix(0.47638881,0,0,0.47638881,0.6110116,104.96596)"
+     id="minimized-center">
+    <rect
+       style="opacity:0.05;fill:currentColor"
+       class="ColorScheme-ButtonText"
+       y="10.889518"
+       x="8.8895111"
+       height="24.220964"
+       width="24.220964"
+       id="minimized-base" />
+  </g>
+  <g
+     transform="matrix(-0.23077193,0,0,-0.23077193,45.461681,60.539205)"
+     id="progress-topleft"
+     style="opacity:0.75">
+    <rect
+       style="fill:none"
+       id="rect6885-5-9"
+       width="20.998299"
+       height="20.998299"
+       x="-196.9986"
+       y="-265.99979"
+       transform="scale(-1)" />
+    <path
+       style="fill:currentColor"
+       d="m 176.00028,252.00038 v 6.99998 l 13.99888,-13.99887 z"
+       id="path918-1-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="progress-left"
+     transform="matrix(0.23077193,0,0,0.23077447,-40.616248,-55.770652)">
+    <rect
+       transform="rotate(90)"
+       y="-196.99969"
+       x="258.99915"
+       height="20.998291"
+       width="49.999481"
+       id="rect276-6-6-2-7-5"
+       style="fill:none" />
+  </g>
+  <g
+     id="progress-right"
+     transform="matrix(0.45996818,0,0,0.23077193,-94.007951,-55.769956)">
+    <path
+       id="path92-9"
+       style="opacity:0.00100002;fill:currentColor"
+       d="m 247.02398,258.99983 v 49.99945 l -7.02397,5.5e-4 v -49.99945 z"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       transform="rotate(90)"
+       y="-250.53513"
+       x="259.00009"
+       height="10.535111"
+       width="50.000034"
+       id="rect276-6-6-2-8-2"
+       style="fill:none" />
+  </g>
+  <g
+     id="progress-bottomleft"
+     transform="matrix(0.23077193,0,0,0.23077193,-40.616314,-55.769824)">
+    <rect
+       y="309.00101"
+       x="176.00171"
+       height="20.998299"
+       width="20.998299"
+       id="rect276-6-6-74"
+       style="fill:none" />
+  </g>
+  <g
+     id="progress-bottom"
+     transform="matrix(0.23077193,0,0,0.23077193,-39.000838,-54.154608)">
+    <rect
+       y="302.00134"
+       x="189.99997"
+       height="20.998291"
+       width="50.000031"
+       id="rect276-6-6-2-59"
+       style="fill:none" />
+  </g>
+  <g
+     id="progress-bottomright"
+     transform="matrix(0.46154387,0,0,0.46154387,-94.386061,-127.0788)">
+    <rect
+       y="309.00073"
+       x="239.99989"
+       height="10.499149"
+       width="10.499149"
+       id="rect276-6-6-2-6-70"
+       style="fill:none" />
+  </g>
+  <g
+     transform="matrix(0.46154387,0,0,0.46154417,-108.81178,-125.44592)"
+     id="progress-topright">
+    <rect
+       style="fill:none"
+       id="rect276-6-6-2-6-2-9"
+       width="10.499149"
+       height="10.499143"
+       x="271.2551"
+       y="269.96332" />
+    <use
+       height="100%"
+       width="100%"
+       x="0"
+       y="0"
+       xlink:href="#progress-top"
+       id="focus-overlay-topright-8-0"
+       transform="matrix(0.6066921,0,0,-2.1667221,268.31522,278.62945)" />
+  </g>
+  <g
+     id="progress-top"
+     transform="matrix(0.26833946,0,0,0.46154357,-48.017121,-112.3089)"
+     style="opacity:0.75">
+    <path
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       id="path320-6-2"
+       d="m 240,244.99982 h -42.99999 v 3.5 H 240 Z"
+       style="fill:currentColor;" />
+    <rect
+       y="241.50011"
+       x="197.00024"
+       height="10.499152"
+       width="43.000027"
+       id="rect276-6-6-2-1-5"
+       style="fill:none" />
+  </g>
+  <g
+     id="progress-center"
+     transform="matrix(0.47638881,0,0,0.47638881,0.61089306,-1.1876482)">
+    <rect
+       id="rect2074-4"
+       style="fill:none"
+       width="24.220964"
+       height="24.220964"
+       x="8.8895111"
+       y="10.889518"
+       class="ColorScheme-Highlight" />
   </g>
   <use
      width="100%"
@@ -1974,170 +706,1361 @@
      y="0"
      height="100%"
      style="fill:#ffffff"
-     xlink:href="#focus-bottomright"
+     xlink:href="#minimized-topleft"
+     id="minimized-bottomright"
+     transform="rotate(180,10.615383,115.92297)" />
+  <use
+     transform="rotate(180,10.615202,115.92284)"
+     id="minimized-bottom"
+     xlink:href="#minimized-top"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#minimized-topright"
+     id="minimized-bottomleft"
+     transform="rotate(180,10.615237,115.92292)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#minimized-top"
+     id="minimized-left"
+     transform="rotate(-90,10.615241,115.92297)" />
+  <use
+     transform="rotate(90,10.615073,115.92274)"
+     id="minimized-right"
+     xlink:href="#minimized-top"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     transform="translate(21.230046,-3.5537e-4)"
+     id="use3804"
+     xlink:href="#minimized-topleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#minimized-top"
+     id="north-minimized-top"
+     transform="translate(21.230078,9.463e-5)" />
+  <use
+     transform="translate(21.230069,-3.1737e-4)"
+     id="1-minimized-topright"
+     xlink:href="#minimized-topright"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#minimized-left"
+     id="north-minimized-left"
+     transform="translate(21.230404,-2.4723954e-4)" />
+  <use
+     transform="translate(21.230138,-1.6537e-4)"
+     id="north-minimized-center"
+     xlink:href="#minimized-center"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#minimized-right"
+     id="north-minimized-right"
+     transform="translate(21.230402,-2.4037e-4)" />
+  <use
+     transform="translate(21.2303,6.263e-5)"
+     id="north-minimized-bottomleft"
+     xlink:href="#minimized-bottomleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#minimized-bottom"
+     id="north-minimized-bottom"
+     transform="translate(21.230365,-3.837e-5)" />
+  <use
+     transform="translate(21.230303,2.2063e-4)"
+     id="north-minimized-bottomright"
+     xlink:href="#minimized-bottomright"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     transform="translate(42.460453,-4.2774e-4)"
+     id="east-minimized-topleft"
+     xlink:href="#minimized-topleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#minimized-top"
+     id="east-minimized-top"
+     transform="translate(42.46067,-1.7174e-4)" />
+  <use
+     transform="translate(42.460592,-1.6974e-4)"
+     id="use3816"
+     xlink:href="#minimized-topright"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#minimized-left"
+     id="east-minimized-left"
+     transform="translate(42.460812,-1.7360954e-4)" />
+  <use
+     transform="translate(42.460808,-1.6974e-4)"
+     id="east-minimized-center"
+     xlink:href="#minimized-center"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#minimized-right"
+     id="east-minimized-right"
+     transform="translate(42.460665,-1.6174e-4)" />
+  <use
+     transform="translate(42.460751,-5.774e-5)"
+     id="east-minimized-bottomleft"
+     xlink:href="#minimized-bottomleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#minimized-bottom"
+     id="east-minimized-bottom"
+     transform="translate(42.460481,-3.374e-5)" />
+  <use
+     transform="translate(42.460336,-3.774e-5)"
+     id="east-minimized-bottomright"
+     xlink:href="#minimized-bottomright"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     transform="translate(63.690676,-2.9611e-4)"
+     id="west-minimized-topleft"
+     xlink:href="#minimized-topleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#minimized-top"
+     id="west-minimized-top"
+     transform="translate(63.690893,-4.011e-5)" />
+  <use
+     transform="translate(63.691147,2.389e-5)"
+     id="use3826"
+     xlink:href="#minimized-topright"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#minimized-left"
+     id="west-minimized-left"
+     transform="translate(63.690889,-4.1979543e-5)" />
+  <use
+     transform="translate(63.690885,-3.811e-5)"
+     id="west-minimized-center"
+     xlink:href="#minimized-center"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#minimized-right"
+     id="west-minimized-right"
+     transform="translate(63.69122,3.189e-5)" />
+  <use
+     transform="translate(63.690827,-7.211e-5)"
+     id="west-minimized-bottomleft"
+     xlink:href="#minimized-bottomleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#minimized-bottom"
+     id="west-minimized-bottom"
+     transform="translate(63.690887,-1.7311e-4)" />
+  <use
+     transform="translate(63.690888,-1.7811e-4)"
+     id="west-minimized-bottomright"
+     xlink:href="#minimized-bottomright"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-topleft"
+     id="north-attention-topleft"
+     transform="translate(21.230251,1.4228476e-5)" />
+  <use
+     transform="translate(21.230177,1.3228476e-5)"
+     id="north-attention-top"
+     xlink:href="#attention-top"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-topright"
+     id="north-attention-topright"
+     transform="translate(21.230238,-5.0771524e-5)" />
+  <use
+     transform="translate(21.230051,-5.292976e-5)"
+     id="north-attention-left"
+     xlink:href="#attention-left"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-center"
+     id="north-attention-center"
+     transform="translate(21.230312,1.4228476e-5)" />
+  <use
+     transform="translate(21.230531,-1.7817046e-4)"
+     id="north-attention-right"
+     xlink:href="#attention-right"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-bottomleft"
+     id="north-attention-bottomleft"
+     transform="translate(21.230003,-4.7928111e-4)" />
+  <use
+     transform="translate(21.230325,2.7217766e-4)"
+     id="north-attention-bottom"
+     xlink:href="#attention-bottom"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-bottomright"
+     id="north-attention-bottomright"
+     transform="translate(21.230299,1.4474227e-4)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-topleft"
+     id="west-attention-topleft"
+     transform="translate(63.690857,-9.3209549e-5)" />
+  <use
+     transform="translate(63.690783,-9.5209549e-5)"
+     id="west-attention-top"
+     xlink:href="#attention-top"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-topright"
+     id="west-attention-topright"
+     transform="translate(63.690848,-9.8209549e-5)" />
+  <use
+     transform="translate(63.690655,-1.6242976e-4)"
+     id="west-attention-left"
+     xlink:href="#attention-left"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-center"
+     id="west-attention-center"
+     transform="translate(63.690918,-9.4209549e-5)" />
+  <use
+     transform="translate(63.691133,-2.8617046e-4)"
+     id="west-attention-right"
+     xlink:href="#attention-right"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-bottomleft"
+     id="west-attention-bottomleft"
+     transform="translate(63.690607,-5.8878111e-4)" />
+  <use
+     transform="translate(63.690931,1.6373964e-4)"
+     id="west-attention-bottom"
+     xlink:href="#attention-bottom"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-bottomright"
+     id="west-attention-bottomright"
+     transform="translate(63.690847,-9.8457728e-5)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-topleft"
+     id="east-attention-topleft"
+     transform="translate(42.460738,-1.1094105e-4)" />
+  <use
+     transform="translate(42.460664,-1.1294105e-4)"
+     id="east-attention-top"
+     xlink:href="#attention-top"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-topright"
+     id="east-attention-topright"
+     transform="translate(42.460506,-1.0994105e-4)" />
+  <use
+     transform="translate(42.460392,1.0387024e-4)"
+     id="east-attention-left"
+     xlink:href="#attention-left"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-center"
+     id="east-attention-center"
+     transform="translate(42.460578,-1.0794105e-4)" />
+  <use
+     transform="translate(42.460793,-3.0017046e-4)"
+     id="east-attention-right"
+     xlink:href="#attention-right"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-bottomleft"
+     id="east-attention-bottomleft"
+     transform="translate(42.460344,-3.2248111e-4)" />
+  <use
+     transform="translate(42.460513,-1.1200122e-4)"
+     id="east-attention-bottom"
+     xlink:href="#attention-bottom"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-bottomright"
+     id="east-attention-bottomright"
+     transform="translate(42.460525,-1.2457728e-5)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-top"
+     id="attention-bottom"
+     transform="rotate(180,10.615207,94.692053)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#attention-top"
+     id="attention-right"
+     transform="rotate(90,10.615044,94.692023)" />
+  <use
+     transform="rotate(-90,10.615305,94.692079)"
+     id="attention-left"
+     xlink:href="#attention-top"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     transform="rotate(180,10.615212,94.692183)"
+     id="attention-bottomright"
+     xlink:href="#attention-topleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     transform="rotate(180,10.615337,94.692429)"
+     id="attention-bottomleft"
+     xlink:href="#attention-topright"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     transform="rotate(180,10.615117,52.23074)"
+     id="normal-bottomright"
+     xlink:href="#normal-topleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-top"
+     id="normal-bottom"
+     transform="rotate(180,10.615156,52.23074)" />
+  <use
+     transform="rotate(180,10.615121,52.230739)"
+     id="normal-bottomleft"
+     xlink:href="#normal-topright"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     transform="rotate(-90,10.615112,52.230707)"
+     id="normal-left"
+     xlink:href="#normal-top"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-top"
+     id="normal-right"
+     transform="rotate(90,10.615156,52.230482)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-topleft"
+     id="north-normal-topleft"
+     transform="translate(21.230153,-2.8937e-4)" />
+  <use
+     transform="translate(21.230185,1.6063e-4)"
+     id="north-normal-top"
+     xlink:href="#normal-top"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-topright"
+     id="north-normal-topright"
+     transform="translate(21.230176,-2.5137e-4)" />
+  <use
+     transform="translate(21.230152,-2.8837e-4)"
+     id="north-normal-left"
+     xlink:href="#normal-left"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-center"
+     id="north-normal-center"
+     transform="translate(21.230245,-9.937e-5)" />
+  <use
+     transform="translate(21.230509,-1.7437e-4)"
+     id="north-normal-right"
+     xlink:href="#normal-right"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-bottomleft"
+     id="north-normal-bottomleft"
+     transform="translate(21.230407,1.2863e-4)" />
+  <use
+     transform="translate(21.230472,2.763e-5)"
+     id="north-normal-bottom"
+     xlink:href="#normal-bottom"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-bottomright"
+     id="north-normal-bottomright"
+     transform="translate(21.23041,2.8663e-4)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-topleft"
+     id="east-normal-topleft"
+     transform="translate(42.460456,-3.8874e-4)" />
+  <use
+     transform="translate(42.460488,6.126e-5)"
+     id="east-normal-top"
+     xlink:href="#normal-top"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-topright"
+     id="east-normal-topright"
+     transform="translate(42.460479,-3.5074e-4)" />
+  <use
+     transform="translate(42.460455,-3.8774e-4)"
+     id="east-normal-left"
+     xlink:href="#normal-left"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-center"
+     id="east-normal-center"
+     transform="translate(42.460548,-1.9874e-4)" />
+  <use
+     transform="translate(42.460812,-2.7374e-4)"
+     id="east-normal-right"
+     xlink:href="#normal-right"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-bottomleft"
+     id="east-normal-bottomleft"
+     transform="translate(42.46071,2.926e-5)" />
+  <use
+     transform="translate(42.460775,-7.174e-5)"
+     id="east-normal-bottom"
+     xlink:href="#normal-bottom"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-bottomright"
+     id="east-normal-bottomright"
+     transform="translate(42.460713,1.8726e-4)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-topleft"
+     id="west-normal-topleft"
+     transform="translate(63.690754,-4.8811e-4)" />
+  <use
+     transform="translate(63.690786,-3.811e-5)"
+     id="west-normal-top"
+     xlink:href="#normal-top"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-topright"
+     id="west-normal-topright"
+     transform="translate(63.690777,-4.5011e-4)" />
+  <use
+     transform="translate(63.690753,-4.8711e-4)"
+     id="west-normal-left"
+     xlink:href="#normal-left"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-center"
+     id="west-normal-center"
+     transform="translate(63.690846,-2.9811e-4)" />
+  <use
+     transform="translate(63.69111,-3.7311e-4)"
+     id="west-normal-right"
+     xlink:href="#normal-right"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-bottomleft"
+     id="west-normal-bottomleft"
+     transform="translate(63.691008,-7.011e-5)" />
+  <use
+     transform="translate(63.691073,-1.7111e-4)"
+     id="west-normal-bottom"
+     xlink:href="#normal-bottom"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#normal-bottomright"
+     id="west-normal-bottomright"
+     transform="translate(63.691011,8.789e-5)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-bottomright"
+     id="north-hover-topleft"
+     transform="rotate(180,21.230042,73.46124)" />
+  <use
+     transform="matrix(1,0,0,-1,21.230337,146.92294)"
+     id="north-hover-top"
+     xlink:href="#hover-bottom"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-bottomleft"
+     id="north-hover-topright"
+     transform="rotate(180,21.230149,73.461533)" />
+  <use
+     transform="translate(21.230047,-1.4671136e-4)"
+     id="north-hover-left"
+     xlink:href="#hover-left"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-center"
+     id="north-hover-center"
+     transform="translate(21.23014,4.2288641e-5)" />
+  <use
+     transform="translate(21.230404,-3.2711359e-5)"
+     id="north-hover-right"
+     xlink:href="#hover-right"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#hover-topright"
+     id="north-hover-bottomleft"
+     transform="rotate(180,21.229995,73.461521)" />
+  <use
+     transform="matrix(1,0,0,-1,21.229721,146.92311)"
+     id="north-hover-bottom"
+     xlink:href="#hover-top"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-topleft"
+     id="north-hover-bottomright"
+     transform="rotate(180,21.230335,73.461647)" />
+  <use
+     transform="translate(42.461019,2.9843882e-4)"
+     id="east-hover-bottomright"
+     xlink:href="#hover-bottomright"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#hover-bottom"
+     id="east-hover-bottom"
+     transform="translate(42.460717,1.5343882e-4)" />
+  <use
+     transform="rotate(180,31.845339,73.461551)"
+     id="east-hover-topright"
+     xlink:href="#hover-bottomleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-left"
+     id="east-hover-top"
+     transform="rotate(90,31.845346,94.692073)" />
+  <use
+     transform="translate(42.460519,7.6438822e-5)"
+     id="east-hover-center"
+     xlink:href="#hover-center"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-right"
+     id="east-hover-right"
+     transform="translate(42.460783)" />
+  <use
+     transform="matrix(0,1,1,0,-20.385931,62.846781)"
+     id="east-hover-bottomleft"
+     xlink:href="#hover-topright"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-top"
+     id="east-hover-left"
+     transform="matrix(0,1,1,0,-20.385461,62.846396)" />
+  <use
+     transform="matrix(0,1,1,0,-20.386201,62.845997)"
+     id="east-hover-topleft"
+     xlink:href="#hover-topleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-bottomright"
+     id="west-hover-topleft"
+     transform="rotate(180,42.460503,73.461492)" />
+  <use
+     transform="translate(63.690645,4.2791432e-5)"
+     id="west-hover-bottom"
+     xlink:href="#hover-bottom"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-bottomleft"
+     id="west-hover-bottomleft"
+     transform="translate(63.690304,1.1079143e-4)" />
+  <use
+     transform="rotate(90,42.460365,105.30698)"
+     id="west-hover-top"
+     xlink:href="#hover-left"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-center"
+     id="west-hover-center"
+     transform="translate(63.690447,-3.4208568e-5)" />
+  <use
+     transform="matrix(-1,0,0,1,84.921129,1.8179143e-4)"
+     id="west-hover-left"
+     xlink:href="#hover-right"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#hover-topright"
+     id="west-hover-topright"
+     transform="matrix(0,-1,-1,0,147.76662,84.076821)" />
+  <use
+     transform="rotate(90,42.460314,105.3066)"
+     id="west-hover-right"
+     xlink:href="#hover-top"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#hover-topleft"
+     id="west-hover-bottomright"
+     transform="matrix(0,-1,-1,0,147.76758,84.076641)" />
+  <g
+     transform="matrix(-0.23077193,0,0,-0.23077193,45.461686,81.770035)"
+     id="focus-topleft">
+    <g
+       id="focus-base-topleft-8">
+      <path
+         style="opacity:0.125;fill:currentColor"
+         d="m -7,37.939453 v 14 l 14,-14 z"
+         transform="translate(183,207.06091)"
+         id="path6805-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         class="ColorScheme-ButtonFocus" />
+      <rect
+         transform="scale(-1)"
+         y="-265.99979"
+         x="-196.9986"
+         height="20.998299"
+         width="20.998299"
+         id="rect276-6-3-9"
+         style="fill:none" />
+    </g>
+    <g
+       id="focus-overlay-topleft-7">
+      <rect
+         transform="scale(-1)"
+         y="-265.99979"
+         x="-196.9986"
+         height="20.998299"
+         width="20.998299"
+         id="rect6885-5"
+         style="fill:none" />
+      <path
+         class="ColorScheme-ButtonFocus"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path918-1-3"
+         d="m 176.00028,252.00038 v 6.99998 l 13.99888,-13.99887 z"
+         style="fill:currentColor" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.23077193,0,0,0.23077447,-40.616248,-34.539819)"
+     id="focus-left">
+    <use
+       transform="matrix(0,-1.1628115,2.0000013,0,-307.00029,538.07544)"
+       id="minimized-bottomright-3-7-8-3-8"
+       xlink:href="#focus-base-top-8"
+       y="0"
+       x="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     transform="matrix(0.45996818,0,0,0.23077193,-94.007935,-34.539123)"
+     id="focus-right">
+    <use
+       height="100%"
+       width="100%"
+       x="0"
+       y="0"
+       xlink:href="#focus-base-top-8"
+       id="minimized-bottomright-3-7-8-3-1-1"
+       transform="matrix(0,-1.1628243,-1.0034263,0,492.86324,538.07667)" />
+  </g>
+  <g
+     transform="matrix(-0.46154387,0,0,-0.46154417,115.61636,156.30931)"
+     id="focus-bottomleft">
+    <use
+       height="100%"
+       width="100%"
+       x="0"
+       y="0"
+       xlink:href="#focus-base-topright-6"
+       id="minimized-bottomright-3-7-8-9" />
+  </g>
+  <g
+     transform="matrix(0.23077193,0,0,0.23077193,-39.000838,-32.923775)"
+     id="focus-bottom">
+    <use
+       transform="matrix(1.1628316,0,0,-2.0001195,-39.079583,806.02872)"
+       id="minimized-bottomright-3-7-43"
+       xlink:href="#focus-base-top-8"
+       y="0"
+       x="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     transform="matrix(0.46154387,0,0,0.46154387,-94.386045,-105.84796)"
+     id="focus-bottomright">
+    <use
+       height="100%"
+       width="100%"
+       transform="matrix(0.5,0,0,0.5,151.99988,186.50028)"
+       x="0"
+       y="0"
+       xlink:href="#focus-base-topleft-8"
+       id="minimized-bottomright-3-3" />
+  </g>
+  <g
+     transform="matrix(0.46154387,0,0,0.46154417,-94.386115,-94.309264)"
+     id="focus-topright">
+    <g
+       id="focus-base-topright-6">
+      <rect
+         y="248.50069"
+         x="240"
+         height="10.499143"
+         width="10.499149"
+         id="rect276-6-6-2-6-2-6-8-0"
+         style="fill:none" />
+      <use
+         height="100%"
+         width="100%"
+         x="0"
+         y="0"
+         xlink:href="#focus-base-center-0"
+         id="minimized-bottomright-3-7-4-4"
+         transform="matrix(0.28902309,0,0,-0.28900124,237.4313,262.14679)" />
+    </g>
+    <use
+       transform="matrix(0.16279943,0,0,-1.0000366,207.92909,500.50873)"
+       id="focus-overlay-topright-8"
+       xlink:href="#focus-overlay-top-7"
+       y="0"
+       x="0"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     transform="matrix(0.26833946,0,0,0.46154357,-48.017128,-91.078044)"
+     id="focus-top">
+    <g
+       id="focus-base-top-8">
+      <use
+         height="100%"
+         width="100%"
+         x="0"
+         y="0"
+         xlink:href="#focus-base-center-0"
+         id="minimized-bottomright-3-7-4-9-2-9"
+         transform="matrix(1.7753836,0,0,-0.28900162,181.21722,255.14634)" />
+      <rect
+         y="241.50011"
+         x="197.00024"
+         height="10.499152"
+         width="43.000027"
+         id="rect276-6-6-2-1-6-7"
+         style="fill:none" />
+    </g>
+    <g
+       id="focus-overlay-top-7">
+      <rect
+         y="241.50011"
+         x="197.00024"
+         height="10.499152"
+         width="43.000027"
+         id="rect6878-6"
+         style="fill:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         class="ColorScheme-ButtonFocus"
+         inkscape:connector-curvature="0"
+         id="path320-6-4-4"
+         d="m 240,244.99982 h -42.99999 v 3.5 H 240 Z"
+         style="fill:currentColor" />
+    </g>
+  </g>
+  <g
+     id="focus-center"
+     transform="matrix(0.47638881,0,0,0.47638881,0.61103098,20.043209)">
+    <rect
+       id="focus-base-center-0"
+       style="opacity:0.125;fill:currentColor"
+       width="24.220964"
+       height="24.220964"
+       x="8.8895111"
+       y="10.889518"
+       class="ColorScheme-ButtonFocus" />
+  </g>
+  <use
+     transform="rotate(180,21.230242,30.999848)"
      id="north-focus-topleft"
-     transform="rotate(180,21.230242,30.999848)" />
+     xlink:href="#focus-bottomright"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
   <use
-     transform="matrix(1,0,0,-1,21.229932,62.000495)"
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#focus-bottom"
      id="north-focus-top"
-     xlink:href="#focus-bottom"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
+     transform="matrix(1,0,0,-1,21.229932,62.000495)" />
   <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#focus-bottomleft"
+     transform="rotate(180,21.23023,31.000118)"
      id="north-focus-topright"
-     transform="rotate(180,21.23023,31.000118)" />
+     xlink:href="#focus-bottomleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
   <use
-     transform="translate(21.230548,-2.6677136e-4)"
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#focus-left"
      id="north-focus-left"
-     xlink:href="#focus-left"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
+     transform="translate(21.230548,-2.6677136e-4)" />
   <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#focus-center"
+     transform="translate(21.230139,2.7031864e-4)"
      id="north-focus-center"
-     transform="translate(21.230139,2.7031864e-4)" />
+     xlink:href="#focus-center"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
   <use
-     transform="translate(21.229942,3.1656864e-4)"
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#focus-right"
      id="north-focus-right"
-     xlink:href="#focus-right"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
+     transform="translate(21.229942,3.1656864e-4)" />
   <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#focus-topright"
+     transform="rotate(180,21.230363,31.000103)"
      id="north-focus-bottomleft"
-     transform="rotate(180,21.230363,31.000103)" />
+     xlink:href="#focus-topright"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
   <use
-     transform="matrix(1,0,0,-1,21.230217,62.00031)"
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#focus-top"
      id="north-focus-bottom"
-     xlink:href="#focus-top"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
+     transform="matrix(1,0,0,-1,21.230217,62.00031)" />
   <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#focus-topleft"
+     transform="rotate(180,21.230216,31.000373)"
      id="north-focus-bottomright"
-     transform="rotate(180,21.230216,31.000373)" />
+     xlink:href="#focus-topleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
   <use
-     transform="translate(42.46066,6.446084e-4)"
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#focus-bottomright"
      id="east-focus-bottomright"
-     xlink:href="#focus-bottomright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
+     transform="translate(42.46066,6.446084e-4)" />
   <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#focus-bottom"
+     transform="translate(42.460414,3.8548688e-4)"
      id="east-focus-bottom"
-     transform="translate(42.460414,3.8548688e-4)" />
-  <use
-     transform="rotate(180,31.84528,31.00004)"
-     id="east-focus-topright"
-     xlink:href="#focus-bottomleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#focus-left"
-     id="east-focus-top"
-     transform="rotate(90,31.845135,52.23072)" />
-  <use
-     transform="translate(42.460343,2.1665439e-4)"
-     id="east-focus-center"
-     xlink:href="#focus-center"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#focus-right"
-     id="east-focus-right"
-     transform="translate(42.460424,3.5389485e-4)" />
-  <use
-     transform="matrix(0,1,1,0,22.075746,20.385469)"
-     id="east-focus-bottomleft"
-     xlink:href="#focus-topright"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#focus-top"
-     id="east-focus-left"
-     transform="matrix(0,1,1,0,22.075647,20.385254)" />
-  <use
-     transform="matrix(0,1,1,0,22.075543,20.385042)"
-     id="east-focus-topleft"
-     xlink:href="#focus-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#focus-bottomright"
-     id="west-focus-topleft"
-     transform="rotate(180,42.460479,31.000248)" />
-  <use
-     transform="translate(63.690934,1.5125485e-4)"
-     id="west-focus-bottom"
      xlink:href="#focus-bottom"
      height="100%"
      y="0"
@@ -2150,11 +2073,11 @@
      height="100%"
      style="fill:#ffffff"
      xlink:href="#focus-bottomleft"
-     id="west-focus-bottomleft"
-     transform="translate(63.690593,2.1925485e-4)" />
+     id="east-focus-topright"
+     transform="rotate(180,31.84528,31.00004)" />
   <use
-     transform="rotate(90,42.460404,62.845846)"
-     id="west-focus-top"
+     transform="rotate(90,31.845135,52.23072)"
+     id="east-focus-top"
      xlink:href="#focus-left"
      style="fill:#ffffff"
      height="100%"
@@ -2168,11 +2091,11 @@
      height="100%"
      style="fill:#ffffff"
      xlink:href="#focus-center"
-     id="west-focus-center"
-     transform="translate(63.690736,7.4254849e-5)" />
+     id="east-focus-center"
+     transform="translate(42.460343,2.1665439e-4)" />
   <use
-     transform="matrix(-1,0,0,1,84.921418,2.9025485e-4)"
-     id="west-focus-left"
+     transform="translate(42.460424,3.5389485e-4)"
+     id="east-focus-right"
      xlink:href="#focus-right"
      style="fill:#ffffff"
      height="100%"
@@ -2185,11 +2108,11 @@
      y="0"
      height="100%"
      xlink:href="#focus-topright"
-     id="west-focus-topright"
-     transform="matrix(0,-1,-1,0,105.30577,41.615404)" />
+     id="east-focus-bottomleft"
+     transform="matrix(0,1,1,0,22.075746,20.385469)" />
   <use
-     transform="rotate(90,42.460355,62.845466)"
-     id="west-focus-right"
+     transform="matrix(0,1,1,0,22.075647,20.385254)"
+     id="east-focus-left"
      xlink:href="#focus-top"
      style="fill:#ffffff"
      height="100%"
@@ -2203,169 +2126,169 @@
      height="100%"
      style="fill:#ffffff"
      xlink:href="#focus-topleft"
+     id="east-focus-topleft"
+     transform="matrix(0,1,1,0,22.075543,20.385042)" />
+  <use
+     transform="rotate(180,42.460479,31.000248)"
+     id="west-focus-topleft"
+     xlink:href="#focus-bottomright"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#focus-bottom"
+     id="west-focus-bottom"
+     transform="translate(63.690934,1.5125485e-4)" />
+  <use
+     transform="translate(63.690593,2.1925485e-4)"
+     id="west-focus-bottomleft"
+     xlink:href="#focus-bottomleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#focus-left"
+     id="west-focus-top"
+     transform="rotate(90,42.460404,62.845846)" />
+  <use
+     transform="translate(63.690736,7.4254849e-5)"
+     id="west-focus-center"
+     xlink:href="#focus-center"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#focus-right"
+     id="west-focus-left"
+     transform="matrix(-1,0,0,1,84.921418,2.9025485e-4)" />
+  <use
+     transform="matrix(0,-1,-1,0,105.30577,41.615404)"
+     id="west-focus-topright"
+     xlink:href="#focus-topright"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#focus-top"
+     id="west-focus-right"
+     transform="rotate(90,42.460355,62.845466)" />
+  <use
+     transform="matrix(0,-1,-1,0,105.30601,41.615551)"
      id="west-focus-bottomright"
-     transform="matrix(0,-1,-1,0,105.30601,41.615551)" />
+     xlink:href="#focus-topleft"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
   <use
-     transform="rotate(180,21.230179,9.7690268)"
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#progress-bottomright"
      id="north-progress-topleft"
-     xlink:href="#progress-bottomright"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
+     transform="rotate(180,21.230179,9.7690268)" />
   <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#progress-bottom"
+     transform="matrix(1,0,0,-1,21.229806,19.538851)"
      id="north-progress-top"
-     transform="matrix(1,0,0,-1,21.229806,19.538851)" />
+     xlink:href="#progress-bottom"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
   <use
-     transform="rotate(180,21.230241,9.7692968)"
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#progress-bottomleft"
      id="north-progress-topright"
-     xlink:href="#progress-bottomleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
+     transform="rotate(180,21.230241,9.7692968)" />
   <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#progress-left"
+     transform="translate(21.230501,-1.1148567e-4)"
      id="north-progress-left"
-     transform="translate(21.230501,-1.1148567e-4)" />
+     xlink:href="#progress-left"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
   <use
-     transform="translate(21.230125)"
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#progress-center"
      id="north-progress-center"
-     xlink:href="#progress-center"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
+     transform="translate(21.230125)" />
   <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#progress-right"
+     transform="translate(21.229963,4.2151433e-4)"
      id="north-progress-right"
-     transform="translate(21.229963,4.2151433e-4)" />
+     xlink:href="#progress-right"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
   <use
-     transform="rotate(180,21.2303,9.7690158)"
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#progress-topright"
      id="north-progress-bottomleft"
-     xlink:href="#progress-topright"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
+     transform="rotate(180,21.2303,9.7690158)" />
   <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#progress-top"
+     transform="matrix(1,0,0,-1,21.230091,19.538135)"
      id="north-progress-bottom"
-     transform="matrix(1,0,0,-1,21.230091,19.538135)" />
+     xlink:href="#progress-top"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
   <use
-     transform="rotate(180,21.230153,9.7692858)"
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#progress-topleft"
      id="north-progress-bottomright"
-     xlink:href="#progress-topleft"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
+     transform="rotate(180,21.230153,9.7692858)" />
   <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#progress-bottomright"
+     transform="translate(42.460873,0.23077493)"
      id="east-focus-bottomright-7"
-     transform="translate(42.460873,0.23077493)" />
-  <use
-     transform="translate(42.460627,0.23061993)"
-     id="east-progress-bottom"
-     xlink:href="#progress-bottom"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#progress-bottomleft"
-     id="east-progress-topright"
-     transform="rotate(180,31.84554,9.88473)" />
-  <use
-     transform="rotate(90,31.729945,31.114717)"
-     id="east-progress-top"
-     xlink:href="#progress-left"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#progress-center"
-     id="east-progress-center"
-     transform="translate(42.460556,0.23078693)" />
-  <use
-     transform="translate(42.460919,0.23081393)"
-     id="east-progress-right"
-     xlink:href="#progress-right"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     xlink:href="#progress-topright"
-     id="east-progress-bottomleft"
-     transform="matrix(0,1,1,0,43.30593,-0.61507107)" />
-  <use
-     transform="matrix(0,1,1,0,43.306713,-0.61492607)"
-     id="east-progress-left"
-     xlink:href="#progress-top"
-     style="fill:#ffffff"
-     height="100%"
-     y="0"
-     x="0"
-     width="100%" />
-  <use
-     width="100%"
-     x="0"
-     y="0"
-     height="100%"
-     style="fill:#ffffff"
-     xlink:href="#progress-topleft"
-     id="east-progress-topleft"
-     transform="matrix(0,1,1,0,43.306343,-0.61501007)" />
-  <use
-     transform="rotate(180,42.460526,9.8847122)"
-     id="west-progress-topleft"
      xlink:href="#progress-bottomright"
      style="fill:#ffffff"
      height="100%"
@@ -2378,11 +2301,11 @@
      y="0"
      height="100%"
      xlink:href="#progress-bottom"
-     id="west-progress-bottom"
-     transform="translate(63.691029,0.23080048)" />
+     id="east-progress-bottom"
+     transform="translate(42.460627,0.23061993)" />
   <use
-     transform="translate(63.690688,0.23048448)"
-     id="west-progress-bottomleft"
+     transform="rotate(180,31.84554,9.88473)"
+     id="east-progress-topright"
      xlink:href="#progress-bottomleft"
      style="fill:#ffffff"
      height="100%"
@@ -2396,11 +2319,11 @@
      height="100%"
      style="fill:#ffffff"
      xlink:href="#progress-left"
-     id="west-progress-top"
-     transform="rotate(90,42.344994,41.73007)" />
+     id="east-progress-top"
+     transform="rotate(90,31.729945,31.114717)" />
   <use
-     transform="translate(63.690831,0.23082648)"
-     id="west-progress-center"
+     transform="translate(42.460556,0.23078693)"
+     id="east-progress-center"
      xlink:href="#progress-center"
      style="fill:#ffffff"
      height="100%"
@@ -2414,11 +2337,11 @@
      height="100%"
      style="fill:#ffffff"
      xlink:href="#progress-right"
-     id="west-progress-left"
-     transform="matrix(-1,0,0,1,84.921512,0.23085948)" />
+     id="east-progress-right"
+     transform="translate(42.460919,0.23081393)" />
   <use
-     transform="matrix(0,-1,-1,0,84.075219,20.614973)"
-     id="west-progress-topright"
+     transform="matrix(0,1,1,0,43.30593,-0.61507107)"
+     id="east-progress-bottomleft"
      xlink:href="#progress-topright"
      height="100%"
      y="0"
@@ -2431,11 +2354,11 @@
      height="100%"
      style="fill:#ffffff"
      xlink:href="#progress-top"
-     id="west-progress-right"
-     transform="rotate(90,42.345024,41.730035)" />
+     id="east-progress-left"
+     transform="matrix(0,1,1,0,43.306713,-0.61492607)" />
   <use
-     transform="matrix(0,-1,-1,0,84.07506,20.615451)"
-     id="west-progress-bottomright"
+     transform="matrix(0,1,1,0,43.306343,-0.61501007)"
+     id="east-progress-topleft"
      xlink:href="#progress-topleft"
      style="fill:#ffffff"
      height="100%"
@@ -2448,12 +2371,82 @@
      y="0"
      height="100%"
      style="fill:#ffffff"
-     xlink:href="#group-expander-bottom"
-     id="group-expander-top"
-     transform="rotate(180,96,120)" />
+     xlink:href="#progress-bottomright"
+     id="west-progress-topleft"
+     transform="rotate(180,42.460526,9.8847122)" />
   <use
-     transform="rotate(90,102.43336,119.56664)"
-     id="group-expander-left"
+     transform="translate(63.691029,0.23080048)"
+     id="west-progress-bottom"
+     xlink:href="#progress-bottom"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#progress-bottomleft"
+     id="west-progress-bottomleft"
+     transform="translate(63.690688,0.23048448)" />
+  <use
+     transform="rotate(90,42.344994,41.73007)"
+     id="west-progress-top"
+     xlink:href="#progress-left"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#progress-center"
+     id="west-progress-center"
+     transform="translate(63.690831,0.23082648)" />
+  <use
+     transform="matrix(-1,0,0,1,84.921512,0.23085948)"
+     id="west-progress-left"
+     xlink:href="#progress-right"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#progress-topright"
+     id="west-progress-topright"
+     transform="matrix(0,-1,-1,0,84.075219,20.614973)" />
+  <use
+     transform="rotate(90,42.345024,41.730035)"
+     id="west-progress-right"
+     xlink:href="#progress-top"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     style="fill:#ffffff"
+     xlink:href="#progress-topleft"
+     id="west-progress-bottomright"
+     transform="matrix(0,-1,-1,0,84.07506,20.615451)" />
+  <use
+     transform="rotate(180,96,120)"
+     id="group-expander-top"
      xlink:href="#group-expander-bottom"
      style="fill:#ffffff"
      height="100%"
@@ -2467,6 +2460,15 @@
      height="100%"
      style="fill:#ffffff"
      xlink:href="#group-expander-bottom"
+     id="group-expander-left"
+     transform="rotate(90,102.43336,119.56664)" />
+  <use
+     transform="matrix(0,1,1,0,-30.480243,17.339922)"
      id="group-expander-right"
-     transform="matrix(0,1,1,0,-30.480243,17.339922)" />
+     xlink:href="#group-expander-bottom"
+     style="fill:#ffffff"
+     height="100%"
+     y="0"
+     x="0"
+     width="100%" />
 </svg>

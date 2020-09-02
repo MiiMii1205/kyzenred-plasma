@@ -14,7 +14,9 @@
    sodipodi:docname="go.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
           <style
-     id="current-color-scheme" />
+     id="current-color-scheme" >
+      .ColorScheme-Text{color:rgb(255,248,247);} .ColorScheme-Background{color:rgb(3,27,22);} .ColorScheme-Highlight{color:rgb(229,27,66);} .ColorScheme-ViewText{color:rgb(250,233,232);} .ColorScheme-ViewBackground{color:rgb(1,13,10);} .ColorScheme-ViewHover{color:rgb(148,34,40);} .ColorScheme-ViewFocus{color:rgb(201,30,60);} .ColorScheme-ButtonText{color:rgb(233,245,243);} .ColorScheme-ButtonBackground{color:rgb(28,4,8);} .ColorScheme-ButtonHover{color:rgb(148,34,40);} .ColorScheme-ButtonFocus{color:rgb(201,30,60);}
+  </style>
   <metadata
      id="metadata58">
     <rdf:RDF>
@@ -54,11 +56,12 @@
      id="22-22-go-home"
      transform="translate(-465.0004,83.003354)">
     <path
-       style="opacity:0.001"
+       style="fill:none"
        d="m 465.0004,-105.00336 h 22 v 22.000003 h -22 z"
        id="path2" />
     <path
        style="fill:currentColor"
+       class="ColorScheme-ViewText"
        d="m 476.00081,-102.00336 -8.00041,8.00034 h 2.0017 l -10e-4,7.99969 h 4.66668 v -3.281253 l 0.71745,-0.718755 h 1.94922 v 3.28256 l -0.71745,0.717448 h 3.94792 l 1.43621,-1.434896 v -6.564794 h 1.99961 z"
        id="path1042-2"
        inkscape:connector-curvature="0"
@@ -68,11 +71,11 @@
      id="22-22-go-up"
      transform="translate(-457.0004,83.003357)">
     <path
-       style="opacity:0.001"
+       style="fill:none"
        d="m 489.0004,-105.00336 v 22 h 22 v -22 z"
        id="path7" />
     <path
-       style="fill:currentColor;stroke-width:1.42271578;enable-background:new"
+       style="fill:currentColor;enable-background:new"
        d="m 499.5004,-102.00336 -6.62452,6.618967 v 1.978465 l 0.96701,0.967 4.23479,-4.234804 v 9.247655 l 1.42272,1.422716 1.42272,-1.422716 v -9.247655 l 4.2348,4.234804 0.967,-0.967 v -1.978465 z"
        id="path183-5"
        inkscape:connector-curvature="0"
@@ -83,7 +86,7 @@
      id="22-22-go-down"
      transform="matrix(1,0,0,-1,-425.0004,-105.00336)">
     <path
-       style="opacity:0.001"
+       style="fill:none"
        d="m 489.0004,-105.00336 v 22 h 22 v -22 z"
        id="path12" />
     <path
@@ -98,7 +101,7 @@
      id="22-22-go-previous"
      transform="translate(-441.0004,83.003357)">
     <path
-       style="opacity:0.001"
+       style="fill:none"
        d="m 537.0004,-105.00336 h 22 v 22 h -22 z"
        id="path17" />
     <path
@@ -113,7 +116,7 @@
      id="22-22-go-next"
      transform="matrix(-1,0,0,1,687.0004,83.003357)">
     <path
-       style="opacity:0.001"
+       style="fill:none"
        d="m 537.0004,-105.00336 h 22 v 22 h -22 z"
        id="path22" />
     <path
@@ -128,13 +131,14 @@
      id="go-home"
      transform="translate(3.4089999e-7,1.88644e-6)">
     <path
-       style="opacity:0.001"
+       style="fill:none"
        d="M -6.8179997e-7,-4.77288e-6 H 32 V 32.000001 H -6.8179997e-7 Z"
        id="path27" />
     <path
        style="fill:currentColor"
        d="M 16.000602,4.0000002 4.0000235,16.00049 H 7.0025556 L 7.0005556,28 H 14.000555 V 23.07813 L 15.076726,22 h 2.923829 v 4.92383 L 16.924383,28 h 5.921875 l 2.154297,-2.15234 v -9.84717 h 2.999421 z"
        id="path1042"
+       class="ColorScheme-ViewText"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc" />
   </g>
@@ -142,7 +146,7 @@
      id="go-up"
      transform="translate(31.999999,1.88644e-6)">
     <path
-       style="opacity:0.001"
+       style="fill:none"
        d="M 1.3182e-6,-4.77288e-6 V 31.999996 H 32.000002 V -4.77288e-6 Z"
        id="path32" />
     <path
@@ -157,7 +161,7 @@
      id="go-down"
      transform="matrix(1,0,0,-1,64,31.999993)">
     <path
-       style="opacity:0.001"
+       style="fill:none"
        d="M 1.3182e-6,-4.77288e-6 V 31.999996 H 32.000002 V -4.77288e-6 Z"
        id="path37" />
     <path
@@ -172,7 +176,7 @@
      id="go-previous"
      transform="matrix(0,1,1,0,96.000007,-4.22712e-6)">
     <path
-       style="opacity:0.001"
+       style="fill:none"
        d="M 1.3182e-6,-4.77288e-6 V 31.999996 H 32.000002 V -4.77288e-6 Z"
        id="path42" />
     <path
@@ -187,7 +191,7 @@
      id="go-next"
      transform="rotate(90,80.000003,79.999999)">
     <path
-       style="opacity:0.001"
+       style="fill:none"
        d="M 1.3182e-6,-4.77288e-6 V 31.999996 H 32.000002 V -4.77288e-6 Z"
        id="path47" />
     <path
