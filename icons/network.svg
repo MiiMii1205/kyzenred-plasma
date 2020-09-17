@@ -12,9 +12,9 @@
    version="1.1"
    id="svg2658"
    sodipodi:docname="network.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <style
-     id="current-color-scheme" >
+     id="current-color-scheme">
       .ColorScheme-Text{color:rgb(255,248,247);} .ColorScheme-Background{color:rgb(3,27,22);} .ColorScheme-Highlight{color:rgb(229,27,66);} .ColorScheme-ViewText{color:rgb(250,233,232);} .ColorScheme-ViewBackground{color:rgb(1,13,10);} .ColorScheme-ViewHover{color:rgb(148,34,40);} .ColorScheme-ViewFocus{color:rgb(201,30,60);} .ColorScheme-ButtonText{color:rgb(233,245,243);} .ColorScheme-ButtonBackground{color:rgb(28,4,8);} .ColorScheme-ButtonHover{color:rgb(148,34,40);} .ColorScheme-ButtonFocus{color:rgb(201,30,60);}
   </style>
   <metadata
@@ -39,8 +39,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1720"
-     inkscape:window-height="1298"
+     inkscape:window-width="1996"
+     inkscape:window-height="1407"
      id="namedview2660"
      showgrid="false"
      showguides="false"
@@ -51,14 +51,15 @@
      inkscape:snap-bbox="false"
      inkscape:bbox-nodes="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="68.445506"
-     inkscape:cy="-63.997999"
-     inkscape:window-x="1720"
+     inkscape:cx="172.79254"
+     inkscape:cy="-131.60364"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2658"
+     inkscape:current-layer="22-22-network-wireless-on-8-4"
      inkscape:snap-center="true"
-     inkscape:snap-object-midpoints="false">
+     inkscape:snap-object-midpoints="false"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="269,-74.04999"
        orientation="1,0"
@@ -491,7 +492,7 @@
            transform="matrix(1.0001356,0,0,1,478.76187,-237.0289)"
            id="path2425-4-1-9-6-9"
            inkscape:connector-curvature="0"
-           class="" />
+           class="ColorScheme-Text" />
       </g>
     </g>
   </g>
@@ -1143,10 +1144,10 @@
            id="rect140-6-0" />
       </g>
       <path
-         inkscape:connector-curvature="0"
-         style="opacity:0.3;fill"
-         d="m -256.07812,183.62109 v 1.53321 l 10.99609,11 3.66797,-3.66797 -10.43164,-8.86524 z m 10.4121,0 7.08985,6.02735 4.49414,-4.49414 v -1.53321 z"
          transform="matrix(1.0001356,0,0,1,597.1146,-206.1534)"
+         inkscape:connector-curvature="0"
+         style="opacity:0.3;fill:currentColor"
+         d="m -256.07812,183.62109 v 1.53321 l 10.99609,11 3.66797,-3.66797 -10.43164,-8.86524 z m 10.4121,0 7.08985,6.02735 4.49414,-4.49414 v -1.53321 z"
          id="path2464-7-4-2-3-3"
          class="ColorScheme-Text" />
       <path
@@ -10334,7 +10335,10 @@
    id="path13064"
    transform="translate(-584.33366,-646.73925)"
    d="m 592.33398,650.73828 -1.07226,0.002 -0.92774,0.92774 v 4.07031 l 0.87891,2.1211 2.12109,0.8789 2.1211,-0.8789 0.8789,-2.1211 v -5 l -1.07226,0.002 -0.92774,0.92774 v 4.07031 l -0.29296,0.70899 -0.70704,0.29101 -0.70703,-0.29297 -0.29297,-0.70703 z"
-   style="fill:currentColor                 class=" />
+   style="fill:currentColor             "
+   class="ColorScheme-Text" />
+
+
 ColorScheme-Text&quot;&quot; /&gt;
       </g>
       <g

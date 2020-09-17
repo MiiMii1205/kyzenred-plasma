@@ -6,13 +6,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="44"
-   height="44"
-   version="1.1"
-   viewBox="0 0 11.64 11.64"
-   id="svg24"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="arrows.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   id="svg24"
+   viewBox="0 0 11.64 11.64"
+   version="1.1"
+   height="44"
+   width="44">
   <svg:metadata
      id="metadata30">
     <rdf:RDF>
@@ -25,193 +25,194 @@
     </rdf:RDF>
   </svg:metadata>
   <style
-     id="current-color-scheme" >
+     id="current-color-scheme">
       .ColorScheme-Text{color:rgb(255,248,247);} .ColorScheme-Background{color:rgb(3,27,22);} .ColorScheme-Highlight{color:rgb(229,27,66);} .ColorScheme-ViewText{color:rgb(250,233,232);} .ColorScheme-ViewBackground{color:rgb(1,13,10);} .ColorScheme-ViewHover{color:rgb(148,34,40);} .ColorScheme-ViewFocus{color:rgb(201,30,60);} .ColorScheme-ButtonText{color:rgb(233,245,243);} .ColorScheme-ButtonBackground{color:rgb(28,4,8);} .ColorScheme-ButtonHover{color:rgb(148,34,40);} .ColorScheme-ButtonFocus{color:rgb(201,30,60);}
   </style>
   <svg:defs
      id="defs28" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="859"
-     inkscape:window-height="633"
-     id="namedview26"
-     showgrid="false"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     inkscape:snap-center="true"
-     inkscape:zoom="15.170655"
-     inkscape:cx="28.52178"
-     inkscape:cy="28.965728"
-     inkscape:window-x="859"
-     inkscape:window-y="661"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g22"
      inkscape:window-maximized="0"
-     inkscape:current-layer="up-arrow">
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="35.574455"
+     inkscape:cx="20.592768"
+     inkscape:zoom="7.5853275"
+     inkscape:snap-center="true"
+     inkscape:guide-bbox="true"
+     showguides="false"
+     showgrid="false"
+     id="namedview26"
+     inkscape:window-height="1407"
+     inkscape:window-width="1718"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
     <sodipodi:guide
-       position="1.322911,5.819165"
-       orientation="-0.70710678,0.70710678"
+       inkscape:locked="false"
        id="guide844"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="1.322911,5.819165"
-       orientation="0.70710678,0.70710678"
-       id="guide852"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.3812411,6.2226777"
-       orientation="0,1"
-       id="guide894"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.3812365,5.4156519"
-       orientation="0,1"
-       id="guide896"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.381241,4.760831"
-       orientation="0,1"
-       id="guide900"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.6723693,6.0422574"
-       orientation="0,1"
-       id="guide904"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.5836025,6.5500888"
-       orientation="0,1"
-       id="guide908"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.381241,5.1700883"
-       orientation="1,0"
-       id="guide910"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.381241,5.2519463"
        orientation="-0.70710678,0.70710678"
-       id="guide914"
-       inkscape:locked="false" />
+       position="1.322911,5.819165" />
     <sodipodi:guide
-       position="2.7377661,4.9245366"
-       orientation="0,1"
-       id="guide918"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.7377661,5.2519463"
-       orientation="0,1"
-       id="guide920"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.5686987,6.386382"
-       orientation="0,1"
-       id="guide922"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.6069769,6.6831029"
-       orientation="0,1"
-       id="guide924"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.381241,6.877495"
-       orientation="0,1"
-       id="guide973"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.381241,6.386382"
+       inkscape:locked="false"
+       id="guide852"
        orientation="0.70710678,0.70710678"
-       id="guide979"
-       inkscape:locked="false" />
+       position="1.322911,5.819165" />
     <sodipodi:guide
-       position="2.7019082,5.1700883"
+       inkscape:locked="false"
+       id="guide894"
        orientation="0,1"
+       position="2.3812411,6.2226777" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide896"
+       orientation="0,1"
+       position="2.3812365,5.4156519" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide900"
+       orientation="0,1"
+       position="2.381241,4.760831" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide904"
+       orientation="0,1"
+       position="2.6723693,6.0422574" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide908"
+       orientation="0,1"
+       position="2.5836025,6.5500888" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide910"
+       orientation="1,0"
+       position="2.381241,5.1700883" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide914"
+       orientation="-0.70710678,0.70710678"
+       position="2.381241,5.2519463" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide918"
+       orientation="0,1"
+       position="2.7377661,4.9245366" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide920"
+       orientation="0,1"
+       position="2.7377661,5.2519463" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide922"
+       orientation="0,1"
+       position="2.5686987,6.386382" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide924"
+       orientation="0,1"
+       position="2.6069769,6.6831029" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide973"
+       orientation="0,1"
+       position="2.381241,6.877495" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide979"
+       orientation="0.70710678,0.70710678"
+       position="2.381241,6.386382" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide983"
-       inkscape:locked="false" />
+       orientation="0,1"
+       position="2.7019082,5.1700883" />
   </sodipodi:namedview>
   <svg:g
-     transform="translate(-11.641649,-261.54584)"
-     id="g22">
+     id="g22"
+     transform="translate(-11.641649,-261.54584)">
     <svg:g
-       id="up-arrow"
-       transform="translate(-1.3769874e-5,6.6146114)">
+       transform="translate(-1.3769874e-5,6.6146114)"
+       id="up-arrow">
       <svg:rect
-         style="fill:none"
-         width="3.704"
-         height="3.704"
-         x="254.93"
-         y="15.61"
+         id="rect2"
          transform="matrix(0,1,1,0,0,0)"
-         id="rect2" />
+         y="15.61"
+         x="254.93"
+         height="3.704"
+         width="3.704"
+         style="fill:none" />
       <svg:path
-         style="fill:currentColor;stroke-width:1"
-         d="m 17.477836,256.25415 0.81277,0.81277 -0.24555,0.24556 h -1.13444 l -0.24556,-0.24556 z"
+         class="ColorScheme-Text"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
          id="path19-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc"
-         class="ColorScheme-Text" />
+         d="m 17.477836,256.25415 0.81277,0.81277 -0.24555,0.24556 h -1.13444 l -0.24556,-0.24556 z"
+         style="fill:currentColor;stroke-width:1" />
     </svg:g>
     <svg:g
-       id="down-arrow"
-       transform="matrix(1,0,0,-1,-1.4008293e-5,528.11874)">
+       transform="matrix(1,0,0,-1,-1.4008293e-5,528.11874)"
+       id="down-arrow">
       <svg:rect
-         style="fill:none"
-         width="3.704"
-         height="3.704"
-         x="254.93"
-         y="15.61"
+         id="rect7"
          transform="matrix(0,1,1,0,0,0)"
-         id="rect7" />
+         y="15.61"
+         x="254.93"
+         height="3.704"
+         width="3.704"
+         style="fill:none" />
       <svg:path
-         style="fill:currentColor;stroke-width:1"
-         d="m 17.461995,256.25283 -0.81277,0.81277 0.24556,0.24556 h 1.13443 l 0.24556,-0.24556 z"
+         class="ColorScheme-Text"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
          id="path19-56"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc"
-         class="ColorScheme-Text" />
+         d="m 17.461995,256.25283 -0.81277,0.81277 0.24556,0.24556 h 1.13443 l 0.24556,-0.24556 z"
+         style="fill:currentColor;stroke-width:1" />
     </svg:g>
     <svg:g
-       id="right-arrow"
-       transform="matrix(0,1,-1,0,278.21454,249.90418)">
+       transform="matrix(0,1,-1,0,278.21454,249.90418)"
+       id="right-arrow">
       <svg:rect
-         style="fill:none"
-         width="3.704"
-         height="3.704"
-         x="254.93"
-         y="15.61"
+         id="rect12"
          transform="matrix(0,1,1,0,0,0)"
-         id="rect12" />
+         y="15.61"
+         x="254.93"
+         height="3.704"
+         width="3.704"
+         style="fill:none" />
       <svg:path
-         style="fill:currentColor;stroke-width:1"
-         d="m 17.47734,256.25283 0.81277,0.81277 -0.24556,0.24556 h -1.13443 l -0.24556,-0.24556 z"
+         class="ColorScheme-Text"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
          id="path19-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc"
-         class="ColorScheme-Text" />
+         d="m 17.47734,256.25283 0.81277,0.81277 -0.24556,0.24556 h -1.13443 l -0.24556,-0.24556 z"
+         style="fill:currentColor" />
     </svg:g>
     <svg:g
-       id="left-arrow"
-       transform="matrix(0,1,1,0,-243.28958,249.90418)">
+       transform="matrix(0,1,1,0,-243.28958,249.90418)"
+       id="left-arrow">
       <svg:rect
-         style="fill:none"
-         width="3.704"
-         height="3.704"
-         x="254.93"
-         y="15.61"
+         id="rect17"
          transform="matrix(0,1,1,0,0,0)"
-         id="rect17" />
+         y="15.61"
+         x="254.93"
+         height="3.704"
+         width="3.704"
+         style="fill:none" />
       <svg:path
-         style="fill:currentColor"
-         d="m 17.462495,256.25414 -0.812773,0.81277 0.245556,0.24556 h 1.134436 l 0.245555,-0.24556 z"
-         id="path19"
-         inkscape:connector-curvature="0"
+         class="ColorScheme-Text"
          sodipodi:nodetypes="cccccc"
-         class="ColorScheme-Text" />
+         inkscape:connector-curvature="0"
+         id="path19"
+         d="m 17.462495,256.25414 -0.812773,0.81277 0.245556,0.24556 h 1.134436 l 0.245555,-0.24556 z"
+         style="fill:currentColor" />
     </svg:g>
   </svg:g>
 </svg:svg>
